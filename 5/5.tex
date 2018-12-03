@@ -1,0 +1,124 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[all,cmtip]{xy}
+
+\setlength\overfullrule{5pt}
+
+\newcommand{\pois}[1]{}
+\title{ Weekly Exercise 5}
+\author{Shubo Yan }
+\date{27.9.2017}
+\begin{document}
+\maketitle
+\newpage
+\section{Question 1}
+\begin{tabular}{l}
+$\sin A\cos B = \left( \sin\left(A-B \right) + \sin\left(A+B\right)\right) / 2$
+\\ \\
+\fbox{$\displaystyle\sin A \cos B = \left(\sin\left(A-B \right)+\sin\left( A+B\right)\right)/2$}
+\\ \\
+$\sin A\cos B= \frac{\sin\left(A-B\right)+\sin\left(A+B\right)}{2}$
+\\ \\
+\fbox{$\displaystyle\sin A\cos B= \frac{\sin\left(A-B\right)+\sin\left(A+B\right)}{2}$}
+\\ \\
+$\sin A\cos B= \frac{1}{2}\left(\sin\left(A-B\right)+\sin\left(A+B\right)\right)$
+\\ \\
+\fbox{$\displaystyle\sin A\cos B= \frac{1}{2}\left(\sin\left(A-B\right)+\sin\left(A+B\right)\right)$}
+\\ \\
+$\sin A\cos B = \frac{1}{2}\bigl(\sin\left(A-B\right)+\sin\left(A+B\right)\bigr)$
+\\ \\
+\fbox{$\displaystyle\sin A\cos B = \frac{1}{2}\bigl(\sin\left(A-B\right)+\sin\left(A+B\right)\bigr)$}
+\\ \\
+$e^\phi=\cos\phi+i\sin\phi$ \qquad   
+\fbox{$e\displaystyle^\phi=\cos\phi+i\sin\phi$}
+\\ \\
+$f(x)=\frac{d}{dx}\left(\int_0^x f(u)du\right)$ \qquad
+\fbox{$\displaystyle f(x)=\frac{d}{dx}\left(\int_0^x f(u)du\right)$}
+\\ \\
+$\frac{d}{dx}\arctan \bigl(\sin\left(x^2\right)\bigr)=-2\frac{\cos\left(x^2\right)x}{-2+\bigl(\cos\left(x^2\right)\bigr)^2}$
+\\ \\
+\fbox{$\displaystyle\frac{d}{dx}\arctan \bigl(\sin\left(x^2\right)\bigr)=-2\frac{\cos\left(x^2\right)x}{-2+\bigl(\cos\left(x^2\right)\bigr)^2}$}
+\\ \\
+$\int_0^\infty e^{-x^2}=\frac{\sqrt{\pi}}{2}$ \qquad 
+\fbox{$\displaystyle\int_{0}^\infty e^{-x^{2}}=\frac{\sqrt{\pi}}{2}$}
+\end{tabular}
+\pagebreak
+
+\section{Question 2}
+
+Let $A$ be a finite set and  $n\in\mathbb{N}$.
+\begin{itemize}
+\item $A^2 \stackrel{\textrm{def}}{=} A\times A$ is the \emph{cartesian product} of $A$ by itself.
+\item If $A=\{a,b\}$ then $A^2 = \{(a,a),(a,b),(b,a),(b,b)\}.$
+\item $A^n \stackrel{\textrm{def}}{=} \overbrace{ A\times A\times \cdots\times A}^\textrm{$n$ times}$ is $A$ to the power of $n$ or the set of all $n$-tuples that can be produced from $A$. Especially $A^0=\{()\}$.
+\item The \emph{powerset} of $A$ is $\mathcal{P}(A)= \Bigl\{B\Bigm|B\subseteq A\Bigl\}$, the set of all subsets of $A$. It is often denoted also as $2^A$.
+\item When the elements of $A$ are interpreted as characters, it is a custom to leave the parenthesis and commas.
+It is also a custom to denote $() =\varepsilon$.
+\item $A^*\stackrel{\textrm{def}}{=}A^0\cup A^1\cup\cdots \displaystyle=\lim_{n \to \infty}\bigcup_{i=0}^n A^i$. The elements of $A^*$:n are all \emph{finite} (strings). 
+But, if $|A|\ne 0$ then $|A^*|=\infty$.	
+\item $A^\omega= \underbrace{A\times A\times\cdots}_\text{$\infty$ times}$ is the set of all $\infty$-tuples of $A$ (if $A= \emptyset$ then $A^\omega=\emptyset$).
+\item $A^\infty\stackrel{\textrm{def}}{=}A^*\cup A^\omega$, the set of all finite and infinite tuples that can be produced from $A$.
+\item The \emph{catenation} of strings $\alpha,\beta$ can be defined so that 
+$\alpha\beta$ is the catena\-tion of $\alpha$ and $\beta$ if and only if  $\{\alpha\beta\}=\{\alpha\}\times\{\beta\}$.
+\end{itemize}
+\pagebreak
+
+\section{Question 3}
+
+\[
+\bullet\hspace{-0.75em}\bigcirc \Longleftrightarrow\circ 
+\overset{\longrightarrow}
+{\underset{\longleftarrow} 
+{\sideset{_\nwarrow^\nearrow}
+{_\swarrow^\searrow}\bigodot}}\bullet\Longrightarrow 
+\circ\hspace{-0.75em}\bigcirc
+\]
+
+
+\section{Question 4}
+
+\[
+  \frac{1+\sqrt{5}}{2}=
+   \cfrac{1}{1+
+	\cfrac{1}{1+
+     \cfrac{1}{1+\ddots
+}}}
+\]
+
+\[
+  \pi=3+
+   \cfrac{1}{7+
+	\cfrac{1}{15+
+	 \cfrac{1}{1+
+	  \cfrac{1}{1+\ddots
+}}}}
+\]
+
+\[
+  \sqrt{x} =1 + \frac{x-1}{1+\sqrt{x}}=1+
+   \cfrac{x-1}{2+
+	\cfrac{x-1}{2+
+	 \cfrac{x-1}{2+
+	  \cfrac{x-1}{2+\ddots
+}}}}
+\]
+
+\section{Question 5}
+
+\begin{quote}
+  \begin{tabbing}
+	$\mathcal{C}(e,\Theta,\mathbf{r})$\quad\=\kill
+	  $D(a,\mathbf{r})$\>$=\bigl\{ z\in \mathbb{C}\bigm| |z-a| 
+	  < \mathbf{r}\big\}$,\\
+	  $\mathsf{seg} (a,\textbf{r})$\>$=\bigl\{z\in\mathbb{C}\bigm|$ \=$\Im
+	  z=\Im a \land |z-a|<\mathbf{r}\bigr\}$,\\
+	  $c(e,\Theta,\mathbf{r})$\>$=\bigl\{(x,y)\in \mathbb{C}\bigm|$ \=$|x-e|
+	  <\tan\Theta\:\land$\\
+	  \>\> $0<y<\mathbf{r}\bigr\}$,and\\
+	  $\mathcal{C}(E,\Theta,\mathbf{r})$\>$=\displaystyle\bigcup_{e\in E} c(e, \Theta,\mathbf{r})$.
+	\end{tabbing}
+\end{quote}
+\end{document}
