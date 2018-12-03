@@ -1,0 +1,13 @@
+I2=imread('baboon.png');
+figure;
+subplot(2,2,1);
+imshow(I2);
+J=imnoise(I2,'salt & pepper',0.02);
+subplot(2,2,2);
+imshow(J);
+f1=med_filter(I2,5);
+subplot(2,2,3);
+imshow(f1);
+f1=WMF(I2,5);
+subplot(2,2,4);
+imshow(f1);

@@ -1,0 +1,16 @@
+I1=imread('lena.jpg');
+figure;
+subplot(2,2,1);
+imshow(I1);
+J1=imnoise(I1,'gaussian',0.1);
+subplot(2,2,2);
+imshow(J1);
+J2=imnoise(I1,'salt & pepper',0.05);
+subplot(2,2,3);
+imshow(J2);
+b=900;
+[height,width]=size(I1);
+noise=sqrt(-b*log(1-rand(height,width)));
+J3=double(I1)+noise;
+subplot(2,2,4);
+imshow(J3,[0,255]);

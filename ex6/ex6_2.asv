@@ -1,0 +1,17 @@
+I=imread('cameraman.tif');
+fl=BWLPfilter(I,2,2);
+figure;
+imshow(fl);
+ftl=fft2(fl);
+f1=fftshift(ftl);
+
+fl_=real(fl).*I;
+gl=ifft2(ifftshift(fl_));
+gl=real(gl);
+figure;
+imshow(gl);
+fh=BWHPfilter(I,2,2);
+figure;
+imshow(fh);
+figure;
+imshow(fh*double(I));

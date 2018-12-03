@@ -1,0 +1,41 @@
+m=3;
+n=3;
+figure;
+subplot(2,2,1);
+imshow(J1);
+f1=imfilter(J1,fspecial('average',[m n]));
+subplot(2,2,2);
+imshow(f1);
+f2=exp(imfilter(log(double(J1)),ones(m,n),'replicate')).^(1/(m*n));
+subplot(2,2,3);
+imshow(f2,[0,255]);
+f3=(m*n)./imfilter(1./(J1+eps),ones(m,n),'replicate');
+subplot(2,2,4);
+imshow(f3,[0,255]);
+
+figure;
+subplot(2,2,1);
+imshow(J2);
+f1=imfilter(J2,fspecial('average',[m n]));
+subplot(2,2,2);
+imshow(f1);
+f2=exp(imfilter(log(double(J2)),ones(m,n),'replicate')).^(1/(m*n));
+subplot(2,2,3);
+imshow(f2,[0,255]);
+f3=(m*n)./imfilter(1./(J2+eps),ones(m,n),'replicate');
+subplot(2,2,4);
+imshow(f3,[0,255]);
+
+figure;
+subplot(2,2,1);
+imshow(J3,[0,255]);
+f1=imfilter(J3,fspecial('average',[m n]));
+subplot(2,2,2);
+imshow(f1,[0,255]);
+f2=exp(imfilter(log(double(J3)),ones(m,n),'replicate')).^(1/(m*n));
+subplot(2,2,3);
+imshow(f2,[0,255]);
+f3=(m*n)./imfilter(1./(J3+eps),ones(m,n),'replicate');
+subplot(2,2,4);
+imshow(f3,[0,255]);
+
