@@ -1,0 +1,97 @@
+Shooting  Yourself  in  the  Foot
+	The proliferation of modern programming languages (all of which seem to
+have stolen countless features from each other) sometimes makes it
+difficult to remember what language you're currently using.  This guide
+is offered as a public service to help programmers who find themselves in
+such a dilemma.
+C:  You shoot yourself in the foot.
+C++:  You accidentally create a dozen instances of yourself and shoot
+them all in the foot.  Providing emergency medical assistance is
+impossible since you can't tell which are the bitwise copies and which
+are just pointing at others and saying, "That's me, over there."
+FORTRAN:  You shoot yourself in each toe, iteratively, until you run out
+of toes, then you read in the next foot and repeat.  If you run out of
+bullets, you continue anyway because you have no exception handling
+ability.
+Modula-2:  After realizing that you can't actually accomplish anything in
+this language, you shoot yourself in the head.
+COBOL:  USEing a COLT45
+HANDGUN, AIM gun at
+LEG.FOOT, THEN place
+ARM.HAND.FINGER on
+HAND.GUN.TRIGGER and
+SQUEEZE.  THEN return
+HANDGUN to HOLSTER.  CHECK
+whether shoelace needs to be retied.
+LISP:  You shoot yourself in the
+appendage which holds the gun with
+which you shoot yourself in the 
+appendage which holds the gun with
+which you shoot yourself in the 
+appendage which holds the gun with
+which you shoot yourself in the
+appendage which holds the gun with
+which you . . .
+BASIC:  Shoot yourself in the foot with a water pistol.  On big systems
+continue until entire lower body is waterlogged.
+Concurrent Euclid:
+You shoot yourself in somebody else's foot.
+FORTH:  Foot in yourself shoot
+APL:  You shoot yourself in the foot, then spend all day trying to figure
+out how to do it in fewer characters.
+APL: you hear a loud noise and a hole appears suddenly in your
+     foot, but you are unable to figure out what happened.
+APL: you hear a gunshot, and there is a hole in your foot, but
+you do not remember enough linear algebra to understand what the
+hell happened.
+Pascal:  The compiler won't let you shoot yourself in the foot.
+Python:
+You try to shoot yourself in the foot but you just keep hitting the whitespace between your toes.
+Perl:
+You shoot yourself in the foot, but nobody can understand how you did it. Six months later, neither can you.
+JavaScript:
+You've perfected a robust, rich user experience for shooting yourself in the foot. You then find that bullets are disabled on your gun.
+FTP:
+% ftp lower-body.me.org
+ftp> cd /foot
+ftp> put bullets
+Unix:
+% ls
+foot.c foot.h foot.o toe.c toe.o
+% rm * .o
+rm: .o: No such file or directory
+% ls
+%
+SQL:
+SELECT @ammo:=bullet FROM gun WHERE trigger = 'PULLED';
+INSERT INTO leg (foot) VALUES (@ammo);
+Visual Basic:  You'll shoot yourself in the foot, but you'll have so much
+fun doing it that you won't care.
+Prolog:  You tell your program you want to be shot in the foot.  The
+program figures out how to do it, but the syntax doesn't allow it to
+explain.
+370 JCL:  You send your foot down to MIS with a 4000-page document
+explaining how you want it to be shot.  Three years later, your foot
+comes back deep-fried.
+Mathematica: You try to shoot yourself in the foot and then have to
+figure out why it didn't work.
+Macsyma: You shoot yourself in the foot, but the hole appears in your
+head.  You spend the rest of the day trying variations on option
+variables, until you stumble upon
+  SHOOTFOOTMODE:True$ and
+  SHOOTFOOTMODEWHICH:RIGHT$
+... Which are of course documented, but you couldnt find it until you
+knew the answer. :> 
+Maple:  You spend a whole day writing and refining a 'shoot yourself in
+        the foot' function, use it, and then find out from a colleague
+	that it's already implemented, in the 'student' package.
+Maple: A ShootFoot function was not implemented in Release n, but will be
+included in Release n+1. Meanwhile, you may purchase Release n at the
+Release n+1 price (multiply the Release n price by 2.2, or by 3.7 outside
+North America.)
+Axiom:  You pull the trigger, 
+          you see a blinding light, 
+                    you hear a deafening noise, 
+                              no hole in foot ......yet!
+but after quite a while you do get a sensible answer of
+                           Type: Stream Blood From Right Lower Limb
