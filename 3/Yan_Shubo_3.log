@@ -1,0 +1,110 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6420) (preloaded format=pdflatex 2017.9.6)  14 SEP 2017 17:36
+entering extended mode
+**./Yan_Shubo_3.tex
+(Yan_Shubo_3.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
+(/usr/local/share/miktex-texmf/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/share/miktex-texmf/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/share/miktex-texmf/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/share/miktex-texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/share/miktex-texmf/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (Yan_Shubo_3.aux)
+\openout1 = `Yan_Shubo_3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+
+[1
+
+{/Users/shuboyan/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
+
+(/usr/local/share/miktex-texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 41.
+ [2] [3] [4] [5]
+[6]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 104.
+
+ (/usr/local/share/miktex-texmf/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [7]
+(Yan_Shubo_3.aux) ) 
+Here is how much of TeX's memory you used:
+ 545 strings out of 495217
+ 6015 string characters out of 3181648
+ 52862 words of memory out of 3000000
+ 3891 multiletter control sequences out of 15000+200000
+ 17062 words of font info for 39 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 22i,6n,19p,430b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/shuboyan/.miktex/texmfs/data/fonts/pk/ljfour/jknapp
+en/ec/dpi600/ecrm1095.pk> </Users/shuboyan/.miktex/texmfs/data/fonts/pk/ljfour/
+jknappen/ec/dpi600/ecbx1095.pk> </Users/shuboyan/.miktex/texmfs/data/fonts/pk/l
+jfour/jknappen/ec/dpi600/ecss1200.pk> </Users/shuboyan/.miktex/texmfs/data/font
+s/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/shuboyan/.miktex/texmfs/dat
+a/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/shuboyan/.miktex/texm
+fs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </Users/shuboyan/.mikte
+x/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc2074.pk> </Users/shuboyan/
+.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecxc1440.pk> </Users/shu
+boyan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Use
+rs/shuboyan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk>
+ </Users/shuboyan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm14
+40.pk> </Users/shuboyan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/
+ecrm2074.pk></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on Yan_Shubo_3.pdf (7 pages, 116852 bytes).
+PDF statistics:
+ 353 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
