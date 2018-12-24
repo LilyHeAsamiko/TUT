@@ -1,0 +1,4501 @@
+id,identifier,scene_label
+0,I0066,cafe/restaurant
+1,I0030,home
+2,I0330,office
+3,I0278,grocery store
+4,I0120,park
+5,I0033,train
+6,I0278,grocery store
+7,I0401,grocery store
+8,I0354,library
+9,I0350,beach
+10,I0401,grocery store
+11,I0296,forest path
+12,I0182,beach
+13,I0408,park
+14,I0383,car
+15,I0311,tram
+16,I0167,home
+17,I0406,residential area
+18,I0083,cafe/restaurant
+19,I0120,park
+20,I0027,metro station
+21,I0264,beach
+22,I0095,metro station
+23,I0070,beach
+24,I0232,bus
+25,I0195,tram
+26,I0351,car
+27,I0019,park
+28,I0278,grocery store
+29,I0390,office
+30,I0399,library
+31,I0171,forest path
+32,I0102,train
+33,I0388,library
+34,I0165,residential area
+35,I0111,home
+36,I0258,beach
+37,I0118,tram
+38,I0171,forest path
+39,I0084,park
+40,I0224,office
+41,I0164,bus
+42,I0408,park
+43,I0104,beach
+44,I0200,residential area
+45,I0065,metro station
+46,I0057,park
+47,I0406,residential area
+48,I0306,bus
+49,I0048,forest path
+50,I0096,beach
+51,I0195,tram
+52,I0314,train
+53,I0064,bus
+54,I0237,city center
+55,I0299,residential area
+56,I0325,metro station
+57,I0086,beach
+58,I0104,beach
+59,I0374,office
+60,I0190,home
+61,I0164,bus
+62,I0098,beach
+63,I0062,bus
+64,I0146,office
+65,I0324,grocery store
+66,I0048,forest path
+67,I0009,tram
+68,I0288,home
+69,I0125,tram
+70,I0259,home
+71,I0412,library
+72,I0370,cafe/restaurant
+73,I0110,residential area
+74,I0048,forest path
+75,I0349,metro station
+76,I0028,metro station
+77,I0140,forest path
+78,I0365,metro station
+79,I0358,library
+80,I0101,train
+81,I0120,park
+82,I0184,forest path
+83,I0200,residential area
+84,I0195,tram
+85,I0313,park
+86,I0085,home
+87,I0125,tram
+88,I0343,residential area
+89,I0282,home
+90,I0227,cafe/restaurant
+91,I0258,beach
+92,I0052,metro station
+93,I0385,grocery store
+94,I0308,beach
+95,I0274,park
+96,I0326,bus
+97,I0016,bus
+98,I0066,cafe/restaurant
+99,I0245,forest path
+100,I0158,library
+101,I0317,home
+102,I0218,bus
+103,I0400,residential area
+104,I0047,city center
+105,I0385,grocery store
+106,I0094,cafe/restaurant
+107,I0351,car
+108,I0385,grocery store
+109,I0365,metro station
+110,I0127,residential area
+111,I0066,cafe/restaurant
+112,I0317,home
+113,I0243,city center
+114,I0249,city center
+115,I0361,residential area
+116,I0146,office
+117,I0394,car
+118,I0049,office
+119,I0033,train
+120,I0274,park
+121,I0140,forest path
+122,I0001,library
+123,I0408,park
+124,I0386,metro station
+125,I0257,metro station
+126,I0231,beach
+127,I0019,park
+128,I0207,park
+129,I0048,forest path
+130,I0308,beach
+131,I0394,car
+132,I0191,library
+133,I0046,residential area
+134,I0074,train
+135,I0388,library
+136,I0046,residential area
+137,I0085,home
+138,I0399,library
+139,I0130,forest path
+140,I0200,residential area
+141,I0348,library
+142,I0051,city center
+143,I0210,bus
+144,I0144,forest path
+145,I0215,cafe/restaurant
+146,I0152,home
+147,I0203,tram
+148,I0035,tram
+149,I0373,cafe/restaurant
+150,I0180,metro station
+151,I0341,home
+152,I0203,tram
+153,I0087,cafe/restaurant
+154,I0008,office
+155,I0200,residential area
+156,I0373,cafe/restaurant
+157,I0131,residential area
+158,I0400,residential area
+159,I0258,beach
+160,I0014,library
+161,I0302,train
+162,I0323,forest path
+163,I0218,bus
+164,I0140,forest path
+165,I0105,office
+166,I0412,library
+167,I0077,office
+168,I0323,forest path
+169,I0380,train
+170,I0014,library
+171,I0094,cafe/restaurant
+172,I0401,grocery store
+173,I0184,forest path
+174,I0373,cafe/restaurant
+175,I0070,beach
+176,I0323,forest path
+177,I0310,home
+178,I0255,office
+179,I0327,park
+180,I0224,office
+181,I0078,library
+182,I0246,tram
+183,I0201,car
+184,I0257,metro station
+185,I0191,library
+186,I0264,beach
+187,I0104,beach
+188,I0190,home
+189,I0015,office
+190,I0201,car
+191,I0350,beach
+192,I0323,forest path
+193,I0160,metro station
+194,I0116,grocery store
+195,I0327,park
+196,I0161,tram
+197,I0095,metro station
+198,I0077,office
+199,I0166,cafe/restaurant
+200,I0019,park
+201,I0049,office
+202,I0054,grocery store
+203,I0278,grocery store
+204,I0257,metro station
+205,I0047,city center
+206,I0235,bus
+207,I0207,park
+208,I0101,train
+209,I0085,home
+210,I0349,metro station
+211,I0296,forest path
+212,I0260,residential area
+213,I0046,residential area
+214,I0046,residential area
+215,I0054,grocery store
+216,I0222,cafe/restaurant
+217,I0060,park
+218,I0306,bus
+219,I0096,beach
+220,I0237,city center
+221,I0154,car
+222,I0034,office
+223,I0289,forest path
+224,I0191,library
+225,I0290,train
+226,I0416,forest path
+227,I0008,office
+228,I0122,park
+229,I0062,bus
+230,I0083,cafe/restaurant
+231,I0111,home
+232,I0008,office
+233,I0064,bus
+234,I0060,park
+235,I0032,office
+236,I0243,city center
+237,I0352,car
+238,I0269,beach
+239,I0122,park
+240,I0154,car
+241,I0242,forest path
+242,I0234,train
+243,I0019,park
+244,I0145,office
+245,I0413,city center
+246,I0054,grocery store
+247,I0388,library
+248,I0299,residential area
+249,I0390,office
+250,I0071,cafe/restaurant
+251,I0278,grocery store
+252,I0354,library
+253,I0078,library
+254,I0020,grocery store
+255,I0051,city center
+256,I0195,tram
+257,I0089,cafe/restaurant
+258,I0034,office
+259,I0144,forest path
+260,I0224,office
+261,I0087,cafe/restaurant
+262,I0242,forest path
+263,I0406,residential area
+264,I0221,grocery store
+265,I0030,home
+266,I0102,train
+267,I0150,residential area
+268,I0262,residential area
+269,I0071,cafe/restaurant
+270,I0408,park
+271,I0158,library
+272,I0008,office
+273,I0228,grocery store
+274,I0101,train
+275,I0111,home
+276,I0054,grocery store
+277,I0046,residential area
+278,I0190,home
+279,I0335,car
+280,I0255,office
+281,I0257,metro station
+282,I0304,beach
+283,I0310,home
+284,I0028,metro station
+285,I0399,library
+286,I0297,bus
+287,I0027,metro station
+288,I0333,tram
+289,I0184,forest path
+290,I0416,forest path
+291,I0092,cafe/restaurant
+292,I0020,grocery store
+293,I0183,tram
+294,I0205,beach
+295,I0104,beach
+296,I0298,bus
+297,I0166,cafe/restaurant
+298,I0146,office
+299,I0235,bus
+300,I0325,metro station
+301,I0298,bus
+302,I0202,forest path
+303,I0197,grocery store
+304,I0302,train
+305,I0341,home
+306,I0008,office
+307,I0134,grocery store
+308,I0282,home
+309,I0373,cafe/restaurant
+310,I0158,library
+311,I0388,library
+312,I0203,tram
+313,I0190,home
+314,I0304,beach
+315,I0317,home
+316,I0276,city center
+317,I0228,grocery store
+318,I0383,car
+319,I0315,office
+320,I0260,residential area
+321,I0410,bus
+322,I0046,residential area
+323,I0119,home
+324,I0002,cafe/restaurant
+325,I0313,park
+326,I0275,tram
+327,I0095,metro station
+328,I0092,cafe/restaurant
+329,I0264,beach
+330,I0186,library
+331,I0374,office
+332,I0177,car
+333,I0282,home
+334,I0347,car
+335,I0009,tram
+336,I0046,residential area
+337,I0110,residential area
+338,I0275,tram
+339,I0142,car
+340,I0032,office
+341,I0308,beach
+342,I0196,car
+343,I0120,park
+344,I0270,library
+345,I0276,city center
+346,I0336,car
+347,I0033,train
+348,I0011,city center
+349,I0317,home
+350,I0118,tram
+351,I0392,metro station
+352,I0055,grocery store
+353,I0102,train
+354,I0311,tram
+355,I0313,park
+356,I0055,grocery store
+357,I0259,home
+358,I0288,home
+359,I0243,city center
+360,I0412,library
+361,I0237,city center
+362,I0390,office
+363,I0276,city center
+364,I0209,park
+365,I0340,home
+366,I0337,metro station
+367,I0314,train
+368,I0397,residential area
+369,I0113,library
+370,I0241,park
+371,I0023,grocery store
+372,I0196,car
+373,I0036,beach
+374,I0113,library
+375,I0136,car
+376,I0078,library
+377,I0008,office
+378,I0070,beach
+379,I0200,residential area
+380,I0220,home
+381,I0193,forest path
+382,I0066,cafe/restaurant
+383,I0215,cafe/restaurant
+384,I0145,office
+385,I0339,grocery store
+386,I0356,tram
+387,I0222,cafe/restaurant
+388,I0282,home
+389,I0352,car
+390,I0057,park
+391,I0411,tram
+392,I0390,office
+393,I0140,forest path
+394,I0234,train
+395,I0035,tram
+396,I0196,car
+397,I0336,car
+398,I0014,library
+399,I0311,tram
+400,I0144,forest path
+401,I0176,city center
+402,I0351,car
+403,I0197,grocery store
+404,I0111,home
+405,I0413,city center
+406,I0115,city center
+407,I0191,library
+408,I0221,grocery store
+409,I0388,library
+410,I0255,office
+411,I0311,tram
+412,I0310,home
+413,I0180,metro station
+414,I0023,grocery store
+415,I0412,library
+416,I0371,library
+417,I0270,library
+418,I0371,library
+419,I0012,residential area
+420,I0145,office
+421,I0325,metro station
+422,I0278,grocery store
+423,I0416,forest path
+424,I0373,cafe/restaurant
+425,I0370,cafe/restaurant
+426,I0182,beach
+427,I0264,beach
+428,I0185,metro station
+429,I0105,office
+430,I0015,office
+431,I0201,car
+432,I0134,grocery store
+433,I0014,library
+434,I0374,office
+435,I0289,forest path
+436,I0009,tram
+437,I0337,metro station
+438,I0380,train
+439,I0351,car
+440,I0084,park
+441,I0299,residential area
+442,I0154,car
+443,I0241,park
+444,I0241,park
+445,I0385,grocery store
+446,I0221,grocery store
+447,I0243,city center
+448,I0336,car
+449,I0134,grocery store
+450,I0064,bus
+451,I0343,residential area
+452,I0005,bus
+453,I0003,train
+454,I0288,home
+455,I0071,cafe/restaurant
+456,I0040,beach
+457,I0205,beach
+458,I0089,cafe/restaurant
+459,I0169,cafe/restaurant
+460,I0068,forest path
+461,I0273,car
+462,I0058,tram
+463,I0245,forest path
+464,I0205,beach
+465,I0065,metro station
+466,I0161,tram
+467,I0029,forest path
+468,I0104,beach
+469,I0310,home
+470,I0278,grocery store
+471,I0193,forest path
+472,I0027,metro station
+473,I0340,home
+474,I0242,forest path
+475,I0404,city center
+476,I0414,forest path
+477,I0107,train
+478,I0182,beach
+479,I0413,city center
+480,I0125,tram
+481,I0385,grocery store
+482,I0275,tram
+483,I0304,beach
+484,I0020,grocery store
+485,I0032,office
+486,I0055,grocery store
+487,I0194,forest path
+488,I0278,grocery store
+489,I0308,beach
+490,I0249,city center
+491,I0372,bus
+492,I0054,grocery store
+493,I0304,beach
+494,I0337,metro station
+495,I0270,library
+496,I0134,grocery store
+497,I0127,residential area
+498,I0087,cafe/restaurant
+499,I0367,car
+500,I0399,library
+501,I0308,beach
+502,I0012,residential area
+503,I0048,forest path
+504,I0275,tram
+505,I0015,office
+506,I0118,tram
+507,I0322,bus
+508,I0325,metro station
+509,I0036,beach
+510,I0043,cafe/restaurant
+511,I0360,park
+512,I0315,office
+513,I0213,city center
+514,I0033,train
+515,I0278,grocery store
+516,I0148,library
+517,I0103,grocery store
+518,I0184,forest path
+519,I0035,tram
+520,I0268,office
+521,I0169,cafe/restaurant
+522,I0315,office
+523,I0202,forest path
+524,I0228,grocery store
+525,I0394,car
+526,I0034,office
+527,I0027,metro station
+528,I0102,train
+529,I0237,city center
+530,I0119,home
+531,I0308,beach
+532,I0366,tram
+533,I0340,home
+534,I0288,home
+535,I0200,residential area
+536,I0224,office
+537,I0339,grocery store
+538,I0134,grocery store
+539,I0367,car
+540,I0274,park
+541,I0347,car
+542,I0065,metro station
+543,I0154,car
+544,I0103,grocery store
+545,I0412,library
+546,I0142,car
+547,I0086,beach
+548,I0071,cafe/restaurant
+549,I0415,grocery store
+550,I0163,residential area
+551,I0409,train
+552,I0083,cafe/restaurant
+553,I0264,beach
+554,I0308,beach
+555,I0323,forest path
+556,I0014,library
+557,I0102,train
+558,I0312,home
+559,I0057,park
+560,I0392,metro station
+561,I0118,tram
+562,I0105,office
+563,I0043,cafe/restaurant
+564,I0085,home
+565,I0253,tram
+566,I0186,library
+567,I0116,grocery store
+568,I0322,bus
+569,I0196,car
+570,I0227,cafe/restaurant
+571,I0242,forest path
+572,I0349,metro station
+573,I0361,residential area
+574,I0027,metro station
+575,I0351,car
+576,I0273,car
+577,I0095,metro station
+578,I0397,residential area
+579,I0203,tram
+580,I0210,bus
+581,I0348,library
+582,I0190,home
+583,I0116,grocery store
+584,I0210,bus
+585,I0118,tram
+586,I0292,residential area
+587,I0340,home
+588,I0408,park
+589,I0396,train
+590,I0397,residential area
+591,I0317,home
+592,I0053,train
+593,I0029,forest path
+594,I0268,office
+595,I0089,cafe/restaurant
+596,I0053,train
+597,I0203,tram
+598,I0354,library
+599,I0164,bus
+600,I0258,beach
+601,I0231,beach
+602,I0019,park
+603,I0051,city center
+604,I0268,office
+605,I0127,residential area
+606,I0308,beach
+607,I0341,home
+608,I0312,home
+609,I0030,home
+610,I0347,car
+611,I0292,residential area
+612,I0170,library
+613,I0012,residential area
+614,I0116,grocery store
+615,I0030,home
+616,I0397,residential area
+617,I0061,city center
+618,I0194,forest path
+619,I0400,residential area
+620,I0095,metro station
+621,I0095,metro station
+622,I0261,grocery store
+623,I0231,beach
+624,I0352,car
+625,I0047,city center
+626,I0197,grocery store
+627,I0378,city center
+628,I0288,home
+629,I0232,bus
+630,I0383,car
+631,I0003,train
+632,I0406,residential area
+633,I0015,office
+634,I0128,library
+635,I0388,library
+636,I0057,park
+637,I0202,forest path
+638,I0163,residential area
+639,I0142,car
+640,I0209,park
+641,I0318,park
+642,I0094,cafe/restaurant
+643,I0356,tram
+644,I0052,metro station
+645,I0403,city center
+646,I0259,home
+647,I0154,car
+648,I0414,forest path
+649,I0072,car
+650,I0177,car
+651,I0243,city center
+652,I0209,park
+653,I0293,metro station
+654,I0414,forest path
+655,I0107,train
+656,I0183,tram
+657,I0060,park
+658,I0005,bus
+659,I0014,library
+660,I0136,car
+661,I0028,metro station
+662,I0200,residential area
+663,I0340,home
+664,I0110,residential area
+665,I0399,library
+666,I0130,forest path
+667,I0128,library
+668,I0349,metro station
+669,I0101,train
+670,I0128,library
+671,I0094,cafe/restaurant
+672,I0058,tram
+673,I0383,car
+674,I0196,car
+675,I0040,beach
+676,I0330,office
+677,I0083,cafe/restaurant
+678,I0062,bus
+679,I0046,residential area
+680,I0071,cafe/restaurant
+681,I0343,residential area
+682,I0312,home
+683,I0191,library
+684,I0290,train
+685,I0333,tram
+686,I0164,bus
+687,I0167,home
+688,I0053,train
+689,I0020,grocery store
+690,I0055,grocery store
+691,I0343,residential area
+692,I0366,tram
+693,I0406,residential area
+694,I0074,train
+695,I0297,bus
+696,I0249,city center
+697,I0008,office
+698,I0064,bus
+699,I0333,tram
+700,I0008,office
+701,I0312,home
+702,I0262,residential area
+703,I0295,car
+704,I0216,park
+705,I0269,beach
+706,I0360,park
+707,I0258,beach
+708,I0200,residential area
+709,I0049,office
+710,I0255,office
+711,I0048,forest path
+712,I0269,beach
+713,I0340,home
+714,I0274,park
+715,I0339,grocery store
+716,I0008,office
+717,I0388,library
+718,I0064,bus
+719,I0064,bus
+720,I0406,residential area
+721,I0023,grocery store
+722,I0177,car
+723,I0345,train
+724,I0366,tram
+725,I0356,tram
+726,I0115,city center
+727,I0111,home
+728,I0216,park
+729,I0274,park
+730,I0002,cafe/restaurant
+731,I0404,city center
+732,I0347,car
+733,I0125,tram
+734,I0166,cafe/restaurant
+735,I0075,metro station
+736,I0019,park
+737,I0345,train
+738,I0296,forest path
+739,I0077,office
+740,I0060,park
+741,I0404,city center
+742,I0372,bus
+743,I0086,beach
+744,I0386,metro station
+745,I0315,office
+746,I0185,metro station
+747,I0182,beach
+748,I0169,cafe/restaurant
+749,I0343,residential area
+750,I0296,forest path
+751,I0327,park
+752,I0176,city center
+753,I0325,metro station
+754,I0234,train
+755,I0399,library
+756,I0185,metro station
+757,I0186,library
+758,I0105,office
+759,I0154,car
+760,I0061,city center
+761,I0336,car
+762,I0399,library
+763,I0127,residential area
+764,I0290,train
+765,I0297,bus
+766,I0350,beach
+767,I0092,cafe/restaurant
+768,I0406,residential area
+769,I0374,office
+770,I0061,city center
+771,I0348,library
+772,I0257,metro station
+773,I0347,car
+774,I0386,metro station
+775,I0358,library
+776,I0383,car
+777,I0330,office
+778,I0321,tram
+779,I0337,metro station
+780,I0166,cafe/restaurant
+781,I0194,forest path
+782,I0396,train
+783,I0075,metro station
+784,I0177,car
+785,I0003,train
+786,I0066,cafe/restaurant
+787,I0255,office
+788,I0302,train
+789,I0415,grocery store
+790,I0360,park
+791,I0185,metro station
+792,I0033,train
+793,I0150,residential area
+794,I0051,city center
+795,I0009,tram
+796,I0329,train
+797,I0310,home
+798,I0118,tram
+799,I0169,cafe/restaurant
+800,I0116,grocery store
+801,I0160,metro station
+802,I0012,residential area
+803,I0293,metro station
+804,I0186,library
+805,I0218,bus
+806,I0114,metro station
+807,I0072,car
+808,I0047,city center
+809,I0292,residential area
+810,I0270,library
+811,I0074,train
+812,I0370,cafe/restaurant
+813,I0341,home
+814,I0297,bus
+815,I0401,grocery store
+816,I0390,office
+817,I0026,city center
+818,I0222,cafe/restaurant
+819,I0009,tram
+820,I0408,park
+821,I0253,tram
+822,I0373,cafe/restaurant
+823,I0003,train
+824,I0028,metro station
+825,I0397,residential area
+826,I0065,metro station
+827,I0213,city center
+828,I0036,beach
+829,I0186,library
+830,I0231,beach
+831,I0255,office
+832,I0093,beach
+833,I0180,metro station
+834,I0296,forest path
+835,I0115,city center
+836,I0118,tram
+837,I0085,home
+838,I0327,park
+839,I0343,residential area
+840,I0414,forest path
+841,I0274,park
+842,I0049,office
+843,I0326,bus
+844,I0043,cafe/restaurant
+845,I0315,office
+846,I0282,home
+847,I0164,bus
+848,I0161,tram
+849,I0103,grocery store
+850,I0051,city center
+851,I0203,tram
+852,I0201,car
+853,I0107,train
+854,I0311,tram
+855,I0241,park
+856,I0269,beach
+857,I0107,train
+858,I0089,cafe/restaurant
+859,I0142,car
+860,I0044,bus
+861,I0084,park
+862,I0032,office
+863,I0366,tram
+864,I0367,car
+865,I0148,library
+866,I0296,forest path
+867,I0273,car
+868,I0392,metro station
+869,I0373,cafe/restaurant
+870,I0310,home
+871,I0360,park
+872,I0242,forest path
+873,I0276,city center
+874,I0308,beach
+875,I0302,train
+876,I0322,bus
+877,I0324,grocery store
+878,I0367,car
+879,I0396,train
+880,I0086,beach
+881,I0410,bus
+882,I0005,bus
+883,I0349,metro station
+884,I0048,forest path
+885,I0323,forest path
+886,I0290,train
+887,I0049,office
+888,I0343,residential area
+889,I0070,beach
+890,I0278,grocery store
+891,I0371,library
+892,I0119,home
+893,I0043,cafe/restaurant
+894,I0304,beach
+895,I0049,office
+896,I0295,car
+897,I0103,grocery store
+898,I0202,forest path
+899,I0270,library
+900,I0051,city center
+901,I0169,cafe/restaurant
+902,I0242,forest path
+903,I0029,forest path
+904,I0209,park
+905,I0019,park
+906,I0228,grocery store
+907,I0085,home
+908,I0268,office
+909,I0312,home
+910,I0314,train
+911,I0259,home
+912,I0270,library
+913,I0349,metro station
+914,I0016,bus
+915,I0261,grocery store
+916,I0066,cafe/restaurant
+917,I0335,car
+918,I0372,bus
+919,I0372,bus
+920,I0270,library
+921,I0335,car
+922,I0105,office
+923,I0125,tram
+924,I0130,forest path
+925,I0403,city center
+926,I0225,park
+927,I0165,residential area
+928,I0249,city center
+929,I0186,library
+930,I0060,park
+931,I0232,bus
+932,I0127,residential area
+933,I0049,office
+934,I0403,city center
+935,I0093,beach
+936,I0047,city center
+937,I0411,tram
+938,I0034,office
+939,I0040,beach
+940,I0259,home
+941,I0210,bus
+942,I0202,forest path
+943,I0354,library
+944,I0062,bus
+945,I0228,grocery store
+946,I0297,bus
+947,I0183,tram
+948,I0030,home
+949,I0014,library
+950,I0093,beach
+951,I0378,city center
+952,I0202,forest path
+953,I0063,train
+954,I0180,metro station
+955,I0311,tram
+956,I0185,metro station
+957,I0154,car
+958,I0326,bus
+959,I0392,metro station
+960,I0102,train
+961,I0207,park
+962,I0191,library
+963,I0167,home
+964,I0096,beach
+965,I0161,tram
+966,I0202,forest path
+967,I0053,train
+968,I0343,residential area
+969,I0347,car
+970,I0111,home
+971,I0403,city center
+972,I0367,car
+973,I0327,park
+974,I0019,park
+975,I0329,train
+976,I0084,park
+977,I0104,beach
+978,I0070,beach
+979,I0253,tram
+980,I0033,train
+981,I0193,forest path
+982,I0028,metro station
+983,I0289,forest path
+984,I0028,metro station
+985,I0163,residential area
+986,I0385,grocery store
+987,I0255,office
+988,I0029,forest path
+989,I0020,grocery store
+990,I0205,beach
+991,I0032,office
+992,I0177,car
+993,I0321,tram
+994,I0308,beach
+995,I0074,train
+996,I0392,metro station
+997,I0297,bus
+998,I0245,forest path
+999,I0033,train
+1000,I0081,train
+1001,I0269,beach
+1002,I0171,forest path
+1003,I0061,city center
+1004,I0313,park
+1005,I0312,home
+1006,I0196,car
+1007,I0160,metro station
+1008,I0318,park
+1009,I0096,beach
+1010,I0224,office
+1011,I0169,cafe/restaurant
+1012,I0146,office
+1013,I0190,home
+1014,I0259,home
+1015,I0111,home
+1016,I0275,tram
+1017,I0065,metro station
+1018,I0325,metro station
+1019,I0077,office
+1020,I0044,bus
+1021,I0003,train
+1022,I0167,home
+1023,I0356,tram
+1024,I0020,grocery store
+1025,I0119,home
+1026,I0260,residential area
+1027,I0270,library
+1028,I0356,tram
+1029,I0260,residential area
+1030,I0035,tram
+1031,I0260,residential area
+1032,I0345,train
+1033,I0371,library
+1034,I0200,residential area
+1035,I0051,city center
+1036,I0020,grocery store
+1037,I0001,library
+1038,I0298,bus
+1039,I0194,forest path
+1040,I0083,cafe/restaurant
+1041,I0333,tram
+1042,I0184,forest path
+1043,I0337,metro station
+1044,I0282,home
+1045,I0339,grocery store
+1046,I0261,grocery store
+1047,I0374,office
+1048,I0373,cafe/restaurant
+1049,I0196,car
+1050,I0140,forest path
+1051,I0171,forest path
+1052,I0329,train
+1053,I0202,forest path
+1054,I0227,cafe/restaurant
+1055,I0167,home
+1056,I0276,city center
+1057,I0243,city center
+1058,I0317,home
+1059,I0052,metro station
+1060,I0005,bus
+1061,I0044,bus
+1062,I0095,metro station
+1063,I0404,city center
+1064,I0039,beach
+1065,I0005,bus
+1066,I0009,tram
+1067,I0122,park
+1068,I0292,residential area
+1069,I0243,city center
+1070,I0026,city center
+1071,I0154,car
+1072,I0158,library
+1073,I0289,forest path
+1074,I0040,beach
+1075,I0110,residential area
+1076,I0061,city center
+1077,I0404,city center
+1078,I0171,forest path
+1079,I0167,home
+1080,I0071,cafe/restaurant
+1081,I0036,beach
+1082,I0207,park
+1083,I0083,cafe/restaurant
+1084,I0209,park
+1085,I0396,train
+1086,I0275,tram
+1087,I0116,grocery store
+1088,I0107,train
+1089,I0146,office
+1090,I0046,residential area
+1091,I0207,park
+1092,I0160,metro station
+1093,I0054,grocery store
+1094,I0098,beach
+1095,I0068,forest path
+1096,I0416,forest path
+1097,I0298,bus
+1098,I0039,beach
+1099,I0255,office
+1100,I0011,city center
+1101,I0044,bus
+1102,I0378,city center
+1103,I0349,metro station
+1104,I0152,home
+1105,I0340,home
+1106,I0065,metro station
+1107,I0193,forest path
+1108,I0366,tram
+1109,I0222,cafe/restaurant
+1110,I0383,car
+1111,I0023,grocery store
+1112,I0408,park
+1113,I0145,office
+1114,I0200,residential area
+1115,I0068,forest path
+1116,I0397,residential area
+1117,I0232,bus
+1118,I0072,car
+1119,I0315,office
+1120,I0257,metro station
+1121,I0361,residential area
+1122,I0289,forest path
+1123,I0367,car
+1124,I0086,beach
+1125,I0185,metro station
+1126,I0081,train
+1127,I0415,grocery store
+1128,I0246,tram
+1129,I0115,city center
+1130,I0094,cafe/restaurant
+1131,I0330,office
+1132,I0360,park
+1133,I0409,train
+1134,I0227,cafe/restaurant
+1135,I0093,beach
+1136,I0274,park
+1137,I0360,park
+1138,I0413,city center
+1139,I0273,car
+1140,I0215,cafe/restaurant
+1141,I0304,beach
+1142,I0127,residential area
+1143,I0324,grocery store
+1144,I0343,residential area
+1145,I0064,bus
+1146,I0146,office
+1147,I0119,home
+1148,I0308,beach
+1149,I0052,metro station
+1150,I0078,library
+1151,I0358,library
+1152,I0002,cafe/restaurant
+1153,I0243,city center
+1154,I0213,city center
+1155,I0409,train
+1156,I0184,forest path
+1157,I0383,car
+1158,I0066,cafe/restaurant
+1159,I0268,office
+1160,I0374,office
+1161,I0390,office
+1162,I0386,metro station
+1163,I0122,park
+1164,I0075,metro station
+1165,I0289,forest path
+1166,I0242,forest path
+1167,I0075,metro station
+1168,I0237,city center
+1169,I0072,car
+1170,I0040,beach
+1171,I0008,office
+1172,I0070,beach
+1173,I0047,city center
+1174,I0049,office
+1175,I0072,car
+1176,I0268,office
+1177,I0216,park
+1178,I0122,park
+1179,I0161,tram
+1180,I0023,grocery store
+1181,I0378,city center
+1182,I0323,forest path
+1183,I0415,grocery store
+1184,I0298,bus
+1185,I0107,train
+1186,I0053,train
+1187,I0012,residential area
+1188,I0072,car
+1189,I0027,metro station
+1190,I0180,metro station
+1191,I0003,train
+1192,I0268,office
+1193,I0131,residential area
+1194,I0186,library
+1195,I0228,grocery store
+1196,I0058,tram
+1197,I0171,forest path
+1198,I0269,beach
+1199,I0390,office
+1200,I0101,train
+1201,I0232,bus
+1202,I0255,office
+1203,I0366,tram
+1204,I0036,beach
+1205,I0403,city center
+1206,I0097,bus
+1207,I0262,residential area
+1208,I0351,car
+1209,I0144,forest path
+1210,I0036,beach
+1211,I0268,office
+1212,I0312,home
+1213,I0329,train
+1214,I0228,grocery store
+1215,I0113,library
+1216,I0358,library
+1217,I0051,city center
+1218,I0105,office
+1219,I0371,library
+1220,I0249,city center
+1221,I0113,library
+1222,I0411,tram
+1223,I0183,tram
+1224,I0282,home
+1225,I0259,home
+1226,I0163,residential area
+1227,I0203,tram
+1228,I0220,home
+1229,I0361,residential area
+1230,I0245,forest path
+1231,I0220,home
+1232,I0188,park
+1233,I0329,train
+1234,I0160,metro station
+1235,I0066,cafe/restaurant
+1236,I0127,residential area
+1237,I0144,forest path
+1238,I0399,library
+1239,I0002,cafe/restaurant
+1240,I0102,train
+1241,I0105,office
+1242,I0412,library
+1243,I0213,city center
+1244,I0084,park
+1245,I0182,beach
+1246,I0243,city center
+1247,I0160,metro station
+1248,I0255,office
+1249,I0201,car
+1250,I0235,bus
+1251,I0411,tram
+1252,I0062,bus
+1253,I0008,office
+1254,I0166,cafe/restaurant
+1255,I0297,bus
+1256,I0158,library
+1257,I0040,beach
+1258,I0209,park
+1259,I0207,park
+1260,I0040,beach
+1261,I0290,train
+1262,I0113,library
+1263,I0171,forest path
+1264,I0203,tram
+1265,I0354,library
+1266,I0111,home
+1267,I0326,bus
+1268,I0170,library
+1269,I0026,city center
+1270,I0227,cafe/restaurant
+1271,I0130,forest path
+1272,I0337,metro station
+1273,I0197,grocery store
+1274,I0293,metro station
+1275,I0030,home
+1276,I0306,bus
+1277,I0092,cafe/restaurant
+1278,I0210,bus
+1279,I0170,library
+1280,I0081,train
+1281,I0202,forest path
+1282,I0064,bus
+1283,I0237,city center
+1284,I0087,cafe/restaurant
+1285,I0048,forest path
+1286,I0394,car
+1287,I0259,home
+1288,I0176,city center
+1289,I0160,metro station
+1290,I0262,residential area
+1291,I0098,beach
+1292,I0298,bus
+1293,I0120,park
+1294,I0399,library
+1295,I0215,cafe/restaurant
+1296,I0201,car
+1297,I0290,train
+1298,I0095,metro station
+1299,I0005,bus
+1300,I0118,tram
+1301,I0043,cafe/restaurant
+1302,I0210,bus
+1303,I0094,cafe/restaurant
+1304,I0275,tram
+1305,I0333,tram
+1306,I0401,grocery store
+1307,I0269,beach
+1308,I0002,cafe/restaurant
+1309,I0136,car
+1310,I0011,city center
+1311,I0058,tram
+1312,I0207,park
+1313,I0101,train
+1314,I0150,residential area
+1315,I0207,park
+1316,I0278,grocery store
+1317,I0186,library
+1318,I0134,grocery store
+1319,I0114,metro station
+1320,I0257,metro station
+1321,I0167,home
+1322,I0120,park
+1323,I0003,train
+1324,I0074,train
+1325,I0011,city center
+1326,I0373,cafe/restaurant
+1327,I0093,beach
+1328,I0026,city center
+1329,I0095,metro station
+1330,I0058,tram
+1331,I0299,residential area
+1332,I0063,train
+1333,I0182,beach
+1334,I0380,train
+1335,I0315,office
+1336,I0228,grocery store
+1337,I0321,tram
+1338,I0048,forest path
+1339,I0148,library
+1340,I0055,grocery store
+1341,I0142,car
+1342,I0327,park
+1343,I0068,forest path
+1344,I0243,city center
+1345,I0128,library
+1346,I0142,car
+1347,I0134,grocery store
+1348,I0262,residential area
+1349,I0365,metro station
+1350,I0312,home
+1351,I0188,park
+1352,I0410,bus
+1353,I0347,car
+1354,I0191,library
+1355,I0077,office
+1356,I0380,train
+1357,I0343,residential area
+1358,I0072,car
+1359,I0378,city center
+1360,I0313,park
+1361,I0131,residential area
+1362,I0311,tram
+1363,I0058,tram
+1364,I0016,bus
+1365,I0237,city center
+1366,I0374,office
+1367,I0145,office
+1368,I0001,library
+1369,I0144,forest path
+1370,I0184,forest path
+1371,I0295,car
+1372,I0075,metro station
+1373,I0085,home
+1374,I0218,bus
+1375,I0274,park
+1376,I0002,cafe/restaurant
+1377,I0295,car
+1378,I0262,residential area
+1379,I0373,cafe/restaurant
+1380,I0329,train
+1381,I0270,library
+1382,I0278,grocery store
+1383,I0314,train
+1384,I0041,car
+1385,I0182,beach
+1386,I0323,forest path
+1387,I0336,car
+1388,I0288,home
+1389,I0234,train
+1390,I0243,city center
+1391,I0092,cafe/restaurant
+1392,I0119,home
+1393,I0360,park
+1394,I0373,cafe/restaurant
+1395,I0063,train
+1396,I0131,residential area
+1397,I0231,beach
+1398,I0066,cafe/restaurant
+1399,I0415,grocery store
+1400,I0304,beach
+1401,I0063,train
+1402,I0264,beach
+1403,I0321,tram
+1404,I0399,library
+1405,I0401,grocery store
+1406,I0275,tram
+1407,I0180,metro station
+1408,I0177,car
+1409,I0203,tram
+1410,I0222,cafe/restaurant
+1411,I0235,bus
+1412,I0225,park
+1413,I0404,city center
+1414,I0093,beach
+1415,I0340,home
+1416,I0330,office
+1417,I0246,tram
+1418,I0026,city center
+1419,I0347,car
+1420,I0130,forest path
+1421,I0193,forest path
+1422,I0169,cafe/restaurant
+1423,I0001,library
+1424,I0228,grocery store
+1425,I0145,office
+1426,I0048,forest path
+1427,I0241,park
+1428,I0302,train
+1429,I0011,city center
+1430,I0347,car
+1431,I0026,city center
+1432,I0378,city center
+1433,I0412,library
+1434,I0310,home
+1435,I0400,residential area
+1436,I0176,city center
+1437,I0116,grocery store
+1438,I0055,grocery store
+1439,I0201,car
+1440,I0222,cafe/restaurant
+1441,I0136,car
+1442,I0403,city center
+1443,I0125,tram
+1444,I0158,library
+1445,I0356,tram
+1446,I0095,metro station
+1447,I0324,grocery store
+1448,I0190,home
+1449,I0020,grocery store
+1450,I0293,metro station
+1451,I0095,metro station
+1452,I0410,bus
+1453,I0413,city center
+1454,I0049,office
+1455,I0241,park
+1456,I0269,beach
+1457,I0084,park
+1458,I0374,office
+1459,I0358,library
+1460,I0057,park
+1461,I0098,beach
+1462,I0049,office
+1463,I0310,home
+1464,I0234,train
+1465,I0197,grocery store
+1466,I0094,cafe/restaurant
+1467,I0257,metro station
+1468,I0055,grocery store
+1469,I0339,grocery store
+1470,I0005,bus
+1471,I0235,bus
+1472,I0371,library
+1473,I0200,residential area
+1474,I0253,tram
+1475,I0096,beach
+1476,I0318,park
+1477,I0409,train
+1478,I0264,beach
+1479,I0028,metro station
+1480,I0205,beach
+1481,I0033,train
+1482,I0237,city center
+1483,I0215,cafe/restaurant
+1484,I0343,residential area
+1485,I0257,metro station
+1486,I0339,grocery store
+1487,I0335,car
+1488,I0119,home
+1489,I0209,park
+1490,I0170,library
+1491,I0274,park
+1492,I0350,beach
+1493,I0136,car
+1494,I0164,bus
+1495,I0083,cafe/restaurant
+1496,I0120,park
+1497,I0008,office
+1498,I0231,beach
+1499,I0125,tram
+1500,I0292,residential area
+1501,I0302,train
+1502,I0055,grocery store
+1503,I0062,bus
+1504,I0190,home
+1505,I0152,home
+1506,I0075,metro station
+1507,I0231,beach
+1508,I0290,train
+1509,I0180,metro station
+1510,I0043,cafe/restaurant
+1511,I0034,office
+1512,I0001,library
+1513,I0315,office
+1514,I0053,train
+1515,I0343,residential area
+1516,I0146,office
+1517,I0403,city center
+1518,I0116,grocery store
+1519,I0183,tram
+1520,I0148,library
+1521,I0224,office
+1522,I0318,park
+1523,I0388,library
+1524,I0335,car
+1525,I0196,car
+1526,I0087,cafe/restaurant
+1527,I0349,metro station
+1528,I0077,office
+1529,I0066,cafe/restaurant
+1530,I0103,grocery store
+1531,I0193,forest path
+1532,I0184,forest path
+1533,I0193,forest path
+1534,I0075,metro station
+1535,I0068,forest path
+1536,I0350,beach
+1537,I0370,cafe/restaurant
+1538,I0205,beach
+1539,I0385,grocery store
+1540,I0152,home
+1541,I0190,home
+1542,I0410,bus
+1543,I0033,train
+1544,I0195,tram
+1545,I0200,residential area
+1546,I0207,park
+1547,I0225,park
+1548,I0268,office
+1549,I0161,tram
+1550,I0026,city center
+1551,I0011,city center
+1552,I0113,library
+1553,I0023,grocery store
+1554,I0180,metro station
+1555,I0282,home
+1556,I0416,forest path
+1557,I0370,cafe/restaurant
+1558,I0040,beach
+1559,I0085,home
+1560,I0197,grocery store
+1561,I0047,city center
+1562,I0014,library
+1563,I0268,office
+1564,I0401,grocery store
+1565,I0089,cafe/restaurant
+1566,I0195,tram
+1567,I0167,home
+1568,I0011,city center
+1569,I0410,bus
+1570,I0027,metro station
+1571,I0053,train
+1572,I0242,forest path
+1573,I0329,train
+1574,I0408,park
+1575,I0390,office
+1576,I0027,metro station
+1577,I0289,forest path
+1578,I0278,grocery store
+1579,I0260,residential area
+1580,I0068,forest path
+1581,I0075,metro station
+1582,I0142,car
+1583,I0411,tram
+1584,I0347,car
+1585,I0324,grocery store
+1586,I0051,city center
+1587,I0416,forest path
+1588,I0268,office
+1589,I0195,tram
+1590,I0410,bus
+1591,I0241,park
+1592,I0110,residential area
+1593,I0268,office
+1594,I0146,office
+1595,I0120,park
+1596,I0370,cafe/restaurant
+1597,I0315,office
+1598,I0008,office
+1599,I0312,home
+1600,I0343,residential area
+1601,I0347,car
+1602,I0409,train
+1603,I0039,beach
+1604,I0064,bus
+1605,I0365,metro station
+1606,I0253,tram
+1607,I0190,home
+1608,I0185,metro station
+1609,I0202,forest path
+1610,I0097,bus
+1611,I0150,residential area
+1612,I0298,bus
+1613,I0062,bus
+1614,I0213,city center
+1615,I0034,office
+1616,I0063,train
+1617,I0176,city center
+1618,I0410,bus
+1619,I0352,car
+1620,I0114,metro station
+1621,I0170,library
+1622,I0220,home
+1623,I0215,cafe/restaurant
+1624,I0110,residential area
+1625,I0406,residential area
+1626,I0072,car
+1627,I0386,metro station
+1628,I0170,library
+1629,I0057,park
+1630,I0396,train
+1631,I0335,car
+1632,I0371,library
+1633,I0260,residential area
+1634,I0029,forest path
+1635,I0077,office
+1636,I0210,bus
+1637,I0411,tram
+1638,I0374,office
+1639,I0039,beach
+1640,I0026,city center
+1641,I0068,forest path
+1642,I0351,car
+1643,I0325,metro station
+1644,I0043,cafe/restaurant
+1645,I0101,train
+1646,I0163,residential area
+1647,I0165,residential area
+1648,I0416,forest path
+1649,I0245,forest path
+1650,I0029,forest path
+1651,I0205,beach
+1652,I0412,library
+1653,I0330,office
+1654,I0295,car
+1655,I0282,home
+1656,I0257,metro station
+1657,I0345,train
+1658,I0336,car
+1659,I0348,library
+1660,I0345,train
+1661,I0074,train
+1662,I0114,metro station
+1663,I0341,home
+1664,I0029,forest path
+1665,I0087,cafe/restaurant
+1666,I0015,office
+1667,I0269,beach
+1668,I0213,city center
+1669,I0078,library
+1670,I0388,library
+1671,I0414,forest path
+1672,I0385,grocery store
+1673,I0404,city center
+1674,I0306,bus
+1675,I0118,tram
+1676,I0299,residential area
+1677,I0098,beach
+1678,I0246,tram
+1679,I0224,office
+1680,I0224,office
+1681,I0311,tram
+1682,I0274,park
+1683,I0222,cafe/restaurant
+1684,I0120,park
+1685,I0165,residential area
+1686,I0062,bus
+1687,I0068,forest path
+1688,I0029,forest path
+1689,I0314,train
+1690,I0034,office
+1691,I0333,tram
+1692,I0337,metro station
+1693,I0128,library
+1694,I0127,residential area
+1695,I0304,beach
+1696,I0270,library
+1697,I0044,bus
+1698,I0365,metro station
+1699,I0282,home
+1700,I0264,beach
+1701,I0411,tram
+1702,I0260,residential area
+1703,I0356,tram
+1704,I0374,office
+1705,I0299,residential area
+1706,I0361,residential area
+1707,I0329,train
+1708,I0311,tram
+1709,I0034,office
+1710,I0164,bus
+1711,I0314,train
+1712,I0354,library
+1713,I0202,forest path
+1714,I0340,home
+1715,I0234,train
+1716,I0397,residential area
+1717,I0415,grocery store
+1718,I0349,metro station
+1719,I0415,grocery store
+1720,I0020,grocery store
+1721,I0245,forest path
+1722,I0231,beach
+1723,I0195,tram
+1724,I0185,metro station
+1725,I0400,residential area
+1726,I0385,grocery store
+1727,I0118,tram
+1728,I0378,city center
+1729,I0392,metro station
+1730,I0019,park
+1731,I0231,beach
+1732,I0027,metro station
+1733,I0365,metro station
+1734,I0164,bus
+1735,I0012,residential area
+1736,I0339,grocery store
+1737,I0104,beach
+1738,I0415,grocery store
+1739,I0163,residential area
+1740,I0399,library
+1741,I0310,home
+1742,I0218,bus
+1743,I0339,grocery store
+1744,I0299,residential area
+1745,I0351,car
+1746,I0220,home
+1747,I0257,metro station
+1748,I0340,home
+1749,I0065,metro station
+1750,I0009,tram
+1751,I0161,tram
+1752,I0074,train
+1753,I0171,forest path
+1754,I0164,bus
+1755,I0127,residential area
+1756,I0183,tram
+1757,I0196,car
+1758,I0366,tram
+1759,I0216,park
+1760,I0089,cafe/restaurant
+1761,I0098,beach
+1762,I0314,train
+1763,I0412,library
+1764,I0048,forest path
+1765,I0002,cafe/restaurant
+1766,I0032,office
+1767,I0276,city center
+1768,I0083,cafe/restaurant
+1769,I0081,train
+1770,I0380,train
+1771,I0081,train
+1772,I0196,car
+1773,I0221,grocery store
+1774,I0039,beach
+1775,I0366,tram
+1776,I0089,cafe/restaurant
+1777,I0201,car
+1778,I0278,grocery store
+1779,I0063,train
+1780,I0167,home
+1781,I0033,train
+1782,I0058,tram
+1783,I0015,office
+1784,I0415,grocery store
+1785,I0011,city center
+1786,I0345,train
+1787,I0074,train
+1788,I0127,residential area
+1789,I0041,car
+1790,I0361,residential area
+1791,I0002,cafe/restaurant
+1792,I0074,train
+1793,I0148,library
+1794,I0329,train
+1795,I0246,tram
+1796,I0036,beach
+1797,I0321,tram
+1798,I0101,train
+1799,I0390,office
+1800,I0310,home
+1801,I0148,library
+1802,I0130,forest path
+1803,I0367,car
+1804,I0356,tram
+1805,I0093,beach
+1806,I0396,train
+1807,I0348,library
+1808,I0203,tram
+1809,I0313,park
+1810,I0032,office
+1811,I0313,park
+1812,I0245,forest path
+1813,I0081,train
+1814,I0005,bus
+1815,I0366,tram
+1816,I0380,train
+1817,I0401,grocery store
+1818,I0115,city center
+1819,I0128,library
+1820,I0176,city center
+1821,I0144,forest path
+1822,I0145,office
+1823,I0165,residential area
+1824,I0330,office
+1825,I0063,train
+1826,I0403,city center
+1827,I0339,grocery store
+1828,I0128,library
+1829,I0352,car
+1830,I0033,train
+1831,I0062,bus
+1832,I0258,beach
+1833,I0055,grocery store
+1834,I0298,bus
+1835,I0130,forest path
+1836,I0071,cafe/restaurant
+1837,I0409,train
+1838,I0317,home
+1839,I0058,tram
+1840,I0170,library
+1841,I0261,grocery store
+1842,I0186,library
+1843,I0012,residential area
+1844,I0413,city center
+1845,I0203,tram
+1846,I0145,office
+1847,I0403,city center
+1848,I0371,library
+1849,I0339,grocery store
+1850,I0416,forest path
+1851,I0115,city center
+1852,I0020,grocery store
+1853,I0075,metro station
+1854,I0071,cafe/restaurant
+1855,I0093,beach
+1856,I0340,home
+1857,I0242,forest path
+1858,I0350,beach
+1859,I0358,library
+1860,I0268,office
+1861,I0255,office
+1862,I0396,train
+1863,I0197,grocery store
+1864,I0023,grocery store
+1865,I0358,library
+1866,I0043,cafe/restaurant
+1867,I0408,park
+1868,I0372,bus
+1869,I0170,library
+1870,I0169,cafe/restaurant
+1871,I0001,library
+1872,I0378,city center
+1873,I0350,beach
+1874,I0190,home
+1875,I0275,tram
+1876,I0083,cafe/restaurant
+1877,I0171,forest path
+1878,I0058,tram
+1879,I0086,beach
+1880,I0060,park
+1881,I0053,train
+1882,I0321,tram
+1883,I0340,home
+1884,I0397,residential area
+1885,I0087,cafe/restaurant
+1886,I0075,metro station
+1887,I0077,office
+1888,I0005,bus
+1889,I0040,beach
+1890,I0188,park
+1891,I0270,library
+1892,I0400,residential area
+1893,I0113,library
+1894,I0255,office
+1895,I0144,forest path
+1896,I0403,city center
+1897,I0089,cafe/restaurant
+1898,I0148,library
+1899,I0403,city center
+1900,I0068,forest path
+1901,I0258,beach
+1902,I0062,bus
+1903,I0041,car
+1904,I0383,car
+1905,I0325,metro station
+1906,I0411,tram
+1907,I0394,car
+1908,I0261,grocery store
+1909,I0146,office
+1910,I0296,forest path
+1911,I0120,park
+1912,I0374,office
+1913,I0259,home
+1914,I0388,library
+1915,I0409,train
+1916,I0077,office
+1917,I0365,metro station
+1918,I0070,beach
+1919,I0142,car
+1920,I0295,car
+1921,I0282,home
+1922,I0019,park
+1923,I0311,tram
+1924,I0009,tram
+1925,I0166,cafe/restaurant
+1926,I0194,forest path
+1927,I0327,park
+1928,I0410,bus
+1929,I0072,car
+1930,I0052,metro station
+1931,I0055,grocery store
+1932,I0340,home
+1933,I0312,home
+1934,I0415,grocery store
+1935,I0394,car
+1936,I0341,home
+1937,I0401,grocery store
+1938,I0222,cafe/restaurant
+1939,I0044,bus
+1940,I0313,park
+1941,I0003,train
+1942,I0096,beach
+1943,I0273,car
+1944,I0288,home
+1945,I0347,car
+1946,I0028,metro station
+1947,I0166,cafe/restaurant
+1948,I0048,forest path
+1949,I0014,library
+1950,I0154,car
+1951,I0092,cafe/restaurant
+1952,I0322,bus
+1953,I0201,car
+1954,I0053,train
+1955,I0057,park
+1956,I0227,cafe/restaurant
+1957,I0194,forest path
+1958,I0191,library
+1959,I0209,park
+1960,I0169,cafe/restaurant
+1961,I0191,library
+1962,I0261,grocery store
+1963,I0191,library
+1964,I0161,tram
+1965,I0220,home
+1966,I0258,beach
+1967,I0167,home
+1968,I0333,tram
+1969,I0028,metro station
+1970,I0032,office
+1971,I0128,library
+1972,I0092,cafe/restaurant
+1973,I0081,train
+1974,I0326,bus
+1975,I0306,bus
+1976,I0262,residential area
+1977,I0220,home
+1978,I0400,residential area
+1979,I0386,metro station
+1980,I0071,cafe/restaurant
+1981,I0330,office
+1982,I0061,city center
+1983,I0177,car
+1984,I0327,park
+1985,I0180,metro station
+1986,I0127,residential area
+1987,I0360,park
+1988,I0019,park
+1989,I0335,car
+1990,I0125,tram
+1991,I0394,car
+1992,I0023,grocery store
+1993,I0122,park
+1994,I0268,office
+1995,I0154,car
+1996,I0264,beach
+1997,I0295,car
+1998,I0070,beach
+1999,I0269,beach
+2000,I0394,car
+2001,I0372,bus
+2002,I0085,home
+2003,I0324,grocery store
+2004,I0404,city center
+2005,I0001,library
+2006,I0047,city center
+2007,I0102,train
+2008,I0396,train
+2009,I0343,residential area
+2010,I0339,grocery store
+2011,I0094,cafe/restaurant
+2012,I0213,city center
+2013,I0055,grocery store
+2014,I0227,cafe/restaurant
+2015,I0221,grocery store
+2016,I0163,residential area
+2017,I0195,tram
+2018,I0415,grocery store
+2019,I0289,forest path
+2020,I0403,city center
+2021,I0166,cafe/restaurant
+2022,I0367,car
+2023,I0185,metro station
+2024,I0292,residential area
+2025,I0184,forest path
+2026,I0326,bus
+2027,I0322,bus
+2028,I0053,train
+2029,I0186,library
+2030,I0367,car
+2031,I0313,park
+2032,I0119,home
+2033,I0412,library
+2034,I0249,city center
+2035,I0029,forest path
+2036,I0152,home
+2037,I0414,forest path
+2038,I0103,grocery store
+2039,I0215,cafe/restaurant
+2040,I0125,tram
+2041,I0012,residential area
+2042,I0288,home
+2043,I0401,grocery store
+2044,I0275,tram
+2045,I0146,office
+2046,I0058,tram
+2047,I0028,metro station
+2048,I0222,cafe/restaurant
+2049,I0131,residential area
+2050,I0177,car
+2051,I0176,city center
+2052,I0261,grocery store
+2053,I0167,home
+2054,I0325,metro station
+2055,I0120,park
+2056,I0122,park
+2057,I0314,train
+2058,I0197,grocery store
+2059,I0136,car
+2060,I0255,office
+2061,I0085,home
+2062,I0366,tram
+2063,I0396,train
+2064,I0134,grocery store
+2065,I0136,car
+2066,I0054,grocery store
+2067,I0105,office
+2068,I0361,residential area
+2069,I0318,park
+2070,I0241,park
+2071,I0241,park
+2072,I0372,bus
+2073,I0237,city center
+2074,I0224,office
+2075,I0060,park
+2076,I0161,tram
+2077,I0260,residential area
+2078,I0253,tram
+2079,I0176,city center
+2080,I0114,metro station
+2081,I0345,train
+2082,I0185,metro station
+2083,I0102,train
+2084,I0164,bus
+2085,I0410,bus
+2086,I0026,city center
+2087,I0103,grocery store
+2088,I0293,metro station
+2089,I0086,beach
+2090,I0325,metro station
+2091,I0101,train
+2092,I0385,grocery store
+2093,I0191,library
+2094,I0314,train
+2095,I0410,bus
+2096,I0039,beach
+2097,I0101,train
+2098,I0397,residential area
+2099,I0154,car
+2100,I0134,grocery store
+2101,I0330,office
+2102,I0348,library
+2103,I0101,train
+2104,I0404,city center
+2105,I0064,bus
+2106,I0049,office
+2107,I0118,tram
+2108,I0297,bus
+2109,I0119,home
+2110,I0169,cafe/restaurant
+2111,I0413,city center
+2112,I0122,park
+2113,I0356,tram
+2114,I0016,bus
+2115,I0308,beach
+2116,I0310,home
+2117,I0306,bus
+2118,I0098,beach
+2119,I0163,residential area
+2120,I0243,city center
+2121,I0055,grocery store
+2122,I0089,cafe/restaurant
+2123,I0060,park
+2124,I0048,forest path
+2125,I0401,grocery store
+2126,I0326,bus
+2127,I0295,car
+2128,I0054,grocery store
+2129,I0396,train
+2130,I0131,residential area
+2131,I0312,home
+2132,I0216,park
+2133,I0092,cafe/restaurant
+2134,I0197,grocery store
+2135,I0048,forest path
+2136,I0008,office
+2137,I0234,train
+2138,I0061,city center
+2139,I0403,city center
+2140,I0275,tram
+2141,I0136,car
+2142,I0228,grocery store
+2143,I0186,library
+2144,I0197,grocery store
+2145,I0293,metro station
+2146,I0385,grocery store
+2147,I0257,metro station
+2148,I0401,grocery store
+2149,I0040,beach
+2150,I0356,tram
+2151,I0234,train
+2152,I0096,beach
+2153,I0249,city center
+2154,I0298,bus
+2155,I0245,forest path
+2156,I0415,grocery store
+2157,I0166,cafe/restaurant
+2158,I0071,cafe/restaurant
+2159,I0160,metro station
+2160,I0186,library
+2161,I0167,home
+2162,I0053,train
+2163,I0340,home
+2164,I0094,cafe/restaurant
+2165,I0235,bus
+2166,I0195,tram
+2167,I0130,forest path
+2168,I0120,park
+2169,I0114,metro station
+2170,I0140,forest path
+2171,I0326,bus
+2172,I0093,beach
+2173,I0292,residential area
+2174,I0339,grocery store
+2175,I0221,grocery store
+2176,I0416,forest path
+2177,I0041,car
+2178,I0169,cafe/restaurant
+2179,I0361,residential area
+2180,I0150,residential area
+2181,I0317,home
+2182,I0258,beach
+2183,I0330,office
+2184,I0390,office
+2185,I0310,home
+2186,I0035,tram
+2187,I0410,bus
+2188,I0371,library
+2189,I0098,beach
+2190,I0255,office
+2191,I0213,city center
+2192,I0020,grocery store
+2193,I0323,forest path
+2194,I0385,grocery store
+2195,I0015,office
+2196,I0094,cafe/restaurant
+2197,I0035,tram
+2198,I0360,park
+2199,I0194,forest path
+2200,I0317,home
+2201,I0227,cafe/restaurant
+2202,I0164,bus
+2203,I0130,forest path
+2204,I0085,home
+2205,I0184,forest path
+2206,I0396,train
+2207,I0036,beach
+2208,I0370,cafe/restaurant
+2209,I0016,bus
+2210,I0068,forest path
+2211,I0213,city center
+2212,I0325,metro station
+2213,I0327,park
+2214,I0035,tram
+2215,I0085,home
+2216,I0358,library
+2217,I0396,train
+2218,I0228,grocery store
+2219,I0078,library
+2220,I0102,train
+2221,I0329,train
+2222,I0110,residential area
+2223,I0041,car
+2224,I0096,beach
+2225,I0409,train
+2226,I0374,office
+2227,I0235,bus
+2228,I0358,library
+2229,I0068,forest path
+2230,I0352,car
+2231,I0225,park
+2232,I0009,tram
+2233,I0412,library
+2234,I0259,home
+2235,I0092,cafe/restaurant
+2236,I0184,forest path
+2237,I0257,metro station
+2238,I0068,forest path
+2239,I0052,metro station
+2240,I0257,metro station
+2241,I0041,car
+2242,I0008,office
+2243,I0340,home
+2244,I0352,car
+2245,I0020,grocery store
+2246,I0341,home
+2247,I0329,train
+2248,I0261,grocery store
+2249,I0207,park
+2250,I0002,cafe/restaurant
+2251,I0336,car
+2252,I0075,metro station
+2253,I0016,bus
+2254,I0205,beach
+2255,I0089,cafe/restaurant
+2256,I0216,park
+2257,I0041,car
+2258,I0140,forest path
+2259,I0086,beach
+2260,I0348,library
+2261,I0063,train
+2262,I0351,car
+2263,I0078,library
+2264,I0142,car
+2265,I0011,city center
+2266,I0373,cafe/restaurant
+2267,I0406,residential area
+2268,I0089,cafe/restaurant
+2269,I0063,train
+2270,I0077,office
+2271,I0253,tram
+2272,I0383,car
+2273,I0182,beach
+2274,I0115,city center
+2275,I0074,train
+2276,I0310,home
+2277,I0317,home
+2278,I0225,park
+2279,I0111,home
+2280,I0057,park
+2281,I0337,metro station
+2282,I0314,train
+2283,I0065,metro station
+2284,I0361,residential area
+2285,I0215,cafe/restaurant
+2286,I0241,park
+2287,I0063,train
+2288,I0246,tram
+2289,I0295,car
+2290,I0225,park
+2291,I0040,beach
+2292,I0148,library
+2293,I0005,bus
+2294,I0222,cafe/restaurant
+2295,I0036,beach
+2296,I0065,metro station
+2297,I0246,tram
+2298,I0221,grocery store
+2299,I0270,library
+2300,I0111,home
+2301,I0347,car
+2302,I0064,bus
+2303,I0051,city center
+2304,I0253,tram
+2305,I0397,residential area
+2306,I0128,library
+2307,I0322,bus
+2308,I0413,city center
+2309,I0392,metro station
+2310,I0180,metro station
+2311,I0260,residential area
+2312,I0102,train
+2313,I0262,residential area
+2314,I0404,city center
+2315,I0160,metro station
+2316,I0383,car
+2317,I0339,grocery store
+2318,I0161,tram
+2319,I0035,tram
+2320,I0034,office
+2321,I0209,park
+2322,I0318,park
+2323,I0324,grocery store
+2324,I0322,bus
+2325,I0321,tram
+2326,I0410,bus
+2327,I0097,bus
+2328,I0051,city center
+2329,I0089,cafe/restaurant
+2330,I0311,tram
+2331,I0306,bus
+2332,I0026,city center
+2333,I0040,beach
+2334,I0078,library
+2335,I0341,home
+2336,I0063,train
+2337,I0410,bus
+2338,I0065,metro station
+2339,I0158,library
+2340,I0341,home
+2341,I0012,residential area
+2342,I0171,forest path
+2343,I0166,cafe/restaurant
+2344,I0245,forest path
+2345,I0218,bus
+2346,I0222,cafe/restaurant
+2347,I0249,city center
+2348,I0367,car
+2349,I0048,forest path
+2350,I0258,beach
+2351,I0224,office
+2352,I0365,metro station
+2353,I0335,car
+2354,I0044,bus
+2355,I0210,bus
+2356,I0269,beach
+2357,I0318,park
+2358,I0101,train
+2359,I0295,car
+2360,I0170,library
+2361,I0027,metro station
+2362,I0164,bus
+2363,I0354,library
+2364,I0354,library
+2365,I0374,office
+2366,I0404,city center
+2367,I0297,bus
+2368,I0040,beach
+2369,I0083,cafe/restaurant
+2370,I0002,cafe/restaurant
+2371,I0347,car
+2372,I0089,cafe/restaurant
+2373,I0232,bus
+2374,I0111,home
+2375,I0053,train
+2376,I0096,beach
+2377,I0372,bus
+2378,I0228,grocery store
+2379,I0218,bus
+2380,I0105,office
+2381,I0373,cafe/restaurant
+2382,I0264,beach
+2383,I0253,tram
+2384,I0125,tram
+2385,I0196,car
+2386,I0009,tram
+2387,I0293,metro station
+2388,I0164,bus
+2389,I0093,beach
+2390,I0404,city center
+2391,I0246,tram
+2392,I0310,home
+2393,I0114,metro station
+2394,I0063,train
+2395,I0188,park
+2396,I0026,city center
+2397,I0142,car
+2398,I0403,city center
+2399,I0361,residential area
+2400,I0232,bus
+2401,I0077,office
+2402,I0095,metro station
+2403,I0002,cafe/restaurant
+2404,I0386,metro station
+2405,I0322,bus
+2406,I0130,forest path
+2407,I0288,home
+2408,I0086,beach
+2409,I0030,home
+2410,I0224,office
+2411,I0392,metro station
+2412,I0310,home
+2413,I0104,beach
+2414,I0262,residential area
+2415,I0205,beach
+2416,I0278,grocery store
+2417,I0403,city center
+2418,I0058,tram
+2419,I0145,office
+2420,I0105,office
+2421,I0299,residential area
+2422,I0412,library
+2423,I0164,bus
+2424,I0304,beach
+2425,I0380,train
+2426,I0195,tram
+2427,I0044,bus
+2428,I0237,city center
+2429,I0246,tram
+2430,I0196,car
+2431,I0243,city center
+2432,I0104,beach
+2433,I0044,bus
+2434,I0085,home
+2435,I0030,home
+2436,I0220,home
+2437,I0110,residential area
+2438,I0078,library
+2439,I0060,park
+2440,I0105,office
+2441,I0074,train
+2442,I0023,grocery store
+2443,I0102,train
+2444,I0366,tram
+2445,I0336,car
+2446,I0282,home
+2447,I0116,grocery store
+2448,I0383,car
+2449,I0016,bus
+2450,I0298,bus
+2451,I0040,beach
+2452,I0152,home
+2453,I0068,forest path
+2454,I0209,park
+2455,I0116,grocery store
+2456,I0394,car
+2457,I0399,library
+2458,I0193,forest path
+2459,I0032,office
+2460,I0052,metro station
+2461,I0365,metro station
+2462,I0036,beach
+2463,I0341,home
+2464,I0193,forest path
+2465,I0246,tram
+2466,I0060,park
+2467,I0352,car
+2468,I0048,forest path
+2469,I0416,forest path
+2470,I0241,park
+2471,I0003,train
+2472,I0259,home
+2473,I0416,forest path
+2474,I0218,bus
+2475,I0350,beach
+2476,I0098,beach
+2477,I0324,grocery store
+2478,I0165,residential area
+2479,I0086,beach
+2480,I0048,forest path
+2481,I0356,tram
+2482,I0083,cafe/restaurant
+2483,I0262,residential area
+2484,I0145,office
+2485,I0227,cafe/restaurant
+2486,I0167,home
+2487,I0264,beach
+2488,I0093,beach
+2489,I0227,cafe/restaurant
+2490,I0293,metro station
+2491,I0094,cafe/restaurant
+2492,I0055,grocery store
+2493,I0324,grocery store
+2494,I0351,car
+2495,I0329,train
+2496,I0169,cafe/restaurant
+2497,I0318,park
+2498,I0063,train
+2499,I0289,forest path
+2500,I0373,cafe/restaurant
+2501,I0409,train
+2502,I0047,city center
+2503,I0043,cafe/restaurant
+2504,I0323,forest path
+2505,I0297,bus
+2506,I0094,cafe/restaurant
+2507,I0373,cafe/restaurant
+2508,I0222,cafe/restaurant
+2509,I0041,car
+2510,I0278,grocery store
+2511,I0019,park
+2512,I0177,car
+2513,I0327,park
+2514,I0227,cafe/restaurant
+2515,I0324,grocery store
+2516,I0110,residential area
+2517,I0111,home
+2518,I0047,city center
+2519,I0098,beach
+2520,I0222,cafe/restaurant
+2521,I0216,park
+2522,I0361,residential area
+2523,I0071,cafe/restaurant
+2524,I0360,park
+2525,I0352,car
+2526,I0150,residential area
+2527,I0183,tram
+2528,I0043,cafe/restaurant
+2529,I0341,home
+2530,I0130,forest path
+2531,I0225,park
+2532,I0235,bus
+2533,I0231,beach
+2534,I0390,office
+2535,I0119,home
+2536,I0351,car
+2537,I0260,residential area
+2538,I0115,city center
+2539,I0012,residential area
+2540,I0404,city center
+2541,I0148,library
+2542,I0113,library
+2543,I0035,tram
+2544,I0165,residential area
+2545,I0409,train
+2546,I0182,beach
+2547,I0396,train
+2548,I0054,grocery store
+2549,I0403,city center
+2550,I0071,cafe/restaurant
+2551,I0348,library
+2552,I0144,forest path
+2553,I0081,train
+2554,I0383,car
+2555,I0009,tram
+2556,I0276,city center
+2557,I0323,forest path
+2558,I0259,home
+2559,I0373,cafe/restaurant
+2560,I0200,residential area
+2561,I0001,library
+2562,I0270,library
+2563,I0404,city center
+2564,I0089,cafe/restaurant
+2565,I0237,city center
+2566,I0347,car
+2567,I0130,forest path
+2568,I0015,office
+2569,I0296,forest path
+2570,I0295,car
+2571,I0030,home
+2572,I0009,tram
+2573,I0113,library
+2574,I0191,library
+2575,I0044,bus
+2576,I0081,train
+2577,I0140,forest path
+2578,I0047,city center
+2579,I0396,train
+2580,I0374,office
+2581,I0030,home
+2582,I0035,tram
+2583,I0386,metro station
+2584,I0039,beach
+2585,I0323,forest path
+2586,I0335,car
+2587,I0318,park
+2588,I0352,car
+2589,I0122,park
+2590,I0215,cafe/restaurant
+2591,I0383,car
+2592,I0064,bus
+2593,I0326,bus
+2594,I0308,beach
+2595,I0118,tram
+2596,I0222,cafe/restaurant
+2597,I0146,office
+2598,I0075,metro station
+2599,I0360,park
+2600,I0144,forest path
+2601,I0158,library
+2602,I0111,home
+2603,I0096,beach
+2604,I0221,grocery store
+2605,I0416,forest path
+2606,I0274,park
+2607,I0008,office
+2608,I0350,beach
+2609,I0122,park
+2610,I0118,tram
+2611,I0145,office
+2612,I0103,grocery store
+2613,I0084,park
+2614,I0352,car
+2615,I0160,metro station
+2616,I0296,forest path
+2617,I0205,beach
+2618,I0327,park
+2619,I0207,park
+2620,I0177,car
+2621,I0340,home
+2622,I0370,cafe/restaurant
+2623,I0410,bus
+2624,I0324,grocery store
+2625,I0262,residential area
+2626,I0318,park
+2627,I0057,park
+2628,I0191,library
+2629,I0262,residential area
+2630,I0055,grocery store
+2631,I0348,library
+2632,I0345,train
+2633,I0131,residential area
+2634,I0180,metro station
+2635,I0014,library
+2636,I0322,bus
+2637,I0245,forest path
+2638,I0051,city center
+2639,I0180,metro station
+2640,I0054,grocery store
+2641,I0086,beach
+2642,I0326,bus
+2643,I0084,park
+2644,I0191,library
+2645,I0041,car
+2646,I0415,grocery store
+2647,I0400,residential area
+2648,I0370,cafe/restaurant
+2649,I0312,home
+2650,I0333,tram
+2651,I0386,metro station
+2652,I0110,residential area
+2653,I0358,library
+2654,I0039,beach
+2655,I0062,bus
+2656,I0074,train
+2657,I0311,tram
+2658,I0347,car
+2659,I0348,library
+2660,I0406,residential area
+2661,I0333,tram
+2662,I0401,grocery store
+2663,I0312,home
+2664,I0166,cafe/restaurant
+2665,I0396,train
+2666,I0348,library
+2667,I0048,forest path
+2668,I0114,metro station
+2669,I0170,library
+2670,I0043,cafe/restaurant
+2671,I0408,park
+2672,I0183,tram
+2673,I0140,forest path
+2674,I0390,office
+2675,I0397,residential area
+2676,I0296,forest path
+2677,I0257,metro station
+2678,I0329,train
+2679,I0094,cafe/restaurant
+2680,I0005,bus
+2681,I0009,tram
+2682,I0200,residential area
+2683,I0314,train
+2684,I0237,city center
+2685,I0093,beach
+2686,I0131,residential area
+2687,I0098,beach
+2688,I0213,city center
+2689,I0370,cafe/restaurant
+2690,I0071,cafe/restaurant
+2691,I0043,cafe/restaurant
+2692,I0136,car
+2693,I0207,park
+2694,I0003,train
+2695,I0349,metro station
+2696,I0413,city center
+2697,I0028,metro station
+2698,I0066,cafe/restaurant
+2699,I0209,park
+2700,I0337,metro station
+2701,I0414,forest path
+2702,I0288,home
+2703,I0245,forest path
+2704,I0227,cafe/restaurant
+2705,I0292,residential area
+2706,I0186,library
+2707,I0068,forest path
+2708,I0048,forest path
+2709,I0352,car
+2710,I0207,park
+2711,I0327,park
+2712,I0411,tram
+2713,I0053,train
+2714,I0354,library
+2715,I0093,beach
+2716,I0171,forest path
+2717,I0262,residential area
+2718,I0033,train
+2719,I0330,office
+2720,I0136,car
+2721,I0164,bus
+2722,I0330,office
+2723,I0392,metro station
+2724,I0190,home
+2725,I0270,library
+2726,I0225,park
+2727,I0296,forest path
+2728,I0243,city center
+2729,I0414,forest path
+2730,I0014,library
+2731,I0290,train
+2732,I0015,office
+2733,I0349,metro station
+2734,I0409,train
+2735,I0163,residential area
+2736,I0343,residential area
+2737,I0218,bus
+2738,I0170,library
+2739,I0060,park
+2740,I0016,bus
+2741,I0011,city center
+2742,I0116,grocery store
+2743,I0330,office
+2744,I0057,park
+2745,I0222,cafe/restaurant
+2746,I0269,beach
+2747,I0299,residential area
+2748,I0055,grocery store
+2749,I0371,library
+2750,I0092,cafe/restaurant
+2751,I0066,cafe/restaurant
+2752,I0176,city center
+2753,I0086,beach
+2754,I0337,metro station
+2755,I0061,city center
+2756,I0061,city center
+2757,I0044,bus
+2758,I0255,office
+2759,I0053,train
+2760,I0292,residential area
+2761,I0397,residential area
+2762,I0052,metro station
+2763,I0231,beach
+2764,I0408,park
+2765,I0221,grocery store
+2766,I0107,train
+2767,I0027,metro station
+2768,I0299,residential area
+2769,I0392,metro station
+2770,I0361,residential area
+2771,I0409,train
+2772,I0273,car
+2773,I0308,beach
+2774,I0170,library
+2775,I0185,metro station
+2776,I0306,bus
+2777,I0282,home
+2778,I0360,park
+2779,I0165,residential area
+2780,I0249,city center
+2781,I0406,residential area
+2782,I0070,beach
+2783,I0345,train
+2784,I0200,residential area
+2785,I0177,car
+2786,I0142,car
+2787,I0075,metro station
+2788,I0399,library
+2789,I0225,park
+2790,I0318,park
+2791,I0131,residential area
+2792,I0049,office
+2793,I0180,metro station
+2794,I0015,office
+2795,I0327,park
+2796,I0027,metro station
+2797,I0224,office
+2798,I0061,city center
+2799,I0110,residential area
+2800,I0253,tram
+2801,I0315,office
+2802,I0274,park
+2803,I0061,city center
+2804,I0146,office
+2805,I0122,park
+2806,I0411,tram
+2807,I0193,forest path
+2808,I0227,cafe/restaurant
+2809,I0105,office
+2810,I0171,forest path
+2811,I0063,train
+2812,I0209,park
+2813,I0197,grocery store
+2814,I0321,tram
+2815,I0337,metro station
+2816,I0299,residential area
+2817,I0246,tram
+2818,I0378,city center
+2819,I0324,grocery store
+2820,I0396,train
+2821,I0413,city center
+2822,I0400,residential area
+2823,I0078,library
+2824,I0015,office
+2825,I0306,bus
+2826,I0409,train
+2827,I0313,park
+2828,I0029,forest path
+2829,I0041,car
+2830,I0295,car
+2831,I0347,car
+2832,I0034,office
+2833,I0169,cafe/restaurant
+2834,I0388,library
+2835,I0232,bus
+2836,I0111,home
+2837,I0033,train
+2838,I0234,train
+2839,I0404,city center
+2840,I0258,beach
+2841,I0040,beach
+2842,I0144,forest path
+2843,I0311,tram
+2844,I0410,bus
+2845,I0372,bus
+2846,I0140,forest path
+2847,I0304,beach
+2848,I0385,grocery store
+2849,I0034,office
+2850,I0313,park
+2851,I0186,library
+2852,I0095,metro station
+2853,I0372,bus
+2854,I0182,beach
+2855,I0259,home
+2856,I0158,library
+2857,I0009,tram
+2858,I0321,tram
+2859,I0041,car
+2860,I0275,tram
+2861,I0325,metro station
+2862,I0136,car
+2863,I0055,grocery store
+2864,I0019,park
+2865,I0354,library
+2866,I0374,office
+2867,I0358,library
+2868,I0183,tram
+2869,I0165,residential area
+2870,I0086,beach
+2871,I0413,city center
+2872,I0154,car
+2873,I0166,cafe/restaurant
+2874,I0144,forest path
+2875,I0101,train
+2876,I0097,bus
+2877,I0378,city center
+2878,I0111,home
+2879,I0127,residential area
+2880,I0103,grocery store
+2881,I0330,office
+2882,I0144,forest path
+2883,I0176,city center
+2884,I0261,grocery store
+2885,I0270,library
+2886,I0092,cafe/restaurant
+2887,I0033,train
+2888,I0397,residential area
+2889,I0185,metro station
+2890,I0378,city center
+2891,I0048,forest path
+2892,I0026,city center
+2893,I0253,tram
+2894,I0314,train
+2895,I0041,car
+2896,I0008,office
+2897,I0352,car
+2898,I0213,city center
+2899,I0047,city center
+2900,I0205,beach
+2901,I0336,car
+2902,I0315,office
+2903,I0333,tram
+2904,I0075,metro station
+2905,I0114,metro station
+2906,I0104,beach
+2907,I0278,grocery store
+2908,I0351,car
+2909,I0115,city center
+2910,I0404,city center
+2911,I0401,grocery store
+2912,I0361,residential area
+2913,I0253,tram
+2914,I0340,home
+2915,I0202,forest path
+2916,I0221,grocery store
+2917,I0288,home
+2918,I0030,home
+2919,I0276,city center
+2920,I0171,forest path
+2921,I0415,grocery store
+2922,I0014,library
+2923,I0413,city center
+2924,I0322,bus
+2925,I0161,tram
+2926,I0392,metro station
+2927,I0245,forest path
+2928,I0403,city center
+2929,I0360,park
+2930,I0152,home
+2931,I0365,metro station
+2932,I0029,forest path
+2933,I0258,beach
+2934,I0216,park
+2935,I0235,bus
+2936,I0397,residential area
+2937,I0245,forest path
+2938,I0411,tram
+2939,I0093,beach
+2940,I0413,city center
+2941,I0113,library
+2942,I0104,beach
+2943,I0339,grocery store
+2944,I0330,office
+2945,I0095,metro station
+2946,I0378,city center
+2947,I0060,park
+2948,I0111,home
+2949,I0136,car
+2950,I0150,residential area
+2951,I0171,forest path
+2952,I0062,bus
+2953,I0171,forest path
+2954,I0002,cafe/restaurant
+2955,I0203,tram
+2956,I0030,home
+2957,I0150,residential area
+2958,I0089,cafe/restaurant
+2959,I0134,grocery store
+2960,I0225,park
+2961,I0027,metro station
+2962,I0077,office
+2963,I0321,tram
+2964,I0012,residential area
+2965,I0194,forest path
+2966,I0152,home
+2967,I0012,residential area
+2968,I0087,cafe/restaurant
+2969,I0028,metro station
+2970,I0329,train
+2971,I0114,metro station
+2972,I0321,tram
+2973,I0356,tram
+2974,I0152,home
+2975,I0326,bus
+2976,I0066,cafe/restaurant
+2977,I0036,beach
+2978,I0176,city center
+2979,I0197,grocery store
+2980,I0234,train
+2981,I0116,grocery store
+2982,I0028,metro station
+2983,I0039,beach
+2984,I0324,grocery store
+2985,I0011,city center
+2986,I0011,city center
+2987,I0312,home
+2988,I0321,tram
+2989,I0083,cafe/restaurant
+2990,I0323,forest path
+2991,I0314,train
+2992,I0032,office
+2993,I0101,train
+2994,I0378,city center
+2995,I0107,train
+2996,I0228,grocery store
+2997,I0052,metro station
+2998,I0039,beach
+2999,I0235,bus
+3000,I0146,office
+3001,I0113,library
+3002,I0273,car
+3003,I0350,beach
+3004,I0035,tram
+3005,I0195,tram
+3006,I0092,cafe/restaurant
+3007,I0326,bus
+3008,I0070,beach
+3009,I0193,forest path
+3010,I0011,city center
+3011,I0146,office
+3012,I0221,grocery store
+3013,I0065,metro station
+3014,I0412,library
+3015,I0371,library
+3016,I0095,metro station
+3017,I0046,residential area
+3018,I0011,city center
+3019,I0413,city center
+3020,I0114,metro station
+3021,I0185,metro station
+3022,I0282,home
+3023,I0134,grocery store
+3024,I0023,grocery store
+3025,I0290,train
+3026,I0176,city center
+3027,I0114,metro station
+3028,I0044,bus
+3029,I0183,tram
+3030,I0114,metro station
+3031,I0125,tram
+3032,I0085,home
+3033,I0032,office
+3034,I0249,city center
+3035,I0275,tram
+3036,I0380,train
+3037,I0408,park
+3038,I0176,city center
+3039,I0165,residential area
+3040,I0210,bus
+3041,I0220,home
+3042,I0047,city center
+3043,I0210,bus
+3044,I0306,bus
+3045,I0400,residential area
+3046,I0136,car
+3047,I0306,bus
+3048,I0167,home
+3049,I0306,bus
+3050,I0030,home
+3051,I0095,metro station
+3052,I0048,forest path
+3053,I0209,park
+3054,I0028,metro station
+3055,I0166,cafe/restaurant
+3056,I0096,beach
+3057,I0096,beach
+3058,I0371,library
+3059,I0358,library
+3060,I0340,home
+3061,I0184,forest path
+3062,I0190,home
+3063,I0061,city center
+3064,I0065,metro station
+3065,I0378,city center
+3066,I0092,cafe/restaurant
+3067,I0134,grocery store
+3068,I0288,home
+3069,I0107,train
+3070,I0333,tram
+3071,I0170,library
+3072,I0032,office
+3073,I0411,tram
+3074,I0399,library
+3075,I0410,bus
+3076,I0380,train
+3077,I0321,tram
+3078,I0003,train
+3079,I0166,cafe/restaurant
+3080,I0064,bus
+3081,I0299,residential area
+3082,I0041,car
+3083,I0062,bus
+3084,I0370,cafe/restaurant
+3085,I0029,forest path
+3086,I0163,residential area
+3087,I0057,park
+3088,I0220,home
+3089,I0158,library
+3090,I0289,forest path
+3091,I0102,train
+3092,I0416,forest path
+3093,I0282,home
+3094,I0158,library
+3095,I0185,metro station
+3096,I0290,train
+3097,I0313,park
+3098,I0335,car
+3099,I0122,park
+3100,I0411,tram
+3101,I0336,car
+3102,I0030,home
+3103,I0322,bus
+3104,I0235,bus
+3105,I0410,bus
+3106,I0098,beach
+3107,I0120,park
+3108,I0416,forest path
+3109,I0361,residential area
+3110,I0015,office
+3111,I0360,park
+3112,I0275,tram
+3113,I0350,beach
+3114,I0008,office
+3115,I0225,park
+3116,I0228,grocery store
+3117,I0087,cafe/restaurant
+3118,I0028,metro station
+3119,I0410,bus
+3120,I0378,city center
+3121,I0415,grocery store
+3122,I0318,park
+3123,I0015,office
+3124,I0358,library
+3125,I0125,tram
+3126,I0293,metro station
+3127,I0163,residential area
+3128,I0026,city center
+3129,I0146,office
+3130,I0125,tram
+3131,I0273,car
+3132,I0232,bus
+3133,I0200,residential area
+3134,I0209,park
+3135,I0290,train
+3136,I0142,car
+3137,I0032,office
+3138,I0119,home
+3139,I0146,office
+3140,I0380,train
+3141,I0072,car
+3142,I0113,library
+3143,I0336,car
+3144,I0378,city center
+3145,I0140,forest path
+3146,I0255,office
+3147,I0093,beach
+3148,I0262,residential area
+3149,I0322,bus
+3150,I0089,cafe/restaurant
+3151,I0186,library
+3152,I0190,home
+3153,I0075,metro station
+3154,I0370,cafe/restaurant
+3155,I0215,cafe/restaurant
+3156,I0365,metro station
+3157,I0081,train
+3158,I0145,office
+3159,I0348,library
+3160,I0093,beach
+3161,I0243,city center
+3162,I0372,bus
+3163,I0039,beach
+3164,I0289,forest path
+3165,I0144,forest path
+3166,I0209,park
+3167,I0115,city center
+3168,I0165,residential area
+3169,I0005,bus
+3170,I0385,grocery store
+3171,I0058,tram
+3172,I0066,cafe/restaurant
+3173,I0386,metro station
+3174,I0044,bus
+3175,I0323,forest path
+3176,I0182,beach
+3177,I0275,tram
+3178,I0311,tram
+3179,I0313,park
+3180,I0386,metro station
+3181,I0249,city center
+3182,I0386,metro station
+3183,I0115,city center
+3184,I0052,metro station
+3185,I0317,home
+3186,I0222,cafe/restaurant
+3187,I0054,grocery store
+3188,I0367,car
+3189,I0396,train
+3190,I0115,city center
+3191,I0130,forest path
+3192,I0414,forest path
+3193,I0046,residential area
+3194,I0142,car
+3195,I0041,car
+3196,I0218,bus
+3197,I0101,train
+3198,I0142,car
+3199,I0046,residential area
+3200,I0084,park
+3201,I0033,train
+3202,I0030,home
+3203,I0366,tram
+3204,I0158,library
+3205,I0032,office
+3206,I0378,city center
+3207,I0196,car
+3208,I0324,grocery store
+3209,I0035,tram
+3210,I0131,residential area
+3211,I0399,library
+3212,I0102,train
+3213,I0378,city center
+3214,I0043,cafe/restaurant
+3215,I0029,forest path
+3216,I0372,bus
+3217,I0400,residential area
+3218,I0372,bus
+3219,I0314,train
+3220,I0092,cafe/restaurant
+3221,I0195,tram
+3222,I0333,tram
+3223,I0258,beach
+3224,I0224,office
+3225,I0409,train
+3226,I0282,home
+3227,I0354,library
+3228,I0351,car
+3229,I0103,grocery store
+3230,I0245,forest path
+3231,I0146,office
+3232,I0337,metro station
+3233,I0225,park
+3234,I0292,residential area
+3235,I0295,car
+3236,I0062,bus
+3237,I0167,home
+3238,I0246,tram
+3239,I0258,beach
+3240,I0310,home
+3241,I0122,park
+3242,I0351,car
+3243,I0148,library
+3244,I0207,park
+3245,I0061,city center
+3246,I0388,library
+3247,I0372,bus
+3248,I0047,city center
+3249,I0356,tram
+3250,I0110,residential area
+3251,I0234,train
+3252,I0169,cafe/restaurant
+3253,I0102,train
+3254,I0092,cafe/restaurant
+3255,I0290,train
+3256,I0314,train
+3257,I0177,car
+3258,I0154,car
+3259,I0066,cafe/restaurant
+3260,I0177,car
+3261,I0264,beach
+3262,I0352,car
+3263,I0074,train
+3264,I0098,beach
+3265,I0366,tram
+3266,I0325,metro station
+3267,I0051,city center
+3268,I0245,forest path
+3269,I0388,library
+3270,I0145,office
+3271,I0242,forest path
+3272,I0071,cafe/restaurant
+3273,I0012,residential area
+3274,I0130,forest path
+3275,I0295,car
+3276,I0122,park
+3277,I0044,bus
+3278,I0298,bus
+3279,I0052,metro station
+3280,I0237,city center
+3281,I0197,grocery store
+3282,I0397,residential area
+3283,I0115,city center
+3284,I0315,office
+3285,I0122,park
+3286,I0224,office
+3287,I0261,grocery store
+3288,I0308,beach
+3289,I0258,beach
+3290,I0302,train
+3291,I0188,park
+3292,I0341,home
+3293,I0259,home
+3294,I0335,car
+3295,I0161,tram
+3296,I0092,cafe/restaurant
+3297,I0110,residential area
+3298,I0348,library
+3299,I0325,metro station
+3300,I0171,forest path
+3301,I0011,city center
+3302,I0367,car
+3303,I0213,city center
+3304,I0113,library
+3305,I0182,beach
+3306,I0020,grocery store
+3307,I0292,residential area
+3308,I0058,tram
+3309,I0221,grocery store
+3310,I0390,office
+3311,I0412,library
+3312,I0111,home
+3313,I0052,metro station
+3314,I0335,car
+3315,I0188,park
+3316,I0098,beach
+3317,I0002,cafe/restaurant
+3318,I0145,office
+3319,I0269,beach
+3320,I0358,library
+3321,I0188,park
+3322,I0323,forest path
+3323,I0032,office
+3324,I0096,beach
+3325,I0253,tram
+3326,I0087,cafe/restaurant
+3327,I0337,metro station
+3328,I0049,office
+3329,I0231,beach
+3330,I0131,residential area
+3331,I0255,office
+3332,I0193,forest path
+3333,I0290,train
+3334,I0051,city center
+3335,I0210,bus
+3336,I0227,cafe/restaurant
+3337,I0092,cafe/restaurant
+3338,I0213,city center
+3339,I0349,metro station
+3340,I0152,home
+3341,I0003,train
+3342,I0011,city center
+3343,I0243,city center
+3344,I0161,tram
+3345,I0390,office
+3346,I0077,office
+3347,I0097,bus
+3348,I0413,city center
+3349,I0215,cafe/restaurant
+3350,I0023,grocery store
+3351,I0245,forest path
+3352,I0324,grocery store
+3353,I0201,car
+3354,I0040,beach
+3355,I0374,office
+3356,I0358,library
+3357,I0127,residential area
+3358,I0348,library
+3359,I0035,tram
+3360,I0268,office
+3361,I0078,library
+3362,I0356,tram
+3363,I0289,forest path
+3364,I0378,city center
+3365,I0339,grocery store
+3366,I0261,grocery store
+3367,I0261,grocery store
+3368,I0269,beach
+3369,I0373,cafe/restaurant
+3370,I0114,metro station
+3371,I0273,car
+3372,I0296,forest path
+3373,I0152,home
+3374,I0035,tram
+3375,I0235,bus
+3376,I0134,grocery store
+3377,I0205,beach
+3378,I0072,car
+3379,I0029,forest path
+3380,I0415,grocery store
+3381,I0087,cafe/restaurant
+3382,I0164,bus
+3383,I0186,library
+3384,I0201,car
+3385,I0259,home
+3386,I0169,cafe/restaurant
+3387,I0306,bus
+3388,I0096,beach
+3389,I0032,office
+3390,I0167,home
+3391,I0392,metro station
+3392,I0046,residential area
+3393,I0066,cafe/restaurant
+3394,I0340,home
+3395,I0243,city center
+3396,I0322,bus
+3397,I0146,office
+3398,I0336,car
+3399,I0329,train
+3400,I0055,grocery store
+3401,I0001,library
+3402,I0234,train
+3403,I0140,forest path
+3404,I0370,cafe/restaurant
+3405,I0150,residential area
+3406,I0166,cafe/restaurant
+3407,I0414,forest path
+3408,I0264,beach
+3409,I0270,library
+3410,I0317,home
+3411,I0131,residential area
+3412,I0413,city center
+3413,I0216,park
+3414,I0103,grocery store
+3415,I0302,train
+3416,I0163,residential area
+3417,I0304,beach
+3418,I0293,metro station
+3419,I0409,train
+3420,I0258,beach
+3421,I0087,cafe/restaurant
+3422,I0409,train
+3423,I0340,home
+3424,I0261,grocery store
+3425,I0057,park
+3426,I0127,residential area
+3427,I0288,home
+3428,I0327,park
+3429,I0221,grocery store
+3430,I0356,tram
+3431,I0261,grocery store
+3432,I0142,car
+3433,I0016,bus
+3434,I0054,grocery store
+3435,I0054,grocery store
+3436,I0242,forest path
+3437,I0051,city center
+3438,I0039,beach
+3439,I0002,cafe/restaurant
+3440,I0268,office
+3441,I0023,grocery store
+3442,I0083,cafe/restaurant
+3443,I0023,grocery store
+3444,I0078,library
+3445,I0134,grocery store
+3446,I0061,city center
+3447,I0044,bus
+3448,I0260,residential area
+3449,I0003,train
+3450,I0078,library
+3451,I0081,train
+3452,I0201,car
+3453,I0062,bus
+3454,I0343,residential area
+3455,I0061,city center
+3456,I0161,tram
+3457,I0299,residential area
+3458,I0177,car
+3459,I0078,library
+3460,I0224,office
+3461,I0349,metro station
+3462,I0144,forest path
+3463,I0051,city center
+3464,I0041,car
+3465,I0297,bus
+3466,I0134,grocery store
+3467,I0165,residential area
+3468,I0107,train
+3469,I0340,home
+3470,I0160,metro station
+3471,I0273,car
+3472,I0315,office
+3473,I0180,metro station
+3474,I0197,grocery store
+3475,I0414,forest path
+3476,I0374,office
+3477,I0051,city center
+3478,I0111,home
+3479,I0016,bus
+3480,I0176,city center
+3481,I0401,grocery store
+3482,I0066,cafe/restaurant
+3483,I0235,bus
+3484,I0408,park
+3485,I0002,cafe/restaurant
+3486,I0374,office
+3487,I0193,forest path
+3488,I0215,cafe/restaurant
+3489,I0165,residential area
+3490,I0171,forest path
+3491,I0107,train
+3492,I0383,car
+3493,I0276,city center
+3494,I0414,forest path
+3495,I0180,metro station
+3496,I0220,home
+3497,I0330,office
+3498,I0290,train
+3499,I0383,car
+3500,I0116,grocery store
+3501,I0335,car
+3502,I0061,city center
+3503,I0360,park
+3504,I0084,park
+3505,I0260,residential area
+3506,I0150,residential area
+3507,I0218,bus
+3508,I0408,park
+3509,I0128,library
+3510,I0371,library
+3511,I0097,bus
+3512,I0372,bus
+3513,I0087,cafe/restaurant
+3514,I0246,tram
+3515,I0290,train
+3516,I0047,city center
+3517,I0105,office
+3518,I0367,car
+3519,I0055,grocery store
+3520,I0336,car
+3521,I0014,library
+3522,I0313,park
+3523,I0310,home
+3524,I0019,park
+3525,I0061,city center
+3526,I0367,car
+3527,I0213,city center
+3528,I0386,metro station
+3529,I0371,library
+3530,I0001,library
+3531,I0016,bus
+3532,I0166,cafe/restaurant
+3533,I0029,forest path
+3534,I0314,train
+3535,I0216,park
+3536,I0032,office
+3537,I0003,train
+3538,I0298,bus
+3539,I0241,park
+3540,I0304,beach
+3541,I0220,home
+3542,I0131,residential area
+3543,I0365,metro station
+3544,I0349,metro station
+3545,I0158,library
+3546,I0001,library
+3547,I0216,park
+3548,I0066,cafe/restaurant
+3549,I0392,metro station
+3550,I0273,car
+3551,I0322,bus
+3552,I0207,park
+3553,I0134,grocery store
+3554,I0413,city center
+3555,I0333,tram
+3556,I0365,metro station
+3557,I0232,bus
+3558,I0367,car
+3559,I0220,home
+3560,I0372,bus
+3561,I0005,bus
+3562,I0215,cafe/restaurant
+3563,I0032,office
+3564,I0312,home
+3565,I0304,beach
+3566,I0335,car
+3567,I0292,residential area
+3568,I0220,home
+3569,I0087,cafe/restaurant
+3570,I0222,cafe/restaurant
+3571,I0348,library
+3572,I0215,cafe/restaurant
+3573,I0259,home
+3574,I0352,car
+3575,I0015,office
+3576,I0383,car
+3577,I0326,bus
+3578,I0345,train
+3579,I0098,beach
+3580,I0380,train
+3581,I0345,train
+3582,I0329,train
+3583,I0360,park
+3584,I0373,cafe/restaurant
+3585,I0337,metro station
+3586,I0293,metro station
+3587,I0360,park
+3588,I0289,forest path
+3589,I0220,home
+3590,I0234,train
+3591,I0125,tram
+3592,I0184,forest path
+3593,I0150,residential area
+3594,I0195,tram
+3595,I0276,city center
+3596,I0383,car
+3597,I0084,park
+3598,I0190,home
+3599,I0026,city center
+3600,I0221,grocery store
+3601,I0068,forest path
+3602,I0044,bus
+3603,I0276,city center
+3604,I0253,tram
+3605,I0043,cafe/restaurant
+3606,I0268,office
+3607,I0166,cafe/restaurant
+3608,I0370,cafe/restaurant
+3609,I0249,city center
+3610,I0170,library
+3611,I0385,grocery store
+3612,I0336,car
+3613,I0371,library
+3614,I0235,bus
+3615,I0274,park
+3616,I0282,home
+3617,I0269,beach
+3618,I0361,residential area
+3619,I0049,office
+3620,I0292,residential area
+3621,I0046,residential area
+3622,I0131,residential area
+3623,I0215,cafe/restaurant
+3624,I0221,grocery store
+3625,I0297,bus
+3626,I0113,library
+3627,I0413,city center
+3628,I0216,park
+3629,I0083,cafe/restaurant
+3630,I0350,beach
+3631,I0136,car
+3632,I0163,residential area
+3633,I0041,car
+3634,I0410,bus
+3635,I0136,car
+3636,I0264,beach
+3637,I0096,beach
+3638,I0333,tram
+3639,I0354,library
+3640,I0027,metro station
+3641,I0119,home
+3642,I0097,bus
+3643,I0044,bus
+3644,I0014,library
+3645,I0011,city center
+3646,I0365,metro station
+3647,I0322,bus
+3648,I0411,tram
+3649,I0241,park
+3650,I0104,beach
+3651,I0323,forest path
+3652,I0110,residential area
+3653,I0190,home
+3654,I0396,train
+3655,I0414,forest path
+3656,I0107,train
+3657,I0193,forest path
+3658,I0051,city center
+3659,I0165,residential area
+3660,I0201,car
+3661,I0113,library
+3662,I0227,cafe/restaurant
+3663,I0027,metro station
+3664,I0043,cafe/restaurant
+3665,I0177,car
+3666,I0350,beach
+3667,I0327,park
+3668,I0098,beach
+3669,I0290,train
+3670,I0128,library
+3671,I0152,home
+3672,I0029,forest path
+3673,I0105,office
+3674,I0094,cafe/restaurant
+3675,I0071,cafe/restaurant
+3676,I0292,residential area
+3677,I0348,library
+3678,I0404,city center
+3679,I0325,metro station
+3680,I0036,beach
+3681,I0311,tram
+3682,I0255,office
+3683,I0225,park
+3684,I0261,grocery store
+3685,I0057,park
+3686,I0068,forest path
+3687,I0373,cafe/restaurant
+3688,I0118,tram
+3689,I0070,beach
+3690,I0216,park
+3691,I0340,home
+3692,I0111,home
+3693,I0409,train
+3694,I0330,office
+3695,I0103,grocery store
+3696,I0104,beach
+3697,I0205,beach
+3698,I0054,grocery store
+3699,I0068,forest path
+3700,I0273,car
+3701,I0231,beach
+3702,I0330,office
+3703,I0255,office
+3704,I0066,cafe/restaurant
+3705,I0315,office
+3706,I0202,forest path
+3707,I0074,train
+3708,I0103,grocery store
+3709,I0261,grocery store
+3710,I0070,beach
+3711,I0167,home
+3712,I0093,beach
+3713,I0351,car
+3714,I0057,park
+3715,I0260,residential area
+3716,I0386,metro station
+3717,I0255,office
+3718,I0019,park
+3719,I0317,home
+3720,I0166,cafe/restaurant
+3721,I0322,bus
+3722,I0142,car
+3723,I0071,cafe/restaurant
+3724,I0161,tram
+3725,I0114,metro station
+3726,I0119,home
+3727,I0321,tram
+3728,I0033,train
+3729,I0163,residential area
+3730,I0085,home
+3731,I0072,car
+3732,I0197,grocery store
+3733,I0023,grocery store
+3734,I0290,train
+3735,I0140,forest path
+3736,I0288,home
+3737,I0070,beach
+3738,I0081,train
+3739,I0128,library
+3740,I0356,tram
+3741,I0188,park
+3742,I0388,library
+3743,I0081,train
+3744,I0152,home
+3745,I0078,library
+3746,I0237,city center
+3747,I0148,library
+3748,I0113,library
+3749,I0232,bus
+3750,I0336,car
+3751,I0213,city center
+3752,I0416,forest path
+3753,I0367,car
+3754,I0225,park
+3755,I0075,metro station
+3756,I0035,tram
+3757,I0177,car
+3758,I0333,tram
+3759,I0188,park
+3760,I0127,residential area
+3761,I0295,car
+3762,I0081,train
+3763,I0014,library
+3764,I0027,metro station
+3765,I0335,car
+3766,I0193,forest path
+3767,I0372,bus
+3768,I0210,bus
+3769,I0322,bus
+3770,I0176,city center
+3771,I0385,grocery store
+3772,I0063,train
+3773,I0416,forest path
+3774,I0289,forest path
+3775,I0120,park
+3776,I0150,residential area
+3777,I0119,home
+3778,I0084,park
+3779,I0401,grocery store
+3780,I0048,forest path
+3781,I0221,grocery store
+3782,I0390,office
+3783,I0097,bus
+3784,I0374,office
+3785,I0235,bus
+3786,I0249,city center
+3787,I0249,city center
+3788,I0297,bus
+3789,I0313,park
+3790,I0185,metro station
+3791,I0182,beach
+3792,I0335,car
+3793,I0146,office
+3794,I0144,forest path
+3795,I0148,library
+3796,I0200,residential area
+3797,I0262,residential area
+3798,I0180,metro station
+3799,I0216,park
+3800,I0274,park
+3801,I0075,metro station
+3802,I0312,home
+3803,I0373,cafe/restaurant
+3804,I0276,city center
+3805,I0060,park
+3806,I0412,library
+3807,I0105,office
+3808,I0053,train
+3809,I0005,bus
+3810,I0276,city center
+3811,I0366,tram
+3812,I0276,city center
+3813,I0293,metro station
+3814,I0323,forest path
+3815,I0322,bus
+3816,I0184,forest path
+3817,I0386,metro station
+3818,I0315,office
+3819,I0210,bus
+3820,I0190,home
+3821,I0197,grocery store
+3822,I0317,home
+3823,I0370,cafe/restaurant
+3824,I0372,bus
+3825,I0365,metro station
+3826,I0064,bus
+3827,I0164,bus
+3828,I0329,train
+3829,I0371,library
+3830,I0227,cafe/restaurant
+3831,I0148,library
+3832,I0243,city center
+3833,I0087,cafe/restaurant
+3834,I0104,beach
+3835,I0084,park
+3836,I0047,city center
+3837,I0158,library
+3838,I0128,library
+3839,I0136,car
+3840,I0335,car
+3841,I0341,home
+3842,I0392,metro station
+3843,I0110,residential area
+3844,I0020,grocery store
+3845,I0416,forest path
+3846,I0057,park
+3847,I0104,beach
+3848,I0128,library
+3849,I0072,car
+3850,I0011,city center
+3851,I0274,park
+3852,I0111,home
+3853,I0295,car
+3854,I0148,library
+3855,I0012,residential area
+3856,I0163,residential area
+3857,I0161,tram
+3858,I0058,tram
+3859,I0186,library
+3860,I0215,cafe/restaurant
+3861,I0046,residential area
+3862,I0276,city center
+3863,I0043,cafe/restaurant
+3864,I0345,train
+3865,I0145,office
+3866,I0122,park
+3867,I0089,cafe/restaurant
+3868,I0275,tram
+3869,I0293,metro station
+3870,I0371,library
+3871,I0231,beach
+3872,I0163,residential area
+3873,I0145,office
+3874,I0216,park
+3875,I0412,library
+3876,I0392,metro station
+3877,I0039,beach
+3878,I0317,home
+3879,I0311,tram
+3880,I0268,office
+3881,I0232,bus
+3882,I0298,bus
+3883,I0409,train
+3884,I0166,cafe/restaurant
+3885,I0366,tram
+3886,I0264,beach
+3887,I0262,residential area
+3888,I0374,office
+3889,I0160,metro station
+3890,I0115,city center
+3891,I0278,grocery store
+3892,I0350,beach
+3893,I0023,grocery store
+3894,I0039,beach
+3895,I0298,bus
+3896,I0401,grocery store
+3897,I0084,park
+3898,I0197,grocery store
+3899,I0071,cafe/restaurant
+3900,I0063,train
+3901,I0115,city center
+3902,I0052,metro station
+3903,I0222,cafe/restaurant
+3904,I0406,residential area
+3905,I0221,grocery store
+3906,I0234,train
+3907,I0002,cafe/restaurant
+3908,I0345,train
+3909,I0015,office
+3910,I0120,park
+3911,I0027,metro station
+3912,I0213,city center
+3913,I0047,city center
+3914,I0241,park
+3915,I0014,library
+3916,I0150,residential area
+3917,I0245,forest path
+3918,I0296,forest path
+3919,I0111,home
+3920,I0411,tram
+3921,I0154,car
+3922,I0326,bus
+3923,I0036,beach
+3924,I0278,grocery store
+3925,I0116,grocery store
+3926,I0293,metro station
+3927,I0170,library
+3928,I0365,metro station
+3929,I0183,tram
+3930,I0315,office
+3931,I0097,bus
+3932,I0115,city center
+3933,I0183,tram
+3934,I0354,library
+3935,I0390,office
+3936,I0011,city center
+3937,I0245,forest path
+3938,I0372,bus
+3939,I0290,train
+3940,I0351,car
+3941,I0317,home
+3942,I0274,park
+3943,I0354,library
+3944,I0094,cafe/restaurant
+3945,I0365,metro station
+3946,I0312,home
+3947,I0310,home
+3948,I0225,park
+3949,I0154,car
+3950,I0160,metro station
+3951,I0201,car
+3952,I0394,car
+3953,I0085,home
+3954,I0288,home
+3955,I0131,residential area
+3956,I0289,forest path
+3957,I0060,park
+3958,I0190,home
+3959,I0011,city center
+3960,I0052,metro station
+3961,I0232,bus
+3962,I0041,car
+3963,I0054,grocery store
+3964,I0354,library
+3965,I0268,office
+3966,I0311,tram
+3967,I0165,residential area
+3968,I0064,bus
+3969,I0072,car
+3970,I0314,train
+3971,I0310,home
+3972,I0260,residential area
+3973,I0350,beach
+3974,I0205,beach
+3975,I0296,forest path
+3976,I0065,metro station
+3977,I0063,train
+3978,I0289,forest path
+3979,I0260,residential area
+3980,I0253,tram
+3981,I0103,grocery store
+3982,I0053,train
+3983,I0020,grocery store
+3984,I0406,residential area
+3985,I0292,residential area
+3986,I0276,city center
+3987,I0047,city center
+3988,I0184,forest path
+3989,I0354,library
+3990,I0043,cafe/restaurant
+3991,I0048,forest path
+3992,I0048,forest path
+3993,I0268,office
+3994,I0122,park
+3995,I0077,office
+3996,I0164,bus
+3997,I0110,residential area
+3998,I0333,tram
+3999,I0078,library
+4000,I0065,metro station
+4001,I0152,home
+4002,I0288,home
+4003,I0074,train
+4004,I0107,train
+4005,I0326,bus
+4006,I0304,beach
+4007,I0273,car
+4008,I0203,tram
+4009,I0304,beach
+4010,I0337,metro station
+4011,I0321,tram
+4012,I0064,bus
+4013,I0190,home
+4014,I0237,city center
+4015,I0003,train
+4016,I0182,beach
+4017,I0210,bus
+4018,I0169,cafe/restaurant
+4019,I0295,car
+4020,I0116,grocery store
+4021,I0033,train
+4022,I0339,grocery store
+4023,I0105,office
+4024,I0051,city center
+4025,I0140,forest path
+4026,I0261,grocery store
+4027,I0165,residential area
+4028,I0043,cafe/restaurant
+4029,I0182,beach
+4030,I0083,cafe/restaurant
+4031,I0297,bus
+4032,I0026,city center
+4033,I0188,park
+4034,I0288,home
+4035,I0054,grocery store
+4036,I0234,train
+4037,I0275,tram
+4038,I0203,tram
+4039,I0055,grocery store
+4040,I0196,car
+4041,I0054,grocery store
+4042,I0408,park
+4043,I0403,city center
+4044,I0273,car
+4045,I0235,bus
+4046,I0049,office
+4047,I0142,car
+4048,I0361,residential area
+4049,I0070,beach
+4050,I0134,grocery store
+4051,I0310,home
+4052,I0002,cafe/restaurant
+4053,I0130,forest path
+4054,I0253,tram
+4055,I0158,library
+4056,I0296,forest path
+4057,I0191,library
+4058,I0105,office
+4059,I0246,tram
+4060,I0339,grocery store
+4061,I0170,library
+4062,I0195,tram
+4063,I0412,library
+4064,I0306,bus
+4065,I0158,library
+4066,I0111,home
+4067,I0304,beach
+4068,I0345,train
+4069,I0414,forest path
+4070,I0060,park
+4071,I0034,office
+4072,I0111,home
+4073,I0190,home
+4074,I0057,park
+4075,I0182,beach
+4076,I0273,car
+4077,I0160,metro station
+4078,I0235,bus
+4079,I0386,metro station
+4080,I0210,bus
+4081,I0406,residential area
+4082,I0274,park
+4083,I0228,grocery store
+4084,I0213,city center
+4085,I0289,forest path
+4086,I0039,beach
+4087,I0341,home
+4088,I0077,office
+4089,I0190,home
+4090,I0225,park
+4091,I0107,train
+4092,I0235,bus
+4093,I0152,home
+4094,I0032,office
+4095,I0019,park
+4096,I0053,train
+4097,I0150,residential area
+4098,I0043,cafe/restaurant
+4099,I0403,city center
+4100,I0070,beach
+4101,I0313,park
+4102,I0163,residential area
+4103,I0061,city center
+4104,I0035,tram
+4105,I0228,grocery store
+4106,I0120,park
+4107,I0097,bus
+4108,I0005,bus
+4109,I0001,library
+4110,I0118,tram
+4111,I0119,home
+4112,I0125,tram
+4113,I0383,car
+4114,I0227,cafe/restaurant
+4115,I0269,beach
+4116,I0399,library
+4117,I0003,train
+4118,I0327,park
+4119,I0318,park
+4120,I0315,office
+4121,I0345,train
+4122,I0180,metro station
+4123,I0058,tram
+4124,I0322,bus
+4125,I0299,residential area
+4126,I0188,park
+4127,I0066,cafe/restaurant
+4128,I0084,park
+4129,I0105,office
+4130,I0030,home
+4131,I0152,home
+4132,I0335,car
+4133,I0257,metro station
+4134,I0241,park
+4135,I0322,bus
+4136,I0388,library
+4137,I0036,beach
+4138,I0345,train
+4139,I0264,beach
+4140,I0228,grocery store
+4141,I0001,library
+4142,I0318,park
+4143,I0195,tram
+4144,I0222,cafe/restaurant
+4145,I0310,home
+4146,I0048,forest path
+4147,I0227,cafe/restaurant
+4148,I0182,beach
+4149,I0019,park
+4150,I0101,train
+4151,I0260,residential area
+4152,I0298,bus
+4153,I0083,cafe/restaurant
+4154,I0380,train
+4155,I0116,grocery store
+4156,I0345,train
+4157,I0400,residential area
+4158,I0077,office
+4159,I0311,tram
+4160,I0046,residential area
+4161,I0034,office
+4162,I0048,forest path
+4163,I0345,train
+4164,I0222,cafe/restaurant
+4165,I0072,car
+4166,I0188,park
+4167,I0261,grocery store
+4168,I0190,home
+4169,I0184,forest path
+4170,I0380,train
+4171,I0296,forest path
+4172,I0026,city center
+4173,I0160,metro station
+4174,I0008,office
+4175,I0341,home
+4176,I0176,city center
+4177,I0411,tram
+4178,I0061,city center
+4179,I0115,city center
+4180,I0049,office
+4181,I0023,grocery store
+4182,I0009,tram
+4183,I0102,train
+4184,I0036,beach
+4185,I0325,metro station
+4186,I0029,forest path
+4187,I0201,car
+4188,I0351,car
+4189,I0047,city center
+4190,I0341,home
+4191,I0339,grocery store
+4192,I0202,forest path
+4193,I0152,home
+4194,I0148,library
+4195,I0400,residential area
+4196,I0034,office
+4197,I0136,car
+4198,I0107,train
+4199,I0237,city center
+4200,I0366,tram
+4201,I0372,bus
+4202,I0203,tram
+4203,I0337,metro station
+4204,I0392,metro station
+4205,I0065,metro station
+4206,I0077,office
+4207,I0374,office
+4208,I0246,tram
+4209,I0087,cafe/restaurant
+4210,I0306,bus
+4211,I0185,metro station
+4212,I0253,tram
+4213,I0210,bus
+4214,I0085,home
+4215,I0270,library
+4216,I0196,car
+4217,I0096,beach
+4218,I0347,car
+4219,I0392,metro station
+4220,I0295,car
+4221,I0262,residential area
+4222,I0190,home
+4223,I0404,city center
+4224,I0406,residential area
+4225,I0095,metro station
+4226,I0188,park
+4227,I0220,home
+4228,I0349,metro station
+4229,I0275,tram
+4230,I0243,city center
+4231,I0195,tram
+4232,I0370,cafe/restaurant
+4233,I0110,residential area
+4234,I0191,library
+4235,I0373,cafe/restaurant
+4236,I0046,residential area
+4237,I0034,office
+4238,I0350,beach
+4239,I0087,cafe/restaurant
+4240,I0293,metro station
+4241,I0227,cafe/restaurant
+4242,I0052,metro station
+4243,I0054,grocery store
+4244,I0188,park
+4245,I0107,train
+4246,I0318,park
+4247,I0397,residential area
+4248,I0269,beach
+4249,I0074,train
+4250,I0188,park
+4251,I0131,residential area
+4252,I0166,cafe/restaurant
+4253,I0003,train
+4254,I0276,city center
+4255,I0002,cafe/restaurant
+4256,I0352,car
+4257,I0242,forest path
+4258,I0326,bus
+4259,I0378,city center
+4260,I0414,forest path
+4261,I0213,city center
+4262,I0030,home
+4263,I0116,grocery store
+4264,I0083,cafe/restaurant
+4265,I0306,bus
+4266,I0308,beach
+4267,I0166,cafe/restaurant
+4268,I0001,library
+4269,I0070,beach
+4270,I0130,forest path
+4271,I0306,bus
+4272,I0086,beach
+4273,I0235,bus
+4274,I0150,residential area
+4275,I0118,tram
+4276,I0222,cafe/restaurant
+4277,I0058,tram
+4278,I0074,train
+4279,I0081,train
+4280,I0225,park
+4281,I0125,tram
+4282,I0040,beach
+4283,I0315,office
+4284,I0388,library
+4285,I0245,forest path
+4286,I0322,bus
+4287,I0237,city center
+4288,I0322,bus
+4289,I0386,metro station
+4290,I0101,train
+4291,I0224,office
+4292,I0207,park
+4293,I0142,car
+4294,I0241,park
+4295,I0327,park
+4296,I0086,beach
+4297,I0114,metro station
+4298,I0413,city center
+4299,I0414,forest path
+4300,I0096,beach
+4301,I0102,train
+4302,I0411,tram
+4303,I0293,metro station
+4304,I0185,metro station
+4305,I0203,tram
+4306,I0231,beach
+4307,I0026,city center
+4308,I0259,home
+4309,I0273,car
+4310,I0032,office
+4311,I0065,metro station
+4312,I0048,forest path
+4313,I0150,residential area
+4314,I0033,train
+4315,I0203,tram
+4316,I0190,home
+4317,I0366,tram
+4318,I0043,cafe/restaurant
+4319,I0330,office
+4320,I0400,residential area
+4321,I0023,grocery store
+4322,I0041,car
+4323,I0324,grocery store
+4324,I0049,office
+4325,I0032,office
+4326,I0404,city center
+4327,I0060,park
+4328,I0094,cafe/restaurant
+4329,I0336,car
+4330,I0299,residential area
+4331,I0216,park
+4332,I0036,beach
+4333,I0249,city center
+4334,I0023,grocery store
+4335,I0101,train
+4336,I0352,car
+4337,I0120,park
+4338,I0009,tram
+4339,I0325,metro station
+4340,I0196,car
+4341,I0414,forest path
+4342,I0340,home
+4343,I0115,city center
+4344,I0176,city center
+4345,I0326,bus
+4346,I0160,metro station
+4347,I0341,home
+4348,I0078,library
+4349,I0160,metro station
+4350,I0314,train
+4351,I0318,park
+4352,I0385,grocery store
+4353,I0054,grocery store
+4354,I0170,library
+4355,I0261,grocery store
+4356,I0128,library
+4357,I0103,grocery store
+4358,I0188,park
+4359,I0097,bus
+4360,I0177,car
+4361,I0324,grocery store
+4362,I0380,train
+4363,I0232,bus
+4364,I0089,cafe/restaurant
+4365,I0103,grocery store
+4366,I0390,office
+4367,I0292,residential area
+4368,I0400,residential area
+4369,I0410,bus
+4370,I0066,cafe/restaurant
+4371,I0215,cafe/restaurant
+4372,I0245,forest path
+4373,I0209,park
+4374,I0292,residential area
+4375,I0084,park
+4376,I0388,library
+4377,I0317,home
+4378,I0081,train
+4379,I0310,home
+4380,I0221,grocery store
+4381,I0227,cafe/restaurant
+4382,I0127,residential area
+4383,I0052,metro station
+4384,I0343,residential area
+4385,I0318,park
+4386,I0310,home
+4387,I0060,park
+4388,I0205,beach
+4389,I0370,cafe/restaurant
+4390,I0103,grocery store
+4391,I0105,office
+4392,I0094,cafe/restaurant
+4393,I0410,bus
+4394,I0232,bus
+4395,I0130,forest path
+4396,I0336,car
+4397,I0146,office
+4398,I0001,library
+4399,I0002,cafe/restaurant
+4400,I0039,beach
+4401,I0043,cafe/restaurant
+4402,I0202,forest path
+4403,I0410,bus
+4404,I0012,residential area
+4405,I0070,beach
+4406,I0028,metro station
+4407,I0246,tram
+4408,I0158,library
+4409,I0098,beach
+4410,I0340,home
+4411,I0072,car
+4412,I0354,library
+4413,I0105,office
+4414,I0404,city center
+4415,I0125,tram
+4416,I0081,train
+4417,I0104,beach
+4418,I0039,beach
+4419,I0367,car
+4420,I0001,library
+4421,I0400,residential area
+4422,I0036,beach
+4423,I0243,city center
+4424,I0064,bus
+4425,I0408,park
+4426,I0074,train
+4427,I0315,office
+4428,I0048,forest path
+4429,I0005,bus
+4430,I0113,library
+4431,I0358,library
+4432,I0210,bus
+4433,I0136,car
+4434,I0035,tram
+4435,I0340,home
+4436,I0148,library
+4437,I0399,library
+4438,I0313,park
+4439,I0249,city center
+4440,I0216,park
+4441,I0339,grocery store
+4442,I0231,beach
+4443,I0184,forest path
+4444,I0406,residential area
+4445,I0086,beach
+4446,I0349,metro station
+4447,I0202,forest path
+4448,I0246,tram
+4449,I0105,office
+4450,I0128,library
+4451,I0255,office
+4452,I0310,home
+4453,I0005,bus
+4454,I0145,office
+4455,I0065,metro station
+4456,I0115,city center
+4457,I0205,beach
+4458,I0097,bus
+4459,I0150,residential area
+4460,I0052,metro station
+4461,I0326,bus
+4462,I0009,tram
+4463,I0336,car
+4464,I0299,residential area
+4465,I0231,beach
+4466,I0008,office
+4467,I0213,city center
+4468,I0107,train
+4469,I0015,office
+4470,I0014,library
+4471,I0400,residential area
+4472,I0330,office
+4473,I0144,forest path
+4474,I0169,cafe/restaurant
+4475,I0224,office
+4476,I0118,tram
+4477,I0397,residential area
+4478,I0403,city center
+4479,I0333,tram
+4480,I0012,residential area
+4481,I0249,city center
+4482,I0258,beach
+4483,I0119,home
+4484,I0089,cafe/restaurant
+4485,I0002,cafe/restaurant
+4486,I0228,grocery store
+4487,I0372,bus
+4488,I0086,beach
+4489,I0119,home
+4490,I0220,home
+4491,I0015,office
+4492,I0058,tram
+4493,I0235,bus
+4494,I0161,tram
+4495,I0165,residential area
+4496,I0213,city center
+4497,I0296,forest path
+4498,I0415,grocery store
+4499,I0207,park

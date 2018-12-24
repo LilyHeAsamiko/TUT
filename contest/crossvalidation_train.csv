@@ -1,0 +1,4501 @@
+id,scene_label,set
+0,cafe/restaurant,train
+1,home,train
+2,office,test
+3,grocery store,train
+4,park,train
+5,train,train
+6,grocery store,train
+7,grocery store,train
+8,library,train
+9,beach,train
+10,grocery store,train
+11,forest path,train
+12,beach,train
+13,park,test
+14,car,train
+15,tram,train
+16,home,train
+17,residential area,train
+18,cafe/restaurant,train
+19,park,train
+20,metro station,train
+21,beach,train
+22,metro station,train
+23,beach,train
+24,bus,train
+25,tram,train
+26,car,train
+27,park,train
+28,grocery store,train
+29,office,train
+30,library,train
+31,forest path,test
+32,train,test
+33,library,train
+34,residential area,train
+35,home,train
+36,beach,train
+37,tram,train
+38,forest path,test
+39,park,test
+40,office,train
+41,bus,train
+42,park,test
+43,beach,train
+44,residential area,test
+45,metro station,train
+46,park,test
+47,residential area,train
+48,bus,test
+49,forest path,train
+50,beach,train
+51,tram,train
+52,train,test
+53,bus,train
+54,city center,train
+55,residential area,train
+56,metro station,test
+57,beach,train
+58,beach,train
+59,office,train
+60,home,test
+61,bus,train
+62,beach,train
+63,bus,test
+64,office,test
+65,grocery store,train
+66,forest path,train
+67,tram,train
+68,home,test
+69,tram,test
+70,home,train
+71,library,train
+72,cafe/restaurant,test
+73,residential area,train
+74,forest path,train
+75,metro station,train
+76,metro station,test
+77,forest path,train
+78,metro station,train
+79,library,test
+80,train,test
+81,park,train
+82,forest path,train
+83,residential area,test
+84,tram,train
+85,park,test
+86,home,train
+87,tram,test
+88,residential area,test
+89,home,train
+90,cafe/restaurant,train
+91,beach,train
+92,metro station,train
+93,grocery store,train
+94,beach,test
+95,park,train
+96,bus,train
+97,bus,train
+98,cafe/restaurant,train
+99,forest path,test
+100,library,train
+101,home,test
+102,bus,test
+103,residential area,train
+104,city center,train
+105,grocery store,train
+106,cafe/restaurant,train
+107,car,train
+108,grocery store,train
+109,metro station,train
+110,residential area,train
+111,cafe/restaurant,train
+112,home,test
+113,city center,test
+114,city center,train
+115,residential area,train
+116,office,test
+117,car,train
+118,office,train
+119,train,train
+120,park,train
+121,forest path,train
+122,library,test
+123,park,test
+124,metro station,train
+125,metro station,train
+126,beach,train
+127,park,train
+128,park,train
+129,forest path,train
+130,beach,test
+131,car,train
+132,library,train
+133,residential area,train
+134,train,train
+135,library,train
+136,residential area,train
+137,home,train
+138,library,train
+139,forest path,train
+140,residential area,test
+141,library,test
+142,city center,train
+143,bus,train
+144,forest path,test
+145,cafe/restaurant,train
+146,home,train
+147,tram,test
+148,tram,train
+149,cafe/restaurant,test
+150,metro station,train
+151,home,train
+152,tram,test
+153,cafe/restaurant,train
+154,office,train
+155,residential area,test
+156,cafe/restaurant,test
+157,residential area,test
+158,residential area,train
+159,beach,train
+160,library,test
+161,train,train
+162,forest path,train
+163,bus,test
+164,forest path,train
+165,office,train
+166,library,train
+167,office,train
+168,forest path,train
+169,train,train
+170,library,test
+171,cafe/restaurant,train
+172,grocery store,train
+173,forest path,train
+174,cafe/restaurant,test
+175,beach,train
+176,forest path,train
+177,home,train
+178,office,train
+179,park,train
+180,office,train
+181,library,train
+182,tram,train
+183,car,train
+184,metro station,train
+185,library,train
+186,beach,train
+187,beach,train
+188,home,test
+189,office,train
+190,car,train
+191,beach,train
+192,forest path,train
+193,metro station,test
+194,grocery store,test
+195,park,train
+196,tram,train
+197,metro station,train
+198,office,train
+199,cafe/restaurant,train
+200,park,train
+201,office,train
+202,grocery store,test
+203,grocery store,train
+204,metro station,train
+205,city center,train
+206,bus,train
+207,park,train
+208,train,test
+209,home,train
+210,metro station,train
+211,forest path,train
+212,residential area,train
+213,residential area,train
+214,residential area,train
+215,grocery store,test
+216,cafe/restaurant,train
+217,park,train
+218,bus,test
+219,beach,train
+220,city center,train
+221,car,test
+222,office,test
+223,forest path,train
+224,library,train
+225,train,train
+226,forest path,test
+227,office,train
+228,park,train
+229,bus,test
+230,cafe/restaurant,train
+231,home,train
+232,office,train
+233,bus,train
+234,park,train
+235,office,train
+236,city center,test
+237,car,train
+238,beach,test
+239,park,train
+240,car,test
+241,forest path,train
+242,train,train
+243,park,train
+244,office,train
+245,city center,train
+246,grocery store,test
+247,library,train
+248,residential area,train
+249,office,train
+250,cafe/restaurant,test
+251,grocery store,train
+252,library,train
+253,library,train
+254,grocery store,test
+255,city center,train
+256,tram,train
+257,cafe/restaurant,train
+258,office,test
+259,forest path,test
+260,office,train
+261,cafe/restaurant,train
+262,forest path,train
+263,residential area,train
+264,grocery store,train
+265,home,train
+266,train,test
+267,residential area,train
+268,residential area,train
+269,cafe/restaurant,test
+270,park,test
+271,library,train
+272,office,train
+273,grocery store,train
+274,train,test
+275,home,train
+276,grocery store,test
+277,residential area,train
+278,home,test
+279,car,train
+280,office,train
+281,metro station,train
+282,beach,train
+283,home,train
+284,metro station,test
+285,library,train
+286,bus,train
+287,metro station,train
+288,tram,train
+289,forest path,train
+290,forest path,test
+291,cafe/restaurant,test
+292,grocery store,test
+293,tram,train
+294,beach,test
+295,beach,train
+296,bus,train
+297,cafe/restaurant,train
+298,office,test
+299,bus,train
+300,metro station,test
+301,bus,train
+302,forest path,train
+303,grocery store,test
+304,train,train
+305,home,train
+306,office,train
+307,grocery store,train
+308,home,train
+309,cafe/restaurant,test
+310,library,train
+311,library,train
+312,tram,test
+313,home,test
+314,beach,train
+315,home,test
+316,city center,train
+317,grocery store,train
+318,car,train
+319,office,test
+320,residential area,train
+321,bus,train
+322,residential area,train
+323,home,train
+324,cafe/restaurant,train
+325,park,test
+326,tram,train
+327,metro station,train
+328,cafe/restaurant,test
+329,beach,train
+330,library,train
+331,office,train
+332,car,train
+333,home,train
+334,car,test
+335,tram,train
+336,residential area,train
+337,residential area,train
+338,tram,train
+339,car,test
+340,office,train
+341,beach,test
+342,car,train
+343,park,train
+344,library,train
+345,city center,train
+346,car,train
+347,train,train
+348,city center,train
+349,home,test
+350,tram,train
+351,metro station,train
+352,grocery store,train
+353,train,test
+354,tram,train
+355,park,test
+356,grocery store,train
+357,home,train
+358,home,test
+359,city center,test
+360,library,train
+361,city center,train
+362,office,train
+363,city center,train
+364,park,train
+365,home,test
+366,metro station,train
+367,train,test
+368,residential area,train
+369,library,train
+370,park,train
+371,grocery store,train
+372,car,train
+373,beach,train
+374,library,train
+375,car,train
+376,library,train
+377,office,train
+378,beach,train
+379,residential area,test
+380,home,train
+381,forest path,test
+382,cafe/restaurant,train
+383,cafe/restaurant,train
+384,office,train
+385,grocery store,train
+386,tram,train
+387,cafe/restaurant,train
+388,home,train
+389,car,train
+390,park,test
+391,tram,test
+392,office,train
+393,forest path,train
+394,train,train
+395,tram,train
+396,car,train
+397,car,train
+398,library,test
+399,tram,train
+400,forest path,test
+401,city center,train
+402,car,train
+403,grocery store,test
+404,home,train
+405,city center,train
+406,city center,test
+407,library,train
+408,grocery store,train
+409,library,train
+410,office,train
+411,tram,train
+412,home,train
+413,metro station,train
+414,grocery store,train
+415,library,train
+416,library,train
+417,library,train
+418,library,train
+419,residential area,test
+420,office,train
+421,metro station,test
+422,grocery store,train
+423,forest path,test
+424,cafe/restaurant,test
+425,cafe/restaurant,test
+426,beach,train
+427,beach,train
+428,metro station,test
+429,office,train
+430,office,train
+431,car,train
+432,grocery store,train
+433,library,test
+434,office,train
+435,forest path,train
+436,tram,train
+437,metro station,train
+438,train,train
+439,car,train
+440,park,test
+441,residential area,train
+442,car,test
+443,park,train
+444,park,train
+445,grocery store,train
+446,grocery store,train
+447,city center,test
+448,car,train
+449,grocery store,train
+450,bus,train
+451,residential area,test
+452,bus,train
+453,train,test
+454,home,test
+455,cafe/restaurant,test
+456,beach,test
+457,beach,test
+458,cafe/restaurant,train
+459,cafe/restaurant,train
+460,forest path,train
+461,car,train
+462,tram,train
+463,forest path,test
+464,beach,test
+465,metro station,train
+466,tram,train
+467,forest path,train
+468,beach,train
+469,home,train
+470,grocery store,train
+471,forest path,test
+472,metro station,train
+473,home,test
+474,forest path,train
+475,city center,test
+476,forest path,train
+477,train,train
+478,beach,train
+479,city center,train
+480,tram,test
+481,grocery store,train
+482,tram,train
+483,beach,train
+484,grocery store,test
+485,office,train
+486,grocery store,train
+487,forest path,train
+488,grocery store,train
+489,beach,test
+490,city center,train
+491,bus,test
+492,grocery store,test
+493,beach,train
+494,metro station,train
+495,library,train
+496,grocery store,train
+497,residential area,train
+498,cafe/restaurant,train
+499,car,train
+500,library,train
+501,beach,test
+502,residential area,test
+503,forest path,train
+504,tram,train
+505,office,train
+506,tram,train
+507,bus,train
+508,metro station,test
+509,beach,train
+510,cafe/restaurant,train
+511,park,train
+512,office,test
+513,city center,train
+514,train,train
+515,grocery store,train
+516,library,train
+517,grocery store,train
+518,forest path,train
+519,tram,train
+520,office,train
+521,cafe/restaurant,train
+522,office,test
+523,forest path,train
+524,grocery store,train
+525,car,train
+526,office,test
+527,metro station,train
+528,train,test
+529,city center,train
+530,home,train
+531,beach,test
+532,tram,test
+533,home,test
+534,home,test
+535,residential area,test
+536,office,train
+537,grocery store,train
+538,grocery store,train
+539,car,train
+540,park,train
+541,car,test
+542,metro station,train
+543,car,test
+544,grocery store,train
+545,library,train
+546,car,test
+547,beach,train
+548,cafe/restaurant,test
+549,grocery store,train
+550,residential area,train
+551,train,test
+552,cafe/restaurant,train
+553,beach,train
+554,beach,test
+555,forest path,train
+556,library,test
+557,train,test
+558,home,train
+559,park,test
+560,metro station,train
+561,tram,train
+562,office,train
+563,cafe/restaurant,train
+564,home,train
+565,tram,test
+566,library,train
+567,grocery store,test
+568,bus,train
+569,car,train
+570,cafe/restaurant,train
+571,forest path,train
+572,metro station,train
+573,residential area,train
+574,metro station,train
+575,car,train
+576,car,train
+577,metro station,train
+578,residential area,train
+579,tram,test
+580,bus,train
+581,library,test
+582,home,test
+583,grocery store,test
+584,bus,train
+585,tram,train
+586,residential area,test
+587,home,test
+588,park,test
+589,train,train
+590,residential area,train
+591,home,test
+592,train,train
+593,forest path,train
+594,office,train
+595,cafe/restaurant,train
+596,train,train
+597,tram,test
+598,library,train
+599,bus,train
+600,beach,train
+601,beach,train
+602,park,train
+603,city center,train
+604,office,train
+605,residential area,train
+606,beach,test
+607,home,train
+608,home,train
+609,home,train
+610,car,test
+611,residential area,test
+612,library,train
+613,residential area,test
+614,grocery store,test
+615,home,train
+616,residential area,train
+617,city center,train
+618,forest path,train
+619,residential area,train
+620,metro station,train
+621,metro station,train
+622,grocery store,test
+623,beach,train
+624,car,train
+625,city center,train
+626,grocery store,test
+627,city center,train
+628,home,test
+629,bus,train
+630,car,train
+631,train,test
+632,residential area,train
+633,office,train
+634,library,test
+635,library,train
+636,park,test
+637,forest path,train
+638,residential area,train
+639,car,test
+640,park,train
+641,park,test
+642,cafe/restaurant,train
+643,tram,train
+644,metro station,train
+645,city center,test
+646,home,train
+647,car,test
+648,forest path,train
+649,car,test
+650,car,train
+651,city center,test
+652,park,train
+653,metro station,train
+654,forest path,train
+655,train,train
+656,tram,train
+657,park,train
+658,bus,train
+659,library,test
+660,car,train
+661,metro station,test
+662,residential area,test
+663,home,test
+664,residential area,train
+665,library,train
+666,forest path,train
+667,library,test
+668,metro station,train
+669,train,test
+670,library,test
+671,cafe/restaurant,train
+672,tram,train
+673,car,train
+674,car,train
+675,beach,test
+676,office,test
+677,cafe/restaurant,train
+678,bus,test
+679,residential area,train
+680,cafe/restaurant,test
+681,residential area,test
+682,home,train
+683,library,train
+684,train,train
+685,tram,train
+686,bus,train
+687,home,train
+688,train,train
+689,grocery store,test
+690,grocery store,train
+691,residential area,test
+692,tram,test
+693,residential area,train
+694,train,train
+695,bus,train
+696,city center,train
+697,office,train
+698,bus,train
+699,tram,train
+700,office,train
+701,home,train
+702,residential area,train
+703,car,test
+704,park,train
+705,beach,test
+706,park,train
+707,beach,train
+708,residential area,test
+709,office,train
+710,office,train
+711,forest path,train
+712,beach,test
+713,home,test
+714,park,train
+715,grocery store,train
+716,office,train
+717,library,train
+718,bus,train
+719,bus,train
+720,residential area,train
+721,grocery store,train
+722,car,train
+723,train,train
+724,tram,test
+725,tram,train
+726,city center,test
+727,home,train
+728,park,train
+729,park,train
+730,cafe/restaurant,train
+731,city center,test
+732,car,test
+733,tram,test
+734,cafe/restaurant,train
+735,metro station,train
+736,park,train
+737,train,train
+738,forest path,train
+739,office,train
+740,park,train
+741,city center,test
+742,bus,test
+743,beach,train
+744,metro station,train
+745,office,test
+746,metro station,test
+747,beach,train
+748,cafe/restaurant,train
+749,residential area,test
+750,forest path,train
+751,park,train
+752,city center,train
+753,metro station,test
+754,train,train
+755,library,train
+756,metro station,test
+757,library,train
+758,office,train
+759,car,test
+760,city center,train
+761,car,train
+762,library,train
+763,residential area,train
+764,train,train
+765,bus,train
+766,beach,train
+767,cafe/restaurant,test
+768,residential area,train
+769,office,train
+770,city center,train
+771,library,test
+772,metro station,train
+773,car,test
+774,metro station,train
+775,library,test
+776,car,train
+777,office,test
+778,tram,train
+779,metro station,train
+780,cafe/restaurant,train
+781,forest path,train
+782,train,train
+783,metro station,train
+784,car,train
+785,train,test
+786,cafe/restaurant,train
+787,office,train
+788,train,train
+789,grocery store,train
+790,park,train
+791,metro station,test
+792,train,train
+793,residential area,train
+794,city center,train
+795,tram,train
+796,train,train
+797,home,train
+798,tram,train
+799,cafe/restaurant,train
+800,grocery store,test
+801,metro station,test
+802,residential area,test
+803,metro station,train
+804,library,train
+805,bus,test
+806,metro station,test
+807,car,test
+808,city center,train
+809,residential area,test
+810,library,train
+811,train,train
+812,cafe/restaurant,test
+813,home,train
+814,bus,train
+815,grocery store,train
+816,office,train
+817,city center,train
+818,cafe/restaurant,train
+819,tram,train
+820,park,test
+821,tram,test
+822,cafe/restaurant,test
+823,train,test
+824,metro station,test
+825,residential area,train
+826,metro station,train
+827,city center,train
+828,beach,train
+829,library,train
+830,beach,train
+831,office,train
+832,beach,test
+833,metro station,train
+834,forest path,train
+835,city center,test
+836,tram,train
+837,home,train
+838,park,train
+839,residential area,test
+840,forest path,train
+841,park,train
+842,office,train
+843,bus,train
+844,cafe/restaurant,train
+845,office,test
+846,home,train
+847,bus,train
+848,tram,train
+849,grocery store,train
+850,city center,train
+851,tram,test
+852,car,train
+853,train,train
+854,tram,train
+855,park,train
+856,beach,test
+857,train,train
+858,cafe/restaurant,train
+859,car,test
+860,bus,test
+861,park,test
+862,office,train
+863,tram,test
+864,car,train
+865,library,train
+866,forest path,train
+867,car,train
+868,metro station,train
+869,cafe/restaurant,test
+870,home,train
+871,park,train
+872,forest path,train
+873,city center,train
+874,beach,test
+875,train,train
+876,bus,train
+877,grocery store,train
+878,car,train
+879,train,train
+880,beach,train
+881,bus,train
+882,bus,train
+883,metro station,train
+884,forest path,train
+885,forest path,train
+886,train,train
+887,office,train
+888,residential area,test
+889,beach,train
+890,grocery store,train
+891,library,train
+892,home,train
+893,cafe/restaurant,train
+894,beach,train
+895,office,train
+896,car,test
+897,grocery store,train
+898,forest path,train
+899,library,train
+900,city center,train
+901,cafe/restaurant,train
+902,forest path,train
+903,forest path,train
+904,park,train
+905,park,train
+906,grocery store,train
+907,home,train
+908,office,train
+909,home,train
+910,train,test
+911,home,train
+912,library,train
+913,metro station,train
+914,bus,train
+915,grocery store,test
+916,cafe/restaurant,train
+917,car,train
+918,bus,test
+919,bus,test
+920,library,train
+921,car,train
+922,office,train
+923,tram,test
+924,forest path,train
+925,city center,test
+926,park,train
+927,residential area,train
+928,city center,train
+929,library,train
+930,park,train
+931,bus,train
+932,residential area,train
+933,office,train
+934,city center,test
+935,beach,test
+936,city center,train
+937,tram,test
+938,office,test
+939,beach,test
+940,home,train
+941,bus,train
+942,forest path,train
+943,library,train
+944,bus,test
+945,grocery store,train
+946,bus,train
+947,tram,train
+948,home,train
+949,library,test
+950,beach,test
+951,city center,train
+952,forest path,train
+953,train,train
+954,metro station,train
+955,tram,train
+956,metro station,test
+957,car,test
+958,bus,train
+959,metro station,train
+960,train,test
+961,park,train
+962,library,train
+963,home,train
+964,beach,train
+965,tram,train
+966,forest path,train
+967,train,train
+968,residential area,test
+969,car,test
+970,home,train
+971,city center,test
+972,car,train
+973,park,train
+974,park,train
+975,train,train
+976,park,test
+977,beach,train
+978,beach,train
+979,tram,test
+980,train,train
+981,forest path,test
+982,metro station,test
+983,forest path,train
+984,metro station,test
+985,residential area,train
+986,grocery store,train
+987,office,train
+988,forest path,train
+989,grocery store,test
+990,beach,test
+991,office,train
+992,car,train
+993,tram,train
+994,beach,test
+995,train,train
+996,metro station,train
+997,bus,train
+998,forest path,test
+999,train,train
+1000,train,train
+1001,beach,test
+1002,forest path,test
+1003,city center,train
+1004,park,test
+1005,home,train
+1006,car,train
+1007,metro station,test
+1008,park,test
+1009,beach,train
+1010,office,train
+1011,cafe/restaurant,train
+1012,office,test
+1013,home,test
+1014,home,train
+1015,home,train
+1016,tram,train
+1017,metro station,train
+1018,metro station,test
+1019,office,train
+1020,bus,test
+1021,train,test
+1022,home,train
+1023,tram,train
+1024,grocery store,test
+1025,home,train
+1026,residential area,train
+1027,library,train
+1028,tram,train
+1029,residential area,train
+1030,tram,train
+1031,residential area,train
+1032,train,train
+1033,library,train
+1034,residential area,test
+1035,city center,train
+1036,grocery store,test
+1037,library,test
+1038,bus,train
+1039,forest path,train
+1040,cafe/restaurant,train
+1041,tram,train
+1042,forest path,train
+1043,metro station,train
+1044,home,train
+1045,grocery store,train
+1046,grocery store,test
+1047,office,train
+1048,cafe/restaurant,test
+1049,car,train
+1050,forest path,train
+1051,forest path,test
+1052,train,train
+1053,forest path,train
+1054,cafe/restaurant,train
+1055,home,train
+1056,city center,train
+1057,city center,test
+1058,home,test
+1059,metro station,train
+1060,bus,train
+1061,bus,test
+1062,metro station,train
+1063,city center,test
+1064,beach,train
+1065,bus,train
+1066,tram,train
+1067,park,train
+1068,residential area,test
+1069,city center,test
+1070,city center,train
+1071,car,test
+1072,library,train
+1073,forest path,train
+1074,beach,test
+1075,residential area,train
+1076,city center,train
+1077,city center,test
+1078,forest path,test
+1079,home,train
+1080,cafe/restaurant,test
+1081,beach,train
+1082,park,train
+1083,cafe/restaurant,train
+1084,park,train
+1085,train,train
+1086,tram,train
+1087,grocery store,test
+1088,train,train
+1089,office,test
+1090,residential area,train
+1091,park,train
+1092,metro station,test
+1093,grocery store,test
+1094,beach,train
+1095,forest path,train
+1096,forest path,test
+1097,bus,train
+1098,beach,train
+1099,office,train
+1100,city center,train
+1101,bus,test
+1102,city center,train
+1103,metro station,train
+1104,home,train
+1105,home,test
+1106,metro station,train
+1107,forest path,test
+1108,tram,test
+1109,cafe/restaurant,train
+1110,car,train
+1111,grocery store,train
+1112,park,test
+1113,office,train
+1114,residential area,test
+1115,forest path,train
+1116,residential area,train
+1117,bus,train
+1118,car,test
+1119,office,test
+1120,metro station,train
+1121,residential area,train
+1122,forest path,train
+1123,car,train
+1124,beach,train
+1125,metro station,test
+1126,train,train
+1127,grocery store,train
+1128,tram,train
+1129,city center,test
+1130,cafe/restaurant,train
+1131,office,test
+1132,park,train
+1133,train,test
+1134,cafe/restaurant,train
+1135,beach,test
+1136,park,train
+1137,park,train
+1138,city center,train
+1139,car,train
+1140,cafe/restaurant,train
+1141,beach,train
+1142,residential area,train
+1143,grocery store,train
+1144,residential area,test
+1145,bus,train
+1146,office,test
+1147,home,train
+1148,beach,test
+1149,metro station,train
+1150,library,train
+1151,library,test
+1152,cafe/restaurant,train
+1153,city center,test
+1154,city center,train
+1155,train,test
+1156,forest path,train
+1157,car,train
+1158,cafe/restaurant,train
+1159,office,train
+1160,office,train
+1161,office,train
+1162,metro station,train
+1163,park,train
+1164,metro station,train
+1165,forest path,train
+1166,forest path,train
+1167,metro station,train
+1168,city center,train
+1169,car,test
+1170,beach,test
+1171,office,train
+1172,beach,train
+1173,city center,train
+1174,office,train
+1175,car,test
+1176,office,train
+1177,park,train
+1178,park,train
+1179,tram,train
+1180,grocery store,train
+1181,city center,train
+1182,forest path,train
+1183,grocery store,train
+1184,bus,train
+1185,train,train
+1186,train,train
+1187,residential area,test
+1188,car,test
+1189,metro station,train
+1190,metro station,train
+1191,train,test
+1192,office,train
+1193,residential area,test
+1194,library,train
+1195,grocery store,train
+1196,tram,train
+1197,forest path,test
+1198,beach,test
+1199,office,train
+1200,train,test
+1201,bus,train
+1202,office,train
+1203,tram,test
+1204,beach,train
+1205,city center,test
+1206,bus,train
+1207,residential area,train
+1208,car,train
+1209,forest path,test
+1210,beach,train
+1211,office,train
+1212,home,train
+1213,train,train
+1214,grocery store,train
+1215,library,train
+1216,library,test
+1217,city center,train
+1218,office,train
+1219,library,train
+1220,city center,train
+1221,library,train
+1222,tram,test
+1223,tram,train
+1224,home,train
+1225,home,train
+1226,residential area,train
+1227,tram,test
+1228,home,train
+1229,residential area,train
+1230,forest path,test
+1231,home,train
+1232,park,train
+1233,train,train
+1234,metro station,test
+1235,cafe/restaurant,train
+1236,residential area,train
+1237,forest path,test
+1238,library,train
+1239,cafe/restaurant,train
+1240,train,test
+1241,office,train
+1242,library,train
+1243,city center,train
+1244,park,test
+1245,beach,train
+1246,city center,test
+1247,metro station,test
+1248,office,train
+1249,car,train
+1250,bus,train
+1251,tram,test
+1252,bus,test
+1253,office,train
+1254,cafe/restaurant,train
+1255,bus,train
+1256,library,train
+1257,beach,test
+1258,park,train
+1259,park,train
+1260,beach,test
+1261,train,train
+1262,library,train
+1263,forest path,test
+1264,tram,test
+1265,library,train
+1266,home,train
+1267,bus,train
+1268,library,train
+1269,city center,train
+1270,cafe/restaurant,train
+1271,forest path,train
+1272,metro station,train
+1273,grocery store,test
+1274,metro station,train
+1275,home,train
+1276,bus,test
+1277,cafe/restaurant,test
+1278,bus,train
+1279,library,train
+1280,train,train
+1281,forest path,train
+1282,bus,train
+1283,city center,train
+1284,cafe/restaurant,train
+1285,forest path,train
+1286,car,train
+1287,home,train
+1288,city center,train
+1289,metro station,test
+1290,residential area,train
+1291,beach,train
+1292,bus,train
+1293,park,train
+1294,library,train
+1295,cafe/restaurant,train
+1296,car,train
+1297,train,train
+1298,metro station,train
+1299,bus,train
+1300,tram,train
+1301,cafe/restaurant,train
+1302,bus,train
+1303,cafe/restaurant,train
+1304,tram,train
+1305,tram,train
+1306,grocery store,train
+1307,beach,test
+1308,cafe/restaurant,train
+1309,car,train
+1310,city center,train
+1311,tram,train
+1312,park,train
+1313,train,test
+1314,residential area,train
+1315,park,train
+1316,grocery store,train
+1317,library,train
+1318,grocery store,train
+1319,metro station,test
+1320,metro station,train
+1321,home,train
+1322,park,train
+1323,train,test
+1324,train,train
+1325,city center,train
+1326,cafe/restaurant,test
+1327,beach,test
+1328,city center,train
+1329,metro station,train
+1330,tram,train
+1331,residential area,train
+1332,train,train
+1333,beach,train
+1334,train,train
+1335,office,test
+1336,grocery store,train
+1337,tram,train
+1338,forest path,train
+1339,library,train
+1340,grocery store,train
+1341,car,test
+1342,park,train
+1343,forest path,train
+1344,city center,test
+1345,library,test
+1346,car,test
+1347,grocery store,train
+1348,residential area,train
+1349,metro station,train
+1350,home,train
+1351,park,train
+1352,bus,train
+1353,car,test
+1354,library,train
+1355,office,train
+1356,train,train
+1357,residential area,test
+1358,car,test
+1359,city center,train
+1360,park,test
+1361,residential area,test
+1362,tram,train
+1363,tram,train
+1364,bus,train
+1365,city center,train
+1366,office,train
+1367,office,train
+1368,library,test
+1369,forest path,test
+1370,forest path,train
+1371,car,test
+1372,metro station,train
+1373,home,train
+1374,bus,test
+1375,park,train
+1376,cafe/restaurant,train
+1377,car,test
+1378,residential area,train
+1379,cafe/restaurant,test
+1380,train,train
+1381,library,train
+1382,grocery store,train
+1383,train,test
+1384,car,train
+1385,beach,train
+1386,forest path,train
+1387,car,train
+1388,home,test
+1389,train,train
+1390,city center,test
+1391,cafe/restaurant,test
+1392,home,train
+1393,park,train
+1394,cafe/restaurant,test
+1395,train,train
+1396,residential area,test
+1397,beach,train
+1398,cafe/restaurant,train
+1399,grocery store,train
+1400,beach,train
+1401,train,train
+1402,beach,train
+1403,tram,train
+1404,library,train
+1405,grocery store,train
+1406,tram,train
+1407,metro station,train
+1408,car,train
+1409,tram,test
+1410,cafe/restaurant,train
+1411,bus,train
+1412,park,train
+1413,city center,test
+1414,beach,test
+1415,home,test
+1416,office,test
+1417,tram,train
+1418,city center,train
+1419,car,test
+1420,forest path,train
+1421,forest path,test
+1422,cafe/restaurant,train
+1423,library,test
+1424,grocery store,train
+1425,office,train
+1426,forest path,train
+1427,park,train
+1428,train,train
+1429,city center,train
+1430,car,test
+1431,city center,train
+1432,city center,train
+1433,library,train
+1434,home,train
+1435,residential area,train
+1436,city center,train
+1437,grocery store,test
+1438,grocery store,train
+1439,car,train
+1440,cafe/restaurant,train
+1441,car,train
+1442,city center,test
+1443,tram,test
+1444,library,train
+1445,tram,train
+1446,metro station,train
+1447,grocery store,train
+1448,home,test
+1449,grocery store,test
+1450,metro station,train
+1451,metro station,train
+1452,bus,train
+1453,city center,train
+1454,office,train
+1455,park,train
+1456,beach,test
+1457,park,test
+1458,office,train
+1459,library,test
+1460,park,test
+1461,beach,train
+1462,office,train
+1463,home,train
+1464,train,train
+1465,grocery store,test
+1466,cafe/restaurant,train
+1467,metro station,train
+1468,grocery store,train
+1469,grocery store,train
+1470,bus,train
+1471,bus,train
+1472,library,train
+1473,residential area,test
+1474,tram,test
+1475,beach,train
+1476,park,test
+1477,train,test
+1478,beach,train
+1479,metro station,test
+1480,beach,test
+1481,train,train
+1482,city center,train
+1483,cafe/restaurant,train
+1484,residential area,test
+1485,metro station,train
+1486,grocery store,train
+1487,car,train
+1488,home,train
+1489,park,train
+1490,library,train
+1491,park,train
+1492,beach,train
+1493,car,train
+1494,bus,train
+1495,cafe/restaurant,train
+1496,park,train
+1497,office,train
+1498,beach,train
+1499,tram,test
+1500,residential area,test
+1501,train,train
+1502,grocery store,train
+1503,bus,test
+1504,home,test
+1505,home,train
+1506,metro station,train
+1507,beach,train
+1508,train,train
+1509,metro station,train
+1510,cafe/restaurant,train
+1511,office,test
+1512,library,test
+1513,office,test
+1514,train,train
+1515,residential area,test
+1516,office,test
+1517,city center,test
+1518,grocery store,test
+1519,tram,train
+1520,library,train
+1521,office,train
+1522,park,test
+1523,library,train
+1524,car,train
+1525,car,train
+1526,cafe/restaurant,train
+1527,metro station,train
+1528,office,train
+1529,cafe/restaurant,train
+1530,grocery store,train
+1531,forest path,test
+1532,forest path,train
+1533,forest path,test
+1534,metro station,train
+1535,forest path,train
+1536,beach,train
+1537,cafe/restaurant,test
+1538,beach,test
+1539,grocery store,train
+1540,home,train
+1541,home,test
+1542,bus,train
+1543,train,train
+1544,tram,train
+1545,residential area,test
+1546,park,train
+1547,park,train
+1548,office,train
+1549,tram,train
+1550,city center,train
+1551,city center,train
+1552,library,train
+1553,grocery store,train
+1554,metro station,train
+1555,home,train
+1556,forest path,test
+1557,cafe/restaurant,test
+1558,beach,test
+1559,home,train
+1560,grocery store,test
+1561,city center,train
+1562,library,test
+1563,office,train
+1564,grocery store,train
+1565,cafe/restaurant,train
+1566,tram,train
+1567,home,train
+1568,city center,train
+1569,bus,train
+1570,metro station,train
+1571,train,train
+1572,forest path,train
+1573,train,train
+1574,park,test
+1575,office,train
+1576,metro station,train
+1577,forest path,train
+1578,grocery store,train
+1579,residential area,train
+1580,forest path,train
+1581,metro station,train
+1582,car,test
+1583,tram,test
+1584,car,test
+1585,grocery store,train
+1586,city center,train
+1587,forest path,test
+1588,office,train
+1589,tram,train
+1590,bus,train
+1591,park,train
+1592,residential area,train
+1593,office,train
+1594,office,test
+1595,park,train
+1596,cafe/restaurant,test
+1597,office,test
+1598,office,train
+1599,home,train
+1600,residential area,test
+1601,car,test
+1602,train,test
+1603,beach,train
+1604,bus,train
+1605,metro station,train
+1606,tram,test
+1607,home,test
+1608,metro station,test
+1609,forest path,train
+1610,bus,train
+1611,residential area,train
+1612,bus,train
+1613,bus,test
+1614,city center,train
+1615,office,test
+1616,train,train
+1617,city center,train
+1618,bus,train
+1619,car,train
+1620,metro station,test
+1621,library,train
+1622,home,train
+1623,cafe/restaurant,train
+1624,residential area,train
+1625,residential area,train
+1626,car,test
+1627,metro station,train
+1628,library,train
+1629,park,test
+1630,train,train
+1631,car,train
+1632,library,train
+1633,residential area,train
+1634,forest path,train
+1635,office,train
+1636,bus,train
+1637,tram,test
+1638,office,train
+1639,beach,train
+1640,city center,train
+1641,forest path,train
+1642,car,train
+1643,metro station,test
+1644,cafe/restaurant,train
+1645,train,test
+1646,residential area,train
+1647,residential area,train
+1648,forest path,test
+1649,forest path,test
+1650,forest path,train
+1651,beach,test
+1652,library,train
+1653,office,test
+1654,car,test
+1655,home,train
+1656,metro station,train
+1657,train,train
+1658,car,train
+1659,library,test
+1660,train,train
+1661,train,train
+1662,metro station,test
+1663,home,train
+1664,forest path,train
+1665,cafe/restaurant,train
+1666,office,train
+1667,beach,test
+1668,city center,train
+1669,library,train
+1670,library,train
+1671,forest path,train
+1672,grocery store,train
+1673,city center,test
+1674,bus,test
+1675,tram,train
+1676,residential area,train
+1677,beach,train
+1678,tram,train
+1679,office,train
+1680,office,train
+1681,tram,train
+1682,park,train
+1683,cafe/restaurant,train
+1684,park,train
+1685,residential area,train
+1686,bus,test
+1687,forest path,train
+1688,forest path,train
+1689,train,test
+1690,office,test
+1691,tram,train
+1692,metro station,train
+1693,library,test
+1694,residential area,train
+1695,beach,train
+1696,library,train
+1697,bus,test
+1698,metro station,train
+1699,home,train
+1700,beach,train
+1701,tram,test
+1702,residential area,train
+1703,tram,train
+1704,office,train
+1705,residential area,train
+1706,residential area,train
+1707,train,train
+1708,tram,train
+1709,office,test
+1710,bus,train
+1711,train,test
+1712,library,train
+1713,forest path,train
+1714,home,test
+1715,train,train
+1716,residential area,train
+1717,grocery store,train
+1718,metro station,train
+1719,grocery store,train
+1720,grocery store,test
+1721,forest path,test
+1722,beach,train
+1723,tram,train
+1724,metro station,test
+1725,residential area,train
+1726,grocery store,train
+1727,tram,train
+1728,city center,train
+1729,metro station,train
+1730,park,train
+1731,beach,train
+1732,metro station,train
+1733,metro station,train
+1734,bus,train
+1735,residential area,test
+1736,grocery store,train
+1737,beach,train
+1738,grocery store,train
+1739,residential area,train
+1740,library,train
+1741,home,train
+1742,bus,test
+1743,grocery store,train
+1744,residential area,train
+1745,car,train
+1746,home,train
+1747,metro station,train
+1748,home,test
+1749,metro station,train
+1750,tram,train
+1751,tram,train
+1752,train,train
+1753,forest path,test
+1754,bus,train
+1755,residential area,train
+1756,tram,train
+1757,car,train
+1758,tram,test
+1759,park,train
+1760,cafe/restaurant,train
+1761,beach,train
+1762,train,test
+1763,library,train
+1764,forest path,train
+1765,cafe/restaurant,train
+1766,office,train
+1767,city center,train
+1768,cafe/restaurant,train
+1769,train,train
+1770,train,train
+1771,train,train
+1772,car,train
+1773,grocery store,train
+1774,beach,train
+1775,tram,test
+1776,cafe/restaurant,train
+1777,car,train
+1778,grocery store,train
+1779,train,train
+1780,home,train
+1781,train,train
+1782,tram,train
+1783,office,train
+1784,grocery store,train
+1785,city center,train
+1786,train,train
+1787,train,train
+1788,residential area,train
+1789,car,train
+1790,residential area,train
+1791,cafe/restaurant,train
+1792,train,train
+1793,library,train
+1794,train,train
+1795,tram,train
+1796,beach,train
+1797,tram,train
+1798,train,test
+1799,office,train
+1800,home,train
+1801,library,train
+1802,forest path,train
+1803,car,train
+1804,tram,train
+1805,beach,test
+1806,train,train
+1807,library,test
+1808,tram,test
+1809,park,test
+1810,office,train
+1811,park,test
+1812,forest path,test
+1813,train,train
+1814,bus,train
+1815,tram,test
+1816,train,train
+1817,grocery store,train
+1818,city center,test
+1819,library,test
+1820,city center,train
+1821,forest path,test
+1822,office,train
+1823,residential area,train
+1824,office,test
+1825,train,train
+1826,city center,test
+1827,grocery store,train
+1828,library,test
+1829,car,train
+1830,train,train
+1831,bus,test
+1832,beach,train
+1833,grocery store,train
+1834,bus,train
+1835,forest path,train
+1836,cafe/restaurant,test
+1837,train,test
+1838,home,test
+1839,tram,train
+1840,library,train
+1841,grocery store,test
+1842,library,train
+1843,residential area,test
+1844,city center,train
+1845,tram,test
+1846,office,train
+1847,city center,test
+1848,library,train
+1849,grocery store,train
+1850,forest path,test
+1851,city center,test
+1852,grocery store,test
+1853,metro station,train
+1854,cafe/restaurant,test
+1855,beach,test
+1856,home,test
+1857,forest path,train
+1858,beach,train
+1859,library,test
+1860,office,train
+1861,office,train
+1862,train,train
+1863,grocery store,test
+1864,grocery store,train
+1865,library,test
+1866,cafe/restaurant,train
+1867,park,test
+1868,bus,test
+1869,library,train
+1870,cafe/restaurant,train
+1871,library,test
+1872,city center,train
+1873,beach,train
+1874,home,test
+1875,tram,train
+1876,cafe/restaurant,train
+1877,forest path,test
+1878,tram,train
+1879,beach,train
+1880,park,train
+1881,train,train
+1882,tram,train
+1883,home,test
+1884,residential area,train
+1885,cafe/restaurant,train
+1886,metro station,train
+1887,office,train
+1888,bus,train
+1889,beach,test
+1890,park,train
+1891,library,train
+1892,residential area,train
+1893,library,train
+1894,office,train
+1895,forest path,test
+1896,city center,test
+1897,cafe/restaurant,train
+1898,library,train
+1899,city center,test
+1900,forest path,train
+1901,beach,train
+1902,bus,test
+1903,car,train
+1904,car,train
+1905,metro station,test
+1906,tram,test
+1907,car,train
+1908,grocery store,test
+1909,office,test
+1910,forest path,train
+1911,park,train
+1912,office,train
+1913,home,train
+1914,library,train
+1915,train,test
+1916,office,train
+1917,metro station,train
+1918,beach,train
+1919,car,test
+1920,car,test
+1921,home,train
+1922,park,train
+1923,tram,train
+1924,tram,train
+1925,cafe/restaurant,train
+1926,forest path,train
+1927,park,train
+1928,bus,train
+1929,car,test
+1930,metro station,train
+1931,grocery store,train
+1932,home,test
+1933,home,train
+1934,grocery store,train
+1935,car,train
+1936,home,train
+1937,grocery store,train
+1938,cafe/restaurant,train
+1939,bus,test
+1940,park,test
+1941,train,test
+1942,beach,train
+1943,car,train
+1944,home,test
+1945,car,test
+1946,metro station,test
+1947,cafe/restaurant,train
+1948,forest path,train
+1949,library,test
+1950,car,test
+1951,cafe/restaurant,test
+1952,bus,train
+1953,car,train
+1954,train,train
+1955,park,test
+1956,cafe/restaurant,train
+1957,forest path,train
+1958,library,train
+1959,park,train
+1960,cafe/restaurant,train
+1961,library,train
+1962,grocery store,test
+1963,library,train
+1964,tram,train
+1965,home,train
+1966,beach,train
+1967,home,train
+1968,tram,train
+1969,metro station,test
+1970,office,train
+1971,library,test
+1972,cafe/restaurant,test
+1973,train,train
+1974,bus,train
+1975,bus,test
+1976,residential area,train
+1977,home,train
+1978,residential area,train
+1979,metro station,train
+1980,cafe/restaurant,test
+1981,office,test
+1982,city center,train
+1983,car,train
+1984,park,train
+1985,metro station,train
+1986,residential area,train
+1987,park,train
+1988,park,train
+1989,car,train
+1990,tram,test
+1991,car,train
+1992,grocery store,train
+1993,park,train
+1994,office,train
+1995,car,test
+1996,beach,train
+1997,car,test
+1998,beach,train
+1999,beach,test
+2000,car,train
+2001,bus,test
+2002,home,train
+2003,grocery store,train
+2004,city center,test
+2005,library,test
+2006,city center,train
+2007,train,test
+2008,train,train
+2009,residential area,test
+2010,grocery store,train
+2011,cafe/restaurant,train
+2012,city center,train
+2013,grocery store,train
+2014,cafe/restaurant,train
+2015,grocery store,train
+2016,residential area,train
+2017,tram,train
+2018,grocery store,train
+2019,forest path,train
+2020,city center,test
+2021,cafe/restaurant,train
+2022,car,train
+2023,metro station,test
+2024,residential area,test
+2025,forest path,train
+2026,bus,train
+2027,bus,train
+2028,train,train
+2029,library,train
+2030,car,train
+2031,park,test
+2032,home,train
+2033,library,train
+2034,city center,train
+2035,forest path,train
+2036,home,train
+2037,forest path,train
+2038,grocery store,train
+2039,cafe/restaurant,train
+2040,tram,test
+2041,residential area,test
+2042,home,test
+2043,grocery store,train
+2044,tram,train
+2045,office,test
+2046,tram,train
+2047,metro station,test
+2048,cafe/restaurant,train
+2049,residential area,test
+2050,car,train
+2051,city center,train
+2052,grocery store,test
+2053,home,train
+2054,metro station,test
+2055,park,train
+2056,park,train
+2057,train,test
+2058,grocery store,test
+2059,car,train
+2060,office,train
+2061,home,train
+2062,tram,test
+2063,train,train
+2064,grocery store,train
+2065,car,train
+2066,grocery store,test
+2067,office,train
+2068,residential area,train
+2069,park,test
+2070,park,train
+2071,park,train
+2072,bus,test
+2073,city center,train
+2074,office,train
+2075,park,train
+2076,tram,train
+2077,residential area,train
+2078,tram,test
+2079,city center,train
+2080,metro station,test
+2081,train,train
+2082,metro station,test
+2083,train,test
+2084,bus,train
+2085,bus,train
+2086,city center,train
+2087,grocery store,train
+2088,metro station,train
+2089,beach,train
+2090,metro station,test
+2091,train,test
+2092,grocery store,train
+2093,library,train
+2094,train,test
+2095,bus,train
+2096,beach,train
+2097,train,test
+2098,residential area,train
+2099,car,test
+2100,grocery store,train
+2101,office,test
+2102,library,test
+2103,train,test
+2104,city center,test
+2105,bus,train
+2106,office,train
+2107,tram,train
+2108,bus,train
+2109,home,train
+2110,cafe/restaurant,train
+2111,city center,train
+2112,park,train
+2113,tram,train
+2114,bus,train
+2115,beach,test
+2116,home,train
+2117,bus,test
+2118,beach,train
+2119,residential area,train
+2120,city center,test
+2121,grocery store,train
+2122,cafe/restaurant,train
+2123,park,train
+2124,forest path,train
+2125,grocery store,train
+2126,bus,train
+2127,car,test
+2128,grocery store,test
+2129,train,train
+2130,residential area,test
+2131,home,train
+2132,park,train
+2133,cafe/restaurant,test
+2134,grocery store,test
+2135,forest path,train
+2136,office,train
+2137,train,train
+2138,city center,train
+2139,city center,test
+2140,tram,train
+2141,car,train
+2142,grocery store,train
+2143,library,train
+2144,grocery store,test
+2145,metro station,train
+2146,grocery store,train
+2147,metro station,train
+2148,grocery store,train
+2149,beach,test
+2150,tram,train
+2151,train,train
+2152,beach,train
+2153,city center,train
+2154,bus,train
+2155,forest path,test
+2156,grocery store,train
+2157,cafe/restaurant,train
+2158,cafe/restaurant,test
+2159,metro station,test
+2160,library,train
+2161,home,train
+2162,train,train
+2163,home,test
+2164,cafe/restaurant,train
+2165,bus,train
+2166,tram,train
+2167,forest path,train
+2168,park,train
+2169,metro station,test
+2170,forest path,train
+2171,bus,train
+2172,beach,test
+2173,residential area,test
+2174,grocery store,train
+2175,grocery store,train
+2176,forest path,test
+2177,car,train
+2178,cafe/restaurant,train
+2179,residential area,train
+2180,residential area,train
+2181,home,test
+2182,beach,train
+2183,office,test
+2184,office,train
+2185,home,train
+2186,tram,train
+2187,bus,train
+2188,library,train
+2189,beach,train
+2190,office,train
+2191,city center,train
+2192,grocery store,test
+2193,forest path,train
+2194,grocery store,train
+2195,office,train
+2196,cafe/restaurant,train
+2197,tram,train
+2198,park,train
+2199,forest path,train
+2200,home,test
+2201,cafe/restaurant,train
+2202,bus,train
+2203,forest path,train
+2204,home,train
+2205,forest path,train
+2206,train,train
+2207,beach,train
+2208,cafe/restaurant,test
+2209,bus,train
+2210,forest path,train
+2211,city center,train
+2212,metro station,test
+2213,park,train
+2214,tram,train
+2215,home,train
+2216,library,test
+2217,train,train
+2218,grocery store,train
+2219,library,train
+2220,train,test
+2221,train,train
+2222,residential area,train
+2223,car,train
+2224,beach,train
+2225,train,test
+2226,office,train
+2227,bus,train
+2228,library,test
+2229,forest path,train
+2230,car,train
+2231,park,train
+2232,tram,train
+2233,library,train
+2234,home,train
+2235,cafe/restaurant,test
+2236,forest path,train
+2237,metro station,train
+2238,forest path,train
+2239,metro station,train
+2240,metro station,train
+2241,car,train
+2242,office,train
+2243,home,test
+2244,car,train
+2245,grocery store,test
+2246,home,train
+2247,train,train
+2248,grocery store,test
+2249,park,train
+2250,cafe/restaurant,train
+2251,car,train
+2252,metro station,train
+2253,bus,train
+2254,beach,test
+2255,cafe/restaurant,train
+2256,park,train
+2257,car,train
+2258,forest path,train
+2259,beach,train
+2260,library,test
+2261,train,train
+2262,car,train
+2263,library,train
+2264,car,test
+2265,city center,train
+2266,cafe/restaurant,test
+2267,residential area,train
+2268,cafe/restaurant,train
+2269,train,train
+2270,office,train
+2271,tram,test
+2272,car,train
+2273,beach,train
+2274,city center,test
+2275,train,train
+2276,home,train
+2277,home,test
+2278,park,train
+2279,home,train
+2280,park,test
+2281,metro station,train
+2282,train,test
+2283,metro station,train
+2284,residential area,train
+2285,cafe/restaurant,train
+2286,park,train
+2287,train,train
+2288,tram,train
+2289,car,test
+2290,park,train
+2291,beach,test
+2292,library,train
+2293,bus,train
+2294,cafe/restaurant,train
+2295,beach,train
+2296,metro station,train
+2297,tram,train
+2298,grocery store,train
+2299,library,train
+2300,home,train
+2301,car,test
+2302,bus,train
+2303,city center,train
+2304,tram,test
+2305,residential area,train
+2306,library,test
+2307,bus,train
+2308,city center,train
+2309,metro station,train
+2310,metro station,train
+2311,residential area,train
+2312,train,test
+2313,residential area,train
+2314,city center,test
+2315,metro station,test
+2316,car,train
+2317,grocery store,train
+2318,tram,train
+2319,tram,train
+2320,office,test
+2321,park,train
+2322,park,test
+2323,grocery store,train
+2324,bus,train
+2325,tram,train
+2326,bus,train
+2327,bus,train
+2328,city center,train
+2329,cafe/restaurant,train
+2330,tram,train
+2331,bus,test
+2332,city center,train
+2333,beach,test
+2334,library,train
+2335,home,train
+2336,train,train
+2337,bus,train
+2338,metro station,train
+2339,library,train
+2340,home,train
+2341,residential area,test
+2342,forest path,test
+2343,cafe/restaurant,train
+2344,forest path,test
+2345,bus,test
+2346,cafe/restaurant,train
+2347,city center,train
+2348,car,train
+2349,forest path,train
+2350,beach,train
+2351,office,train
+2352,metro station,train
+2353,car,train
+2354,bus,test
+2355,bus,train
+2356,beach,test
+2357,park,test
+2358,train,test
+2359,car,test
+2360,library,train
+2361,metro station,train
+2362,bus,train
+2363,library,train
+2364,library,train
+2365,office,train
+2366,city center,test
+2367,bus,train
+2368,beach,test
+2369,cafe/restaurant,train
+2370,cafe/restaurant,train
+2371,car,test
+2372,cafe/restaurant,train
+2373,bus,train
+2374,home,train
+2375,train,train
+2376,beach,train
+2377,bus,test
+2378,grocery store,train
+2379,bus,test
+2380,office,train
+2381,cafe/restaurant,test
+2382,beach,train
+2383,tram,test
+2384,tram,test
+2385,car,train
+2386,tram,train
+2387,metro station,train
+2388,bus,train
+2389,beach,test
+2390,city center,test
+2391,tram,train
+2392,home,train
+2393,metro station,test
+2394,train,train
+2395,park,train
+2396,city center,train
+2397,car,test
+2398,city center,test
+2399,residential area,train
+2400,bus,train
+2401,office,train
+2402,metro station,train
+2403,cafe/restaurant,train
+2404,metro station,train
+2405,bus,train
+2406,forest path,train
+2407,home,test
+2408,beach,train
+2409,home,train
+2410,office,train
+2411,metro station,train
+2412,home,train
+2413,beach,train
+2414,residential area,train
+2415,beach,test
+2416,grocery store,train
+2417,city center,test
+2418,tram,train
+2419,office,train
+2420,office,train
+2421,residential area,train
+2422,library,train
+2423,bus,train
+2424,beach,train
+2425,train,train
+2426,tram,train
+2427,bus,test
+2428,city center,train
+2429,tram,train
+2430,car,train
+2431,city center,test
+2432,beach,train
+2433,bus,test
+2434,home,train
+2435,home,train
+2436,home,train
+2437,residential area,train
+2438,library,train
+2439,park,train
+2440,office,train
+2441,train,train
+2442,grocery store,train
+2443,train,test
+2444,tram,test
+2445,car,train
+2446,home,train
+2447,grocery store,test
+2448,car,train
+2449,bus,train
+2450,bus,train
+2451,beach,test
+2452,home,train
+2453,forest path,train
+2454,park,train
+2455,grocery store,test
+2456,car,train
+2457,library,train
+2458,forest path,test
+2459,office,train
+2460,metro station,train
+2461,metro station,train
+2462,beach,train
+2463,home,train
+2464,forest path,test
+2465,tram,train
+2466,park,train
+2467,car,train
+2468,forest path,train
+2469,forest path,test
+2470,park,train
+2471,train,test
+2472,home,train
+2473,forest path,test
+2474,bus,test
+2475,beach,train
+2476,beach,train
+2477,grocery store,train
+2478,residential area,train
+2479,beach,train
+2480,forest path,train
+2481,tram,train
+2482,cafe/restaurant,train
+2483,residential area,train
+2484,office,train
+2485,cafe/restaurant,train
+2486,home,train
+2487,beach,train
+2488,beach,test
+2489,cafe/restaurant,train
+2490,metro station,train
+2491,cafe/restaurant,train
+2492,grocery store,train
+2493,grocery store,train
+2494,car,train
+2495,train,train
+2496,cafe/restaurant,train
+2497,park,test
+2498,train,train
+2499,forest path,train
+2500,cafe/restaurant,test
+2501,train,test
+2502,city center,train
+2503,cafe/restaurant,train
+2504,forest path,train
+2505,bus,train
+2506,cafe/restaurant,train
+2507,cafe/restaurant,test
+2508,cafe/restaurant,train
+2509,car,train
+2510,grocery store,train
+2511,park,train
+2512,car,train
+2513,park,train
+2514,cafe/restaurant,train
+2515,grocery store,train
+2516,residential area,train
+2517,home,train
+2518,city center,train
+2519,beach,train
+2520,cafe/restaurant,train
+2521,park,train
+2522,residential area,train
+2523,cafe/restaurant,test
+2524,park,train
+2525,car,train
+2526,residential area,train
+2527,tram,train
+2528,cafe/restaurant,train
+2529,home,train
+2530,forest path,train
+2531,park,train
+2532,bus,train
+2533,beach,train
+2534,office,train
+2535,home,train
+2536,car,train
+2537,residential area,train
+2538,city center,test
+2539,residential area,test
+2540,city center,test
+2541,library,train
+2542,library,train
+2543,tram,train
+2544,residential area,train
+2545,train,test
+2546,beach,train
+2547,train,train
+2548,grocery store,test
+2549,city center,test
+2550,cafe/restaurant,test
+2551,library,test
+2552,forest path,test
+2553,train,train
+2554,car,train
+2555,tram,train
+2556,city center,train
+2557,forest path,train
+2558,home,train
+2559,cafe/restaurant,test
+2560,residential area,test
+2561,library,test
+2562,library,train
+2563,city center,test
+2564,cafe/restaurant,train
+2565,city center,train
+2566,car,test
+2567,forest path,train
+2568,office,train
+2569,forest path,train
+2570,car,test
+2571,home,train
+2572,tram,train
+2573,library,train
+2574,library,train
+2575,bus,test
+2576,train,train
+2577,forest path,train
+2578,city center,train
+2579,train,train
+2580,office,train
+2581,home,train
+2582,tram,train
+2583,metro station,train
+2584,beach,train
+2585,forest path,train
+2586,car,train
+2587,park,test
+2588,car,train
+2589,park,train
+2590,cafe/restaurant,train
+2591,car,train
+2592,bus,train
+2593,bus,train
+2594,beach,test
+2595,tram,train
+2596,cafe/restaurant,train
+2597,office,test
+2598,metro station,train
+2599,park,train
+2600,forest path,test
+2601,library,train
+2602,home,train
+2603,beach,train
+2604,grocery store,train
+2605,forest path,test
+2606,park,train
+2607,office,train
+2608,beach,train
+2609,park,train
+2610,tram,train
+2611,office,train
+2612,grocery store,train
+2613,park,test
+2614,car,train
+2615,metro station,test
+2616,forest path,train
+2617,beach,test
+2618,park,train
+2619,park,train
+2620,car,train
+2621,home,test
+2622,cafe/restaurant,test
+2623,bus,train
+2624,grocery store,train
+2625,residential area,train
+2626,park,test
+2627,park,test
+2628,library,train
+2629,residential area,train
+2630,grocery store,train
+2631,library,test
+2632,train,train
+2633,residential area,test
+2634,metro station,train
+2635,library,test
+2636,bus,train
+2637,forest path,test
+2638,city center,train
+2639,metro station,train
+2640,grocery store,test
+2641,beach,train
+2642,bus,train
+2643,park,test
+2644,library,train
+2645,car,train
+2646,grocery store,train
+2647,residential area,train
+2648,cafe/restaurant,test
+2649,home,train
+2650,tram,train
+2651,metro station,train
+2652,residential area,train
+2653,library,test
+2654,beach,train
+2655,bus,test
+2656,train,train
+2657,tram,train
+2658,car,test
+2659,library,test
+2660,residential area,train
+2661,tram,train
+2662,grocery store,train
+2663,home,train
+2664,cafe/restaurant,train
+2665,train,train
+2666,library,test
+2667,forest path,train
+2668,metro station,test
+2669,library,train
+2670,cafe/restaurant,train
+2671,park,test
+2672,tram,train
+2673,forest path,train
+2674,office,train
+2675,residential area,train
+2676,forest path,train
+2677,metro station,train
+2678,train,train
+2679,cafe/restaurant,train
+2680,bus,train
+2681,tram,train
+2682,residential area,test
+2683,train,test
+2684,city center,train
+2685,beach,test
+2686,residential area,test
+2687,beach,train
+2688,city center,train
+2689,cafe/restaurant,test
+2690,cafe/restaurant,test
+2691,cafe/restaurant,train
+2692,car,train
+2693,park,train
+2694,train,test
+2695,metro station,train
+2696,city center,train
+2697,metro station,test
+2698,cafe/restaurant,train
+2699,park,train
+2700,metro station,train
+2701,forest path,train
+2702,home,test
+2703,forest path,test
+2704,cafe/restaurant,train
+2705,residential area,test
+2706,library,train
+2707,forest path,train
+2708,forest path,train
+2709,car,train
+2710,park,train
+2711,park,train
+2712,tram,test
+2713,train,train
+2714,library,train
+2715,beach,test
+2716,forest path,test
+2717,residential area,train
+2718,train,train
+2719,office,test
+2720,car,train
+2721,bus,train
+2722,office,test
+2723,metro station,train
+2724,home,test
+2725,library,train
+2726,park,train
+2727,forest path,train
+2728,city center,test
+2729,forest path,train
+2730,library,test
+2731,train,train
+2732,office,train
+2733,metro station,train
+2734,train,test
+2735,residential area,train
+2736,residential area,test
+2737,bus,test
+2738,library,train
+2739,park,train
+2740,bus,train
+2741,city center,train
+2742,grocery store,test
+2743,office,test
+2744,park,test
+2745,cafe/restaurant,train
+2746,beach,test
+2747,residential area,train
+2748,grocery store,train
+2749,library,train
+2750,cafe/restaurant,test
+2751,cafe/restaurant,train
+2752,city center,train
+2753,beach,train
+2754,metro station,train
+2755,city center,train
+2756,city center,train
+2757,bus,test
+2758,office,train
+2759,train,train
+2760,residential area,test
+2761,residential area,train
+2762,metro station,train
+2763,beach,train
+2764,park,test
+2765,grocery store,train
+2766,train,train
+2767,metro station,train
+2768,residential area,train
+2769,metro station,train
+2770,residential area,train
+2771,train,test
+2772,car,train
+2773,beach,test
+2774,library,train
+2775,metro station,test
+2776,bus,test
+2777,home,train
+2778,park,train
+2779,residential area,train
+2780,city center,train
+2781,residential area,train
+2782,beach,train
+2783,train,train
+2784,residential area,test
+2785,car,train
+2786,car,test
+2787,metro station,train
+2788,library,train
+2789,park,train
+2790,park,test
+2791,residential area,test
+2792,office,train
+2793,metro station,train
+2794,office,train
+2795,park,train
+2796,metro station,train
+2797,office,train
+2798,city center,train
+2799,residential area,train
+2800,tram,test
+2801,office,test
+2802,park,train
+2803,city center,train
+2804,office,test
+2805,park,train
+2806,tram,test
+2807,forest path,test
+2808,cafe/restaurant,train
+2809,office,train
+2810,forest path,test
+2811,train,train
+2812,park,train
+2813,grocery store,test
+2814,tram,train
+2815,metro station,train
+2816,residential area,train
+2817,tram,train
+2818,city center,train
+2819,grocery store,train
+2820,train,train
+2821,city center,train
+2822,residential area,train
+2823,library,train
+2824,office,train
+2825,bus,test
+2826,train,test
+2827,park,test
+2828,forest path,train
+2829,car,train
+2830,car,test
+2831,car,test
+2832,office,test
+2833,cafe/restaurant,train
+2834,library,train
+2835,bus,train
+2836,home,train
+2837,train,train
+2838,train,train
+2839,city center,test
+2840,beach,train
+2841,beach,test
+2842,forest path,test
+2843,tram,train
+2844,bus,train
+2845,bus,test
+2846,forest path,train
+2847,beach,train
+2848,grocery store,train
+2849,office,test
+2850,park,test
+2851,library,train
+2852,metro station,train
+2853,bus,test
+2854,beach,train
+2855,home,train
+2856,library,train
+2857,tram,train
+2858,tram,train
+2859,car,train
+2860,tram,train
+2861,metro station,test
+2862,car,train
+2863,grocery store,train
+2864,park,train
+2865,library,train
+2866,office,train
+2867,library,test
+2868,tram,train
+2869,residential area,train
+2870,beach,train
+2871,city center,train
+2872,car,test
+2873,cafe/restaurant,train
+2874,forest path,test
+2875,train,test
+2876,bus,train
+2877,city center,train
+2878,home,train
+2879,residential area,train
+2880,grocery store,train
+2881,office,test
+2882,forest path,test
+2883,city center,train
+2884,grocery store,test
+2885,library,train
+2886,cafe/restaurant,test
+2887,train,train
+2888,residential area,train
+2889,metro station,test
+2890,city center,train
+2891,forest path,train
+2892,city center,train
+2893,tram,test
+2894,train,test
+2895,car,train
+2896,office,train
+2897,car,train
+2898,city center,train
+2899,city center,train
+2900,beach,test
+2901,car,train
+2902,office,test
+2903,tram,train
+2904,metro station,train
+2905,metro station,test
+2906,beach,train
+2907,grocery store,train
+2908,car,train
+2909,city center,test
+2910,city center,test
+2911,grocery store,train
+2912,residential area,train
+2913,tram,test
+2914,home,test
+2915,forest path,train
+2916,grocery store,train
+2917,home,test
+2918,home,train
+2919,city center,train
+2920,forest path,test
+2921,grocery store,train
+2922,library,test
+2923,city center,train
+2924,bus,train
+2925,tram,train
+2926,metro station,train
+2927,forest path,test
+2928,city center,test
+2929,park,train
+2930,home,train
+2931,metro station,train
+2932,forest path,train
+2933,beach,train
+2934,park,train
+2935,bus,train
+2936,residential area,train
+2937,forest path,test
+2938,tram,test
+2939,beach,test
+2940,city center,train
+2941,library,train
+2942,beach,train
+2943,grocery store,train
+2944,office,test
+2945,metro station,train
+2946,city center,train
+2947,park,train
+2948,home,train
+2949,car,train
+2950,residential area,train
+2951,forest path,test
+2952,bus,test
+2953,forest path,test
+2954,cafe/restaurant,train
+2955,tram,test
+2956,home,train
+2957,residential area,train
+2958,cafe/restaurant,train
+2959,grocery store,train
+2960,park,train
+2961,metro station,train
+2962,office,train
+2963,tram,train
+2964,residential area,test
+2965,forest path,train
+2966,home,train
+2967,residential area,test
+2968,cafe/restaurant,train
+2969,metro station,test
+2970,train,train
+2971,metro station,test
+2972,tram,train
+2973,tram,train
+2974,home,train
+2975,bus,train
+2976,cafe/restaurant,train
+2977,beach,train
+2978,city center,train
+2979,grocery store,test
+2980,train,train
+2981,grocery store,test
+2982,metro station,test
+2983,beach,train
+2984,grocery store,train
+2985,city center,train
+2986,city center,train
+2987,home,train
+2988,tram,train
+2989,cafe/restaurant,train
+2990,forest path,train
+2991,train,test
+2992,office,train
+2993,train,test
+2994,city center,train
+2995,train,train
+2996,grocery store,train
+2997,metro station,train
+2998,beach,train
+2999,bus,train
+3000,office,test
+3001,library,train
+3002,car,train
+3003,beach,train
+3004,tram,train
+3005,tram,train
+3006,cafe/restaurant,test
+3007,bus,train
+3008,beach,train
+3009,forest path,test
+3010,city center,train
+3011,office,test
+3012,grocery store,train
+3013,metro station,train
+3014,library,train
+3015,library,train
+3016,metro station,train
+3017,residential area,train
+3018,city center,train
+3019,city center,train
+3020,metro station,test
+3021,metro station,test
+3022,home,train
+3023,grocery store,train
+3024,grocery store,train
+3025,train,train
+3026,city center,train
+3027,metro station,test
+3028,bus,test
+3029,tram,train
+3030,metro station,test
+3031,tram,test
+3032,home,train
+3033,office,train
+3034,city center,train
+3035,tram,train
+3036,train,train
+3037,park,test
+3038,city center,train
+3039,residential area,train
+3040,bus,train
+3041,home,train
+3042,city center,train
+3043,bus,train
+3044,bus,test
+3045,residential area,train
+3046,car,train
+3047,bus,test
+3048,home,train
+3049,bus,test
+3050,home,train
+3051,metro station,train
+3052,forest path,train
+3053,park,train
+3054,metro station,test
+3055,cafe/restaurant,train
+3056,beach,train
+3057,beach,train
+3058,library,train
+3059,library,test
+3060,home,test
+3061,forest path,train
+3062,home,test
+3063,city center,train
+3064,metro station,train
+3065,city center,train
+3066,cafe/restaurant,test
+3067,grocery store,train
+3068,home,test
+3069,train,train
+3070,tram,train
+3071,library,train
+3072,office,train
+3073,tram,test
+3074,library,train
+3075,bus,train
+3076,train,train
+3077,tram,train
+3078,train,test
+3079,cafe/restaurant,train
+3080,bus,train
+3081,residential area,train
+3082,car,train
+3083,bus,test
+3084,cafe/restaurant,test
+3085,forest path,train
+3086,residential area,train
+3087,park,test
+3088,home,train
+3089,library,train
+3090,forest path,train
+3091,train,test
+3092,forest path,test
+3093,home,train
+3094,library,train
+3095,metro station,test
+3096,train,train
+3097,park,test
+3098,car,train
+3099,park,train
+3100,tram,test
+3101,car,train
+3102,home,train
+3103,bus,train
+3104,bus,train
+3105,bus,train
+3106,beach,train
+3107,park,train
+3108,forest path,test
+3109,residential area,train
+3110,office,train
+3111,park,train
+3112,tram,train
+3113,beach,train
+3114,office,train
+3115,park,train
+3116,grocery store,train
+3117,cafe/restaurant,train
+3118,metro station,test
+3119,bus,train
+3120,city center,train
+3121,grocery store,train
+3122,park,test
+3123,office,train
+3124,library,test
+3125,tram,test
+3126,metro station,train
+3127,residential area,train
+3128,city center,train
+3129,office,test
+3130,tram,test
+3131,car,train
+3132,bus,train
+3133,residential area,test
+3134,park,train
+3135,train,train
+3136,car,test
+3137,office,train
+3138,home,train
+3139,office,test
+3140,train,train
+3141,car,test
+3142,library,train
+3143,car,train
+3144,city center,train
+3145,forest path,train
+3146,office,train
+3147,beach,test
+3148,residential area,train
+3149,bus,train
+3150,cafe/restaurant,train
+3151,library,train
+3152,home,test
+3153,metro station,train
+3154,cafe/restaurant,test
+3155,cafe/restaurant,train
+3156,metro station,train
+3157,train,train
+3158,office,train
+3159,library,test
+3160,beach,test
+3161,city center,test
+3162,bus,test
+3163,beach,train
+3164,forest path,train
+3165,forest path,test
+3166,park,train
+3167,city center,test
+3168,residential area,train
+3169,bus,train
+3170,grocery store,train
+3171,tram,train
+3172,cafe/restaurant,train
+3173,metro station,train
+3174,bus,test
+3175,forest path,train
+3176,beach,train
+3177,tram,train
+3178,tram,train
+3179,park,test
+3180,metro station,train
+3181,city center,train
+3182,metro station,train
+3183,city center,test
+3184,metro station,train
+3185,home,test
+3186,cafe/restaurant,train
+3187,grocery store,test
+3188,car,train
+3189,train,train
+3190,city center,test
+3191,forest path,train
+3192,forest path,train
+3193,residential area,train
+3194,car,test
+3195,car,train
+3196,bus,test
+3197,train,test
+3198,car,test
+3199,residential area,train
+3200,park,test
+3201,train,train
+3202,home,train
+3203,tram,test
+3204,library,train
+3205,office,train
+3206,city center,train
+3207,car,train
+3208,grocery store,train
+3209,tram,train
+3210,residential area,test
+3211,library,train
+3212,train,test
+3213,city center,train
+3214,cafe/restaurant,train
+3215,forest path,train
+3216,bus,test
+3217,residential area,train
+3218,bus,test
+3219,train,test
+3220,cafe/restaurant,test
+3221,tram,train
+3222,tram,train
+3223,beach,train
+3224,office,train
+3225,train,test
+3226,home,train
+3227,library,train
+3228,car,train
+3229,grocery store,train
+3230,forest path,test
+3231,office,test
+3232,metro station,train
+3233,park,train
+3234,residential area,test
+3235,car,test
+3236,bus,test
+3237,home,train
+3238,tram,train
+3239,beach,train
+3240,home,train
+3241,park,train
+3242,car,train
+3243,library,train
+3244,park,train
+3245,city center,train
+3246,library,train
+3247,bus,test
+3248,city center,train
+3249,tram,train
+3250,residential area,train
+3251,train,train
+3252,cafe/restaurant,train
+3253,train,test
+3254,cafe/restaurant,test
+3255,train,train
+3256,train,test
+3257,car,train
+3258,car,test
+3259,cafe/restaurant,train
+3260,car,train
+3261,beach,train
+3262,car,train
+3263,train,train
+3264,beach,train
+3265,tram,test
+3266,metro station,test
+3267,city center,train
+3268,forest path,test
+3269,library,train
+3270,office,train
+3271,forest path,train
+3272,cafe/restaurant,test
+3273,residential area,test
+3274,forest path,train
+3275,car,test
+3276,park,train
+3277,bus,test
+3278,bus,train
+3279,metro station,train
+3280,city center,train
+3281,grocery store,test
+3282,residential area,train
+3283,city center,test
+3284,office,test
+3285,park,train
+3286,office,train
+3287,grocery store,test
+3288,beach,test
+3289,beach,train
+3290,train,train
+3291,park,train
+3292,home,train
+3293,home,train
+3294,car,train
+3295,tram,train
+3296,cafe/restaurant,test
+3297,residential area,train
+3298,library,test
+3299,metro station,test
+3300,forest path,test
+3301,city center,train
+3302,car,train
+3303,city center,train
+3304,library,train
+3305,beach,train
+3306,grocery store,test
+3307,residential area,test
+3308,tram,train
+3309,grocery store,train
+3310,office,train
+3311,library,train
+3312,home,train
+3313,metro station,train
+3314,car,train
+3315,park,train
+3316,beach,train
+3317,cafe/restaurant,train
+3318,office,train
+3319,beach,test
+3320,library,test
+3321,park,train
+3322,forest path,train
+3323,office,train
+3324,beach,train
+3325,tram,test
+3326,cafe/restaurant,train
+3327,metro station,train
+3328,office,train
+3329,beach,train
+3330,residential area,test
+3331,office,train
+3332,forest path,test
+3333,train,train
+3334,city center,train
+3335,bus,train
+3336,cafe/restaurant,train
+3337,cafe/restaurant,test
+3338,city center,train
+3339,metro station,train
+3340,home,train
+3341,train,test
+3342,city center,train
+3343,city center,test
+3344,tram,train
+3345,office,train
+3346,office,train
+3347,bus,train
+3348,city center,train
+3349,cafe/restaurant,train
+3350,grocery store,train
+3351,forest path,test
+3352,grocery store,train
+3353,car,train
+3354,beach,test
+3355,office,train
+3356,library,test
+3357,residential area,train
+3358,library,test
+3359,tram,train
+3360,office,train
+3361,library,train
+3362,tram,train
+3363,forest path,train
+3364,city center,train
+3365,grocery store,train
+3366,grocery store,test
+3367,grocery store,test
+3368,beach,test
+3369,cafe/restaurant,test
+3370,metro station,test
+3371,car,train
+3372,forest path,train
+3373,home,train
+3374,tram,train
+3375,bus,train
+3376,grocery store,train
+3377,beach,test
+3378,car,test
+3379,forest path,train
+3380,grocery store,train
+3381,cafe/restaurant,train
+3382,bus,train
+3383,library,train
+3384,car,train
+3385,home,train
+3386,cafe/restaurant,train
+3387,bus,test
+3388,beach,train
+3389,office,train
+3390,home,train
+3391,metro station,train
+3392,residential area,train
+3393,cafe/restaurant,train
+3394,home,test
+3395,city center,test
+3396,bus,train
+3397,office,test
+3398,car,train
+3399,train,train
+3400,grocery store,train
+3401,library,test
+3402,train,train
+3403,forest path,train
+3404,cafe/restaurant,test
+3405,residential area,train
+3406,cafe/restaurant,train
+3407,forest path,train
+3408,beach,train
+3409,library,train
+3410,home,test
+3411,residential area,test
+3412,city center,train
+3413,park,train
+3414,grocery store,train
+3415,train,train
+3416,residential area,train
+3417,beach,train
+3418,metro station,train
+3419,train,test
+3420,beach,train
+3421,cafe/restaurant,train
+3422,train,test
+3423,home,test
+3424,grocery store,test
+3425,park,test
+3426,residential area,train
+3427,home,test
+3428,park,train
+3429,grocery store,train
+3430,tram,train
+3431,grocery store,test
+3432,car,test
+3433,bus,train
+3434,grocery store,test
+3435,grocery store,test
+3436,forest path,train
+3437,city center,train
+3438,beach,train
+3439,cafe/restaurant,train
+3440,office,train
+3441,grocery store,train
+3442,cafe/restaurant,train
+3443,grocery store,train
+3444,library,train
+3445,grocery store,train
+3446,city center,train
+3447,bus,test
+3448,residential area,train
+3449,train,test
+3450,library,train
+3451,train,train
+3452,car,train
+3453,bus,test
+3454,residential area,test
+3455,city center,train
+3456,tram,train
+3457,residential area,train
+3458,car,train
+3459,library,train
+3460,office,train
+3461,metro station,train
+3462,forest path,test
+3463,city center,train
+3464,car,train
+3465,bus,train
+3466,grocery store,train
+3467,residential area,train
+3468,train,train
+3469,home,test
+3470,metro station,test
+3471,car,train
+3472,office,test
+3473,metro station,train
+3474,grocery store,test
+3475,forest path,train
+3476,office,train
+3477,city center,train
+3478,home,train
+3479,bus,train
+3480,city center,train
+3481,grocery store,train
+3482,cafe/restaurant,train
+3483,bus,train
+3484,park,test
+3485,cafe/restaurant,train
+3486,office,train
+3487,forest path,test
+3488,cafe/restaurant,train
+3489,residential area,train
+3490,forest path,test
+3491,train,train
+3492,car,train
+3493,city center,train
+3494,forest path,train
+3495,metro station,train
+3496,home,train
+3497,office,test
+3498,train,train
+3499,car,train
+3500,grocery store,test
+3501,car,train
+3502,city center,train
+3503,park,train
+3504,park,test
+3505,residential area,train
+3506,residential area,train
+3507,bus,test
+3508,park,test
+3509,library,test
+3510,library,train
+3511,bus,train
+3512,bus,test
+3513,cafe/restaurant,train
+3514,tram,train
+3515,train,train
+3516,city center,train
+3517,office,train
+3518,car,train
+3519,grocery store,train
+3520,car,train
+3521,library,test
+3522,park,test
+3523,home,train
+3524,park,train
+3525,city center,train
+3526,car,train
+3527,city center,train
+3528,metro station,train
+3529,library,train
+3530,library,test
+3531,bus,train
+3532,cafe/restaurant,train
+3533,forest path,train
+3534,train,test
+3535,park,train
+3536,office,train
+3537,train,test
+3538,bus,train
+3539,park,train
+3540,beach,train
+3541,home,train
+3542,residential area,test
+3543,metro station,train
+3544,metro station,train
+3545,library,train
+3546,library,test
+3547,park,train
+3548,cafe/restaurant,train
+3549,metro station,train
+3550,car,train
+3551,bus,train
+3552,park,train
+3553,grocery store,train
+3554,city center,train
+3555,tram,train
+3556,metro station,train
+3557,bus,train
+3558,car,train
+3559,home,train
+3560,bus,test
+3561,bus,train
+3562,cafe/restaurant,train
+3563,office,train
+3564,home,train
+3565,beach,train
+3566,car,train
+3567,residential area,test
+3568,home,train
+3569,cafe/restaurant,train
+3570,cafe/restaurant,train
+3571,library,test
+3572,cafe/restaurant,train
+3573,home,train
+3574,car,train
+3575,office,train
+3576,car,train
+3577,bus,train
+3578,train,train
+3579,beach,train
+3580,train,train
+3581,train,train
+3582,train,train
+3583,park,train
+3584,cafe/restaurant,test
+3585,metro station,train
+3586,metro station,train
+3587,park,train
+3588,forest path,train
+3589,home,train
+3590,train,train
+3591,tram,test
+3592,forest path,train
+3593,residential area,train
+3594,tram,train
+3595,city center,train
+3596,car,train
+3597,park,test
+3598,home,test
+3599,city center,train
+3600,grocery store,train
+3601,forest path,train
+3602,bus,test
+3603,city center,train
+3604,tram,test
+3605,cafe/restaurant,train
+3606,office,train
+3607,cafe/restaurant,train
+3608,cafe/restaurant,test
+3609,city center,train
+3610,library,train
+3611,grocery store,train
+3612,car,train
+3613,library,train
+3614,bus,train
+3615,park,train
+3616,home,train
+3617,beach,test
+3618,residential area,train
+3619,office,train
+3620,residential area,test
+3621,residential area,train
+3622,residential area,test
+3623,cafe/restaurant,train
+3624,grocery store,train
+3625,bus,train
+3626,library,train
+3627,city center,train
+3628,park,train
+3629,cafe/restaurant,train
+3630,beach,train
+3631,car,train
+3632,residential area,train
+3633,car,train
+3634,bus,train
+3635,car,train
+3636,beach,train
+3637,beach,train
+3638,tram,train
+3639,library,train
+3640,metro station,train
+3641,home,train
+3642,bus,train
+3643,bus,test
+3644,library,test
+3645,city center,train
+3646,metro station,train
+3647,bus,train
+3648,tram,test
+3649,park,train
+3650,beach,train
+3651,forest path,train
+3652,residential area,train
+3653,home,test
+3654,train,train
+3655,forest path,train
+3656,train,train
+3657,forest path,test
+3658,city center,train
+3659,residential area,train
+3660,car,train
+3661,library,train
+3662,cafe/restaurant,train
+3663,metro station,train
+3664,cafe/restaurant,train
+3665,car,train
+3666,beach,train
+3667,park,train
+3668,beach,train
+3669,train,train
+3670,library,test
+3671,home,train
+3672,forest path,train
+3673,office,train
+3674,cafe/restaurant,train
+3675,cafe/restaurant,test
+3676,residential area,test
+3677,library,test
+3678,city center,test
+3679,metro station,test
+3680,beach,train
+3681,tram,train
+3682,office,train
+3683,park,train
+3684,grocery store,test
+3685,park,test
+3686,forest path,train
+3687,cafe/restaurant,test
+3688,tram,train
+3689,beach,train
+3690,park,train
+3691,home,test
+3692,home,train
+3693,train,test
+3694,office,test
+3695,grocery store,train
+3696,beach,train
+3697,beach,test
+3698,grocery store,test
+3699,forest path,train
+3700,car,train
+3701,beach,train
+3702,office,test
+3703,office,train
+3704,cafe/restaurant,train
+3705,office,test
+3706,forest path,train
+3707,train,train
+3708,grocery store,train
+3709,grocery store,test
+3710,beach,train
+3711,home,train
+3712,beach,test
+3713,car,train
+3714,park,test
+3715,residential area,train
+3716,metro station,train
+3717,office,train
+3718,park,train
+3719,home,test
+3720,cafe/restaurant,train
+3721,bus,train
+3722,car,test
+3723,cafe/restaurant,test
+3724,tram,train
+3725,metro station,test
+3726,home,train
+3727,tram,train
+3728,train,train
+3729,residential area,train
+3730,home,train
+3731,car,test
+3732,grocery store,test
+3733,grocery store,train
+3734,train,train
+3735,forest path,train
+3736,home,test
+3737,beach,train
+3738,train,train
+3739,library,test
+3740,tram,train
+3741,park,train
+3742,library,train
+3743,train,train
+3744,home,train
+3745,library,train
+3746,city center,train
+3747,library,train
+3748,library,train
+3749,bus,train
+3750,car,train
+3751,city center,train
+3752,forest path,test
+3753,car,train
+3754,park,train
+3755,metro station,train
+3756,tram,train
+3757,car,train
+3758,tram,train
+3759,park,train
+3760,residential area,train
+3761,car,test
+3762,train,train
+3763,library,test
+3764,metro station,train
+3765,car,train
+3766,forest path,test
+3767,bus,test
+3768,bus,train
+3769,bus,train
+3770,city center,train
+3771,grocery store,train
+3772,train,train
+3773,forest path,test
+3774,forest path,train
+3775,park,train
+3776,residential area,train
+3777,home,train
+3778,park,test
+3779,grocery store,train
+3780,forest path,train
+3781,grocery store,train
+3782,office,train
+3783,bus,train
+3784,office,train
+3785,bus,train
+3786,city center,train
+3787,city center,train
+3788,bus,train
+3789,park,test
+3790,metro station,test
+3791,beach,train
+3792,car,train
+3793,office,test
+3794,forest path,test
+3795,library,train
+3796,residential area,test
+3797,residential area,train
+3798,metro station,train
+3799,park,train
+3800,park,train
+3801,metro station,train
+3802,home,train
+3803,cafe/restaurant,test
+3804,city center,train
+3805,park,train
+3806,library,train
+3807,office,train
+3808,train,train
+3809,bus,train
+3810,city center,train
+3811,tram,test
+3812,city center,train
+3813,metro station,train
+3814,forest path,train
+3815,bus,train
+3816,forest path,train
+3817,metro station,train
+3818,office,test
+3819,bus,train
+3820,home,test
+3821,grocery store,test
+3822,home,test
+3823,cafe/restaurant,test
+3824,bus,test
+3825,metro station,train
+3826,bus,train
+3827,bus,train
+3828,train,train
+3829,library,train
+3830,cafe/restaurant,train
+3831,library,train
+3832,city center,test
+3833,cafe/restaurant,train
+3834,beach,train
+3835,park,test
+3836,city center,train
+3837,library,train
+3838,library,test
+3839,car,train
+3840,car,train
+3841,home,train
+3842,metro station,train
+3843,residential area,train
+3844,grocery store,test
+3845,forest path,test
+3846,park,test
+3847,beach,train
+3848,library,test
+3849,car,test
+3850,city center,train
+3851,park,train
+3852,home,train
+3853,car,test
+3854,library,train
+3855,residential area,test
+3856,residential area,train
+3857,tram,train
+3858,tram,train
+3859,library,train
+3860,cafe/restaurant,train
+3861,residential area,train
+3862,city center,train
+3863,cafe/restaurant,train
+3864,train,train
+3865,office,train
+3866,park,train
+3867,cafe/restaurant,train
+3868,tram,train
+3869,metro station,train
+3870,library,train
+3871,beach,train
+3872,residential area,train
+3873,office,train
+3874,park,train
+3875,library,train
+3876,metro station,train
+3877,beach,train
+3878,home,test
+3879,tram,train
+3880,office,train
+3881,bus,train
+3882,bus,train
+3883,train,test
+3884,cafe/restaurant,train
+3885,tram,test
+3886,beach,train
+3887,residential area,train
+3888,office,train
+3889,metro station,test
+3890,city center,test
+3891,grocery store,train
+3892,beach,train
+3893,grocery store,train
+3894,beach,train
+3895,bus,train
+3896,grocery store,train
+3897,park,test
+3898,grocery store,test
+3899,cafe/restaurant,test
+3900,train,train
+3901,city center,test
+3902,metro station,train
+3903,cafe/restaurant,train
+3904,residential area,train
+3905,grocery store,train
+3906,train,train
+3907,cafe/restaurant,train
+3908,train,train
+3909,office,train
+3910,park,train
+3911,metro station,train
+3912,city center,train
+3913,city center,train
+3914,park,train
+3915,library,test
+3916,residential area,train
+3917,forest path,test
+3918,forest path,train
+3919,home,train
+3920,tram,test
+3921,car,test
+3922,bus,train
+3923,beach,train
+3924,grocery store,train
+3925,grocery store,test
+3926,metro station,train
+3927,library,train
+3928,metro station,train
+3929,tram,train
+3930,office,test
+3931,bus,train
+3932,city center,test
+3933,tram,train
+3934,library,train
+3935,office,train
+3936,city center,train
+3937,forest path,test
+3938,bus,test
+3939,train,train
+3940,car,train
+3941,home,test
+3942,park,train
+3943,library,train
+3944,cafe/restaurant,train
+3945,metro station,train
+3946,home,train
+3947,home,train
+3948,park,train
+3949,car,test
+3950,metro station,test
+3951,car,train
+3952,car,train
+3953,home,train
+3954,home,test
+3955,residential area,test
+3956,forest path,train
+3957,park,train
+3958,home,test
+3959,city center,train
+3960,metro station,train
+3961,bus,train
+3962,car,train
+3963,grocery store,test
+3964,library,train
+3965,office,train
+3966,tram,train
+3967,residential area,train
+3968,bus,train
+3969,car,test
+3970,train,test
+3971,home,train
+3972,residential area,train
+3973,beach,train
+3974,beach,test
+3975,forest path,train
+3976,metro station,train
+3977,train,train
+3978,forest path,train
+3979,residential area,train
+3980,tram,test
+3981,grocery store,train
+3982,train,train
+3983,grocery store,test
+3984,residential area,train
+3985,residential area,test
+3986,city center,train
+3987,city center,train
+3988,forest path,train
+3989,library,train
+3990,cafe/restaurant,train
+3991,forest path,train
+3992,forest path,train
+3993,office,train
+3994,park,train
+3995,office,train
+3996,bus,train
+3997,residential area,train
+3998,tram,train
+3999,library,train
+4000,metro station,train
+4001,home,train
+4002,home,test
+4003,train,train
+4004,train,train
+4005,bus,train
+4006,beach,train
+4007,car,train
+4008,tram,test
+4009,beach,train
+4010,metro station,train
+4011,tram,train
+4012,bus,train
+4013,home,test
+4014,city center,train
+4015,train,test
+4016,beach,train
+4017,bus,train
+4018,cafe/restaurant,train
+4019,car,test
+4020,grocery store,test
+4021,train,train
+4022,grocery store,train
+4023,office,train
+4024,city center,train
+4025,forest path,train
+4026,grocery store,test
+4027,residential area,train
+4028,cafe/restaurant,train
+4029,beach,train
+4030,cafe/restaurant,train
+4031,bus,train
+4032,city center,train
+4033,park,train
+4034,home,test
+4035,grocery store,test
+4036,train,train
+4037,tram,train
+4038,tram,test
+4039,grocery store,train
+4040,car,train
+4041,grocery store,test
+4042,park,test
+4043,city center,test
+4044,car,train
+4045,bus,train
+4046,office,train
+4047,car,test
+4048,residential area,train
+4049,beach,train
+4050,grocery store,train
+4051,home,train
+4052,cafe/restaurant,train
+4053,forest path,train
+4054,tram,test
+4055,library,train
+4056,forest path,train
+4057,library,train
+4058,office,train
+4059,tram,train
+4060,grocery store,train
+4061,library,train
+4062,tram,train
+4063,library,train
+4064,bus,test
+4065,library,train
+4066,home,train
+4067,beach,train
+4068,train,train
+4069,forest path,train
+4070,park,train
+4071,office,test
+4072,home,train
+4073,home,test
+4074,park,test
+4075,beach,train
+4076,car,train
+4077,metro station,test
+4078,bus,train
+4079,metro station,train
+4080,bus,train
+4081,residential area,train
+4082,park,train
+4083,grocery store,train
+4084,city center,train
+4085,forest path,train
+4086,beach,train
+4087,home,train
+4088,office,train
+4089,home,test
+4090,park,train
+4091,train,train
+4092,bus,train
+4093,home,train
+4094,office,train
+4095,park,train
+4096,train,train
+4097,residential area,train
+4098,cafe/restaurant,train
+4099,city center,test
+4100,beach,train
+4101,park,test
+4102,residential area,train
+4103,city center,train
+4104,tram,train
+4105,grocery store,train
+4106,park,train
+4107,bus,train
+4108,bus,train
+4109,library,test
+4110,tram,train
+4111,home,train
+4112,tram,test
+4113,car,train
+4114,cafe/restaurant,train
+4115,beach,test
+4116,library,train
+4117,train,test
+4118,park,train
+4119,park,test
+4120,office,test
+4121,train,train
+4122,metro station,train
+4123,tram,train
+4124,bus,train
+4125,residential area,train
+4126,park,train
+4127,cafe/restaurant,train
+4128,park,test
+4129,office,train
+4130,home,train
+4131,home,train
+4132,car,train
+4133,metro station,train
+4134,park,train
+4135,bus,train
+4136,library,train
+4137,beach,train
+4138,train,train
+4139,beach,train
+4140,grocery store,train
+4141,library,test
+4142,park,test
+4143,tram,train
+4144,cafe/restaurant,train
+4145,home,train
+4146,forest path,train
+4147,cafe/restaurant,train
+4148,beach,train
+4149,park,train
+4150,train,test
+4151,residential area,train
+4152,bus,train
+4153,cafe/restaurant,train
+4154,train,train
+4155,grocery store,test
+4156,train,train
+4157,residential area,train
+4158,office,train
+4159,tram,train
+4160,residential area,train
+4161,office,test
+4162,forest path,train
+4163,train,train
+4164,cafe/restaurant,train
+4165,car,test
+4166,park,train
+4167,grocery store,test
+4168,home,test
+4169,forest path,train
+4170,train,train
+4171,forest path,train
+4172,city center,train
+4173,metro station,test
+4174,office,train
+4175,home,train
+4176,city center,train
+4177,tram,test
+4178,city center,train
+4179,city center,test
+4180,office,train
+4181,grocery store,train
+4182,tram,train
+4183,train,test
+4184,beach,train
+4185,metro station,test
+4186,forest path,train
+4187,car,train
+4188,car,train
+4189,city center,train
+4190,home,train
+4191,grocery store,train
+4192,forest path,train
+4193,home,train
+4194,library,train
+4195,residential area,train
+4196,office,test
+4197,car,train
+4198,train,train
+4199,city center,train
+4200,tram,test
+4201,bus,test
+4202,tram,test
+4203,metro station,train
+4204,metro station,train
+4205,metro station,train
+4206,office,train
+4207,office,train
+4208,tram,train
+4209,cafe/restaurant,train
+4210,bus,test
+4211,metro station,test
+4212,tram,test
+4213,bus,train
+4214,home,train
+4215,library,train
+4216,car,train
+4217,beach,train
+4218,car,test
+4219,metro station,train
+4220,car,test
+4221,residential area,train
+4222,home,test
+4223,city center,test
+4224,residential area,train
+4225,metro station,train
+4226,park,train
+4227,home,train
+4228,metro station,train
+4229,tram,train
+4230,city center,test
+4231,tram,train
+4232,cafe/restaurant,test
+4233,residential area,train
+4234,library,train
+4235,cafe/restaurant,test
+4236,residential area,train
+4237,office,test
+4238,beach,train
+4239,cafe/restaurant,train
+4240,metro station,train
+4241,cafe/restaurant,train
+4242,metro station,train
+4243,grocery store,test
+4244,park,train
+4245,train,train
+4246,park,test
+4247,residential area,train
+4248,beach,test
+4249,train,train
+4250,park,train
+4251,residential area,test
+4252,cafe/restaurant,train
+4253,train,test
+4254,city center,train
+4255,cafe/restaurant,train
+4256,car,train
+4257,forest path,train
+4258,bus,train
+4259,city center,train
+4260,forest path,train
+4261,city center,train
+4262,home,train
+4263,grocery store,test
+4264,cafe/restaurant,train
+4265,bus,test
+4266,beach,test
+4267,cafe/restaurant,train
+4268,library,test
+4269,beach,train
+4270,forest path,train
+4271,bus,test
+4272,beach,train
+4273,bus,train
+4274,residential area,train
+4275,tram,train
+4276,cafe/restaurant,train
+4277,tram,train
+4278,train,train
+4279,train,train
+4280,park,train
+4281,tram,test
+4282,beach,test
+4283,office,test
+4284,library,train
+4285,forest path,test
+4286,bus,train
+4287,city center,train
+4288,bus,train
+4289,metro station,train
+4290,train,test
+4291,office,train
+4292,park,train
+4293,car,test
+4294,park,train
+4295,park,train
+4296,beach,train
+4297,metro station,test
+4298,city center,train
+4299,forest path,train
+4300,beach,train
+4301,train,test
+4302,tram,test
+4303,metro station,train
+4304,metro station,test
+4305,tram,test
+4306,beach,train
+4307,city center,train
+4308,home,train
+4309,car,train
+4310,office,train
+4311,metro station,train
+4312,forest path,train
+4313,residential area,train
+4314,train,train
+4315,tram,test
+4316,home,test
+4317,tram,test
+4318,cafe/restaurant,train
+4319,office,test
+4320,residential area,train
+4321,grocery store,train
+4322,car,train
+4323,grocery store,train
+4324,office,train
+4325,office,train
+4326,city center,test
+4327,park,train
+4328,cafe/restaurant,train
+4329,car,train
+4330,residential area,train
+4331,park,train
+4332,beach,train
+4333,city center,train
+4334,grocery store,train
+4335,train,test
+4336,car,train
+4337,park,train
+4338,tram,train
+4339,metro station,test
+4340,car,train
+4341,forest path,train
+4342,home,test
+4343,city center,test
+4344,city center,train
+4345,bus,train
+4346,metro station,test
+4347,home,train
+4348,library,train
+4349,metro station,test
+4350,train,test
+4351,park,test
+4352,grocery store,train
+4353,grocery store,test
+4354,library,train
+4355,grocery store,test
+4356,library,test
+4357,grocery store,train
+4358,park,train
+4359,bus,train
+4360,car,train
+4361,grocery store,train
+4362,train,train
+4363,bus,train
+4364,cafe/restaurant,train
+4365,grocery store,train
+4366,office,train
+4367,residential area,test
+4368,residential area,train
+4369,bus,train
+4370,cafe/restaurant,train
+4371,cafe/restaurant,train
+4372,forest path,test
+4373,park,train
+4374,residential area,test
+4375,park,test
+4376,library,train
+4377,home,test
+4378,train,train
+4379,home,train
+4380,grocery store,train
+4381,cafe/restaurant,train
+4382,residential area,train
+4383,metro station,train
+4384,residential area,test
+4385,park,test
+4386,home,train
+4387,park,train
+4388,beach,test
+4389,cafe/restaurant,test
+4390,grocery store,train
+4391,office,train
+4392,cafe/restaurant,train
+4393,bus,train
+4394,bus,train
+4395,forest path,train
+4396,car,train
+4397,office,test
+4398,library,test
+4399,cafe/restaurant,train
+4400,beach,train
+4401,cafe/restaurant,train
+4402,forest path,train
+4403,bus,train
+4404,residential area,test
+4405,beach,train
+4406,metro station,test
+4407,tram,train
+4408,library,train
+4409,beach,train
+4410,home,test
+4411,car,test
+4412,library,train
+4413,office,train
+4414,city center,test
+4415,tram,test
+4416,train,train
+4417,beach,train
+4418,beach,train
+4419,car,train
+4420,library,test
+4421,residential area,train
+4422,beach,train
+4423,city center,test
+4424,bus,train
+4425,park,test
+4426,train,train
+4427,office,test
+4428,forest path,train
+4429,bus,train
+4430,library,train
+4431,library,test
+4432,bus,train
+4433,car,train
+4434,tram,train
+4435,home,test
+4436,library,train
+4437,library,train
+4438,park,test
+4439,city center,train
+4440,park,train
+4441,grocery store,train
+4442,beach,train
+4443,forest path,train
+4444,residential area,train
+4445,beach,train
+4446,metro station,train
+4447,forest path,train
+4448,tram,train
+4449,office,train
+4450,library,test
+4451,office,train
+4452,home,train
+4453,bus,train
+4454,office,train
+4455,metro station,train
+4456,city center,test
+4457,beach,test
+4458,bus,train
+4459,residential area,train
+4460,metro station,train
+4461,bus,train
+4462,tram,train
+4463,car,train
+4464,residential area,train
+4465,beach,train
+4466,office,train
+4467,city center,train
+4468,train,train
+4469,office,train
+4470,library,test
+4471,residential area,train
+4472,office,test
+4473,forest path,test
+4474,cafe/restaurant,train
+4475,office,train
+4476,tram,train
+4477,residential area,train
+4478,city center,test
+4479,tram,train
+4480,residential area,test
+4481,city center,train
+4482,beach,train
+4483,home,train
+4484,cafe/restaurant,train
+4485,cafe/restaurant,train
+4486,grocery store,train
+4487,bus,test
+4488,beach,train
+4489,home,train
+4490,home,train
+4491,office,train
+4492,tram,train
+4493,bus,train
+4494,tram,train
+4495,residential area,train
+4496,city center,train
+4497,forest path,train
+4498,grocery store,train
+4499,park,train

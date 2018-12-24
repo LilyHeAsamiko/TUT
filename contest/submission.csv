@@ -1,0 +1,1233 @@
+Id,Scene_label
+0,library
+1,forest path
+2,forest path
+3,train
+4,forest path
+5,park
+6,forest path
+7,residential area
+8,park
+9,bus
+10,cafe/restaurant
+11,metro station
+12,grocery store
+13,bus
+14,office
+15,home
+16,tram
+17,cafe/restaurant
+18,metro station
+19,library
+20,train
+21,residential area
+22,park
+23,tram
+24,residential area
+25,beach
+26,residential area
+27,home
+28,train
+29,home
+30,residential area
+31,office
+32,library
+33,forest path
+34,beach
+35,park
+36,home
+37,forest path
+38,tram
+39,cafe/restaurant
+40,bus
+41,park
+42,cafe/restaurant
+43,residential area
+44,library
+45,train
+46,library
+47,cafe/restaurant
+48,home
+49,metro station
+50,grocery store
+51,grocery store
+52,tram
+53,grocery store
+54,bus
+55,car
+56,home
+57,residential area
+58,train
+59,city center
+60,beach
+61,car
+62,grocery store
+63,cafe/restaurant
+64,beach
+65,office
+66,forest path
+67,train
+68,cafe/restaurant
+69,forest path
+70,tram
+71,grocery store
+72,home
+73,metro station
+74,forest path
+75,metro station
+76,beach
+77,beach
+78,office
+79,grocery store
+80,grocery store
+81,bus
+82,train
+83,home
+84,home
+85,office
+86,park
+87,metro station
+88,car
+89,car
+90,beach
+91,home
+92,train
+93,park
+94,home
+95,city center
+96,home
+97,cafe/restaurant
+98,residential area
+99,forest path
+100,park
+101,tram
+102,library
+103,forest path
+104,grocery store
+105,city center
+106,residential area
+107,metro station
+108,forest path
+109,beach
+110,cafe/restaurant
+111,metro station
+112,library
+113,park
+114,car
+115,city center
+116,city center
+117,city center
+118,cafe/restaurant
+119,cafe/restaurant
+120,beach
+121,beach
+122,home
+123,beach
+124,forest path
+125,home
+126,city center
+127,tram
+128,beach
+129,beach
+130,bus
+131,grocery store
+132,beach
+133,residential area
+134,metro station
+135,office
+136,office
+137,home
+138,train
+139,beach
+140,train
+141,home
+142,home
+143,park
+144,car
+145,car
+146,car
+147,cafe/restaurant
+148,train
+149,beach
+150,library
+151,train
+152,park
+153,tram
+154,park
+155,bus
+156,home
+157,home
+158,park
+159,residential area
+160,home
+161,forest path
+162,home
+163,train
+164,beach
+165,car
+166,beach
+167,residential area
+168,residential area
+169,cafe/restaurant
+170,park
+171,home
+172,city center
+173,library
+174,park
+175,car
+176,residential area
+177,city center
+178,car
+179,tram
+180,city center
+181,library
+182,metro station
+183,residential area
+184,home
+185,library
+186,bus
+187,library
+188,beach
+189,library
+190,train
+191,cafe/restaurant
+192,park
+193,beach
+194,residential area
+195,train
+196,car
+197,beach
+198,park
+199,beach
+200,home
+201,tram
+202,city center
+203,city center
+204,car
+205,tram
+206,city center
+207,bus
+208,office
+209,metro station
+210,residential area
+211,metro station
+212,metro station
+213,car
+214,metro station
+215,office
+216,car
+217,library
+218,library
+219,train
+220,grocery store
+221,grocery store
+222,metro station
+223,residential area
+224,car
+225,metro station
+226,car
+227,beach
+228,cafe/restaurant
+229,forest path
+230,tram
+231,city center
+232,train
+233,metro station
+234,park
+235,city center
+236,residential area
+237,office
+238,tram
+239,residential area
+240,car
+241,bus
+242,residential area
+243,train
+244,bus
+245,beach
+246,residential area
+247,car
+248,cafe/restaurant
+249,cafe/restaurant
+250,bus
+251,bus
+252,tram
+253,city center
+254,city center
+255,library
+256,tram
+257,office
+258,beach
+259,bus
+260,library
+261,library
+262,metro station
+263,car
+264,bus
+265,city center
+266,car
+267,city center
+268,residential area
+269,tram
+270,forest path
+271,metro station
+272,metro station
+273,beach
+274,beach
+275,beach
+276,residential area
+277,beach
+278,forest path
+279,park
+280,metro station
+281,residential area
+282,office
+283,home
+284,metro station
+285,bus
+286,city center
+287,beach
+288,park
+289,beach
+290,library
+291,grocery store
+292,residential area
+293,forest path
+294,city center
+295,home
+296,bus
+297,city center
+298,park
+299,city center
+300,car
+301,beach
+302,residential area
+303,forest path
+304,cafe/restaurant
+305,park
+306,office
+307,metro station
+308,grocery store
+309,forest path
+310,bus
+311,home
+312,forest path
+313,tram
+314,forest path
+315,park
+316,car
+317,office
+318,metro station
+319,city center
+320,library
+321,train
+322,bus
+323,residential area
+324,office
+325,beach
+326,library
+327,city center
+328,train
+329,tram
+330,beach
+331,car
+332,residential area
+333,car
+334,train
+335,residential area
+336,forest path
+337,beach
+338,tram
+339,train
+340,city center
+341,forest path
+342,library
+343,tram
+344,cafe/restaurant
+345,home
+346,metro station
+347,forest path
+348,train
+349,park
+350,city center
+351,library
+352,tram
+353,tram
+354,beach
+355,beach
+356,forest path
+357,bus
+358,grocery store
+359,bus
+360,metro station
+361,library
+362,beach
+363,tram
+364,metro station
+365,train
+366,beach
+367,bus
+368,library
+369,car
+370,city center
+371,library
+372,car
+373,car
+374,residential area
+375,car
+376,park
+377,park
+378,library
+379,forest path
+380,bus
+381,tram
+382,bus
+383,park
+384,cafe/restaurant
+385,cafe/restaurant
+386,city center
+387,metro station
+388,beach
+389,residential area
+390,train
+391,city center
+392,bus
+393,library
+394,library
+395,car
+396,forest path
+397,library
+398,car
+399,home
+400,city center
+401,tram
+402,home
+403,beach
+404,beach
+405,park
+406,library
+407,park
+408,beach
+409,park
+410,tram
+411,residential area
+412,train
+413,metro station
+414,beach
+415,residential area
+416,tram
+417,city center
+418,train
+419,home
+420,home
+421,library
+422,office
+423,residential area
+424,office
+425,city center
+426,park
+427,forest path
+428,forest path
+429,forest path
+430,cafe/restaurant
+431,beach
+432,home
+433,park
+434,residential area
+435,cafe/restaurant
+436,beach
+437,grocery store
+438,library
+439,forest path
+440,car
+441,tram
+442,car
+443,forest path
+444,office
+445,cafe/restaurant
+446,office
+447,residential area
+448,car
+449,train
+450,tram
+451,home
+452,metro station
+453,bus
+454,office
+455,metro station
+456,car
+457,park
+458,tram
+459,metro station
+460,tram
+461,forest path
+462,library
+463,beach
+464,library
+465,car
+466,forest path
+467,metro station
+468,residential area
+469,city center
+470,bus
+471,train
+472,cafe/restaurant
+473,home
+474,library
+475,bus
+476,tram
+477,office
+478,cafe/restaurant
+479,home
+480,beach
+481,library
+482,metro station
+483,residential area
+484,tram
+485,home
+486,forest path
+487,tram
+488,cafe/restaurant
+489,train
+490,train
+491,home
+492,home
+493,bus
+494,grocery store
+495,cafe/restaurant
+496,library
+497,train
+498,city center
+499,library
+500,forest path
+501,library
+502,city center
+503,library
+504,train
+505,cafe/restaurant
+506,train
+507,home
+508,grocery store
+509,residential area
+510,bus
+511,city center
+512,forest path
+513,city center
+514,cafe/restaurant
+515,cafe/restaurant
+516,library
+517,home
+518,library
+519,park
+520,library
+521,forest path
+522,bus
+523,library
+524,home
+525,forest path
+526,home
+527,beach
+528,forest path
+529,city center
+530,city center
+531,train
+532,metro station
+533,tram
+534,grocery store
+535,office
+536,train
+537,car
+538,car
+539,car
+540,home
+541,bus
+542,beach
+543,train
+544,cafe/restaurant
+545,car
+546,metro station
+547,library
+548,car
+549,metro station
+550,park
+551,grocery store
+552,metro station
+553,library
+554,park
+555,bus
+556,cafe/restaurant
+557,library
+558,tram
+559,car
+560,car
+561,beach
+562,bus
+563,city center
+564,cafe/restaurant
+565,train
+566,residential area
+567,city center
+568,metro station
+569,residential area
+570,beach
+571,tram
+572,residential area
+573,home
+574,office
+575,metro station
+576,park
+577,grocery store
+578,metro station
+579,cafe/restaurant
+580,park
+581,tram
+582,grocery store
+583,residential area
+584,bus
+585,tram
+586,metro station
+587,metro station
+588,train
+589,metro station
+590,bus
+591,cafe/restaurant
+592,train
+593,tram
+594,library
+595,home
+596,tram
+597,city center
+598,beach
+599,bus
+600,city center
+601,bus
+602,grocery store
+603,park
+604,metro station
+605,beach
+606,city center
+607,beach
+608,beach
+609,residential area
+610,cafe/restaurant
+611,metro station
+612,home
+613,metro station
+614,library
+615,residential area
+616,forest path
+617,home
+618,library
+619,beach
+620,home
+621,cafe/restaurant
+622,metro station
+623,library
+624,train
+625,train
+626,library
+627,metro station
+628,library
+629,beach
+630,cafe/restaurant
+631,beach
+632,home
+633,car
+634,bus
+635,tram
+636,city center
+637,home
+638,park
+639,cafe/restaurant
+640,car
+641,beach
+642,bus
+643,tram
+644,library
+645,train
+646,city center
+647,metro station
+648,home
+649,park
+650,bus
+651,beach
+652,residential area
+653,forest path
+654,home
+655,car
+656,bus
+657,beach
+658,residential area
+659,tram
+660,car
+661,city center
+662,beach
+663,bus
+664,train
+665,bus
+666,cafe/restaurant
+667,tram
+668,tram
+669,car
+670,city center
+671,cafe/restaurant
+672,car
+673,city center
+674,home
+675,beach
+676,city center
+677,bus
+678,city center
+679,bus
+680,train
+681,train
+682,cafe/restaurant
+683,beach
+684,cafe/restaurant
+685,forest path
+686,cafe/restaurant
+687,forest path
+688,city center
+689,forest path
+690,train
+691,bus
+692,residential area
+693,city center
+694,train
+695,beach
+696,cafe/restaurant
+697,city center
+698,residential area
+699,city center
+700,train
+701,grocery store
+702,city center
+703,cafe/restaurant
+704,home
+705,forest path
+706,bus
+707,park
+708,library
+709,city center
+710,car
+711,bus
+712,bus
+713,residential area
+714,beach
+715,office
+716,forest path
+717,forest path
+718,park
+719,metro station
+720,beach
+721,home
+722,cafe/restaurant
+723,forest path
+724,park
+725,home
+726,residential area
+727,library
+728,residential area
+729,grocery store
+730,park
+731,cafe/restaurant
+732,library
+733,train
+734,car
+735,home
+736,home
+737,metro station
+738,residential area
+739,residential area
+740,cafe/restaurant
+741,bus
+742,park
+743,cafe/restaurant
+744,cafe/restaurant
+745,city center
+746,metro station
+747,home
+748,library
+749,cafe/restaurant
+750,tram
+751,library
+752,forest path
+753,home
+754,library
+755,home
+756,city center
+757,library
+758,train
+759,train
+760,bus
+761,park
+762,home
+763,park
+764,beach
+765,metro station
+766,bus
+767,beach
+768,forest path
+769,train
+770,beach
+771,metro station
+772,bus
+773,residential area
+774,car
+775,forest path
+776,park
+777,tram
+778,office
+779,office
+780,tram
+781,forest path
+782,forest path
+783,beach
+784,bus
+785,train
+786,park
+787,car
+788,car
+789,home
+790,city center
+791,beach
+792,forest path
+793,bus
+794,office
+795,park
+796,bus
+797,metro station
+798,library
+799,car
+800,forest path
+801,train
+802,library
+803,forest path
+804,grocery store
+805,metro station
+806,metro station
+807,tram
+808,cafe/restaurant
+809,beach
+810,library
+811,metro station
+812,city center
+813,residential area
+814,tram
+815,home
+816,cafe/restaurant
+817,forest path
+818,library
+819,residential area
+820,city center
+821,home
+822,tram
+823,park
+824,library
+825,forest path
+826,bus
+827,forest path
+828,train
+829,park
+830,residential area
+831,metro station
+832,metro station
+833,grocery store
+834,cafe/restaurant
+835,metro station
+836,cafe/restaurant
+837,bus
+838,office
+839,metro station
+840,cafe/restaurant
+841,office
+842,metro station
+843,metro station
+844,metro station
+845,bus
+846,metro station
+847,tram
+848,forest path
+849,bus
+850,bus
+851,bus
+852,metro station
+853,library
+854,library
+855,home
+856,metro station
+857,home
+858,tram
+859,train
+860,train
+861,cafe/restaurant
+862,park
+863,bus
+864,forest path
+865,metro station
+866,park
+867,tram
+868,forest path
+869,metro station
+870,park
+871,library
+872,train
+873,office
+874,train
+875,residential area
+876,car
+877,office
+878,tram
+879,beach
+880,park
+881,cafe/restaurant
+882,office
+883,park
+884,city center
+885,bus
+886,forest path
+887,city center
+888,bus
+889,park
+890,city center
+891,home
+892,grocery store
+893,city center
+894,car
+895,car
+896,tram
+897,car
+898,park
+899,tram
+900,residential area
+901,train
+902,car
+903,bus
+904,cafe/restaurant
+905,metro station
+906,bus
+907,home
+908,office
+909,residential area
+910,car
+911,train
+912,train
+913,train
+914,metro station
+915,cafe/restaurant
+916,car
+917,tram
+918,grocery store
+919,home
+920,cafe/restaurant
+921,residential area
+922,car
+923,bus
+924,grocery store
+925,city center
+926,office
+927,grocery store
+928,beach
+929,metro station
+930,home
+931,metro station
+932,forest path
+933,cafe/restaurant
+934,beach
+935,beach
+936,library
+937,tram
+938,park
+939,forest path
+940,grocery store
+941,train
+942,city center
+943,forest path
+944,beach
+945,library
+946,home
+947,grocery store
+948,grocery store
+949,beach
+950,beach
+951,metro station
+952,beach
+953,car
+954,bus
+955,home
+956,city center
+957,office
+958,library
+959,cafe/restaurant
+960,home
+961,park
+962,train
+963,train
+964,home
+965,grocery store
+966,park
+967,home
+968,grocery store
+969,car
+970,grocery store
+971,grocery store
+972,bus
+973,city center
+974,bus
+975,residential area
+976,forest path
+977,home
+978,metro station
+979,library
+980,grocery store
+981,forest path
+982,forest path
+983,forest path
+984,library
+985,home
+986,park
+987,train
+988,forest path
+989,library
+990,bus
+991,library
+992,park
+993,library
+994,cafe/restaurant
+995,train
+996,residential area
+997,library
+998,train
+999,residential area
+1000,home
+1001,cafe/restaurant
+1002,train
+1003,park
+1004,home
+1005,bus
+1006,tram
+1007,cafe/restaurant
+1008,beach
+1009,beach
+1010,park
+1011,bus
+1012,library
+1013,tram
+1014,home
+1015,forest path
+1016,library
+1017,cafe/restaurant
+1018,residential area
+1019,home
+1020,city center
+1021,metro station
+1022,grocery store
+1023,park
+1024,cafe/restaurant
+1025,home
+1026,train
+1027,library
+1028,beach
+1029,city center
+1030,library
+1031,office
+1032,grocery store
+1033,library
+1034,park
+1035,home
+1036,car
+1037,cafe/restaurant
+1038,cafe/restaurant
+1039,car
+1040,grocery store
+1041,home
+1042,library
+1043,residential area
+1044,home
+1045,library
+1046,forest path
+1047,bus
+1048,forest path
+1049,residential area
+1050,park
+1051,metro station
+1052,office
+1053,forest path
+1054,residential area
+1055,park
+1056,tram
+1057,office
+1058,home
+1059,beach
+1060,home
+1061,cafe/restaurant
+1062,train
+1063,city center
+1064,park
+1065,library
+1066,beach
+1067,forest path
+1068,park
+1069,library
+1070,car
+1071,car
+1072,residential area
+1073,home
+1074,train
+1075,tram
+1076,library
+1077,city center
+1078,park
+1079,beach
+1080,cafe/restaurant
+1081,city center
+1082,library
+1083,home
+1084,bus
+1085,car
+1086,park
+1087,office
+1088,city center
+1089,library
+1090,bus
+1091,home
+1092,car
+1093,metro station
+1094,home
+1095,residential area
+1096,home
+1097,grocery store
+1098,tram
+1099,cafe/restaurant
+1100,beach
+1101,tram
+1102,beach
+1103,beach
+1104,home
+1105,bus
+1106,home
+1107,train
+1108,bus
+1109,grocery store
+1110,grocery store
+1111,home
+1112,grocery store
+1113,bus
+1114,grocery store
+1115,forest path
+1116,city center
+1117,car
+1118,car
+1119,bus
+1120,home
+1121,home
+1122,park
+1123,library
+1124,metro station
+1125,city center
+1126,park
+1127,library
+1128,tram
+1129,beach
+1130,city center
+1131,residential area
+1132,office
+1133,residential area
+1134,library
+1135,residential area
+1136,car
+1137,beach
+1138,home
+1139,car
+1140,grocery store
+1141,home
+1142,metro station
+1143,tram
+1144,city center
+1145,train
+1146,metro station
+1147,home
+1148,tram
+1149,bus
+1150,tram
+1151,bus
+1152,city center
+1153,tram
+1154,car
+1155,bus
+1156,home
+1157,city center
+1158,city center
+1159,cafe/restaurant
+1160,cafe/restaurant
+1161,office
+1162,grocery store
+1163,residential area
+1164,beach
+1165,residential area
+1166,train
+1167,residential area
+1168,bus
+1169,beach
+1170,library
+1171,bus
+1172,tram
+1173,beach
+1174,office
+1175,residential area
+1176,tram
+1177,car
+1178,metro station
+1179,train
+1180,tram
+1181,metro station
+1182,bus
+1183,bus
+1184,park
+1185,tram
+1186,library
+1187,city center
+1188,tram
+1189,metro station
+1190,library
+1191,city center
+1192,metro station
+1193,metro station
+1194,cafe/restaurant
+1195,residential area
+1196,grocery store
+1197,grocery store
+1198,library
+1199,city center
+1200,home
+1201,residential area
+1202,residential area
+1203,home
+1204,residential area
+1205,park
+1206,beach
+1207,cafe/restaurant
+1208,office
+1209,library
+1210,city center
+1211,metro station
+1212,home
+1213,car
+1214,city center
+1215,tram
+1216,library
+1217,city center
+1218,forest path
+1219,office
+1220,library
+1221,home
+1222,park
+1223,library
+1224,city center
+1225,beach
+1226,library
+1227,library
+1228,forest path
+1229,city center
+1230,residential area
+1231,bus
